@@ -1,0 +1,35 @@
+[
+  {
+    "scuola": {
+      "codice": "BAIS001",
+      "nome": "Istituto Comprensivo Giovanni XXIII",
+      "descrizione": "Scuola primaria e secondaria di primo grado con indirizzo linguistico.",
+      "indirizzo": "Via Roma 12, 70043 Monopoli (BA)",
+      "preside": "Maria Rossi",
+      "sitoweb": "https://www.icgiovannixxiii.edu.it",
+      "dominioservizi": "https://servizi.icgiovannixxiii.edu.it"
+    }
+  },
+  {
+    "scuola": {
+      "codice": "BAIS002",
+      "nome": "Liceo Scientifico Galileo Galilei",
+      "descrizione": "Liceo scientifico con potenziamento informatico e STEM.",
+      "indirizzo": "Via Dante 45, 70121 Bari (BA)",
+      "preside": "Luigi Bianchi",
+      "sitoweb": "https://www.liceogalileibari.edu.it",
+      "dominioservizi": "https://servizi.liceogalileibari.edu.it"
+    }
+  },
+  {
+    "scuola": {
+      "codice": "TAIS003",
+      "nome": "Istituto Tecnico Industriale Enrico Fermi",
+      "descrizione": "Istituto tecnico con indirizzi elettronica, meccanica e informatica.",
+      "indirizzo": "Corso Italia 88, 74123 Taranto (TA)",
+      "preside": "Giovanna Verdi",
+      "sitoweb": "https://www.itifermi.edu.it",
+      "dominioservizi": "https://servizi.itifermi.edu.it"
+    }
+  }
+]
