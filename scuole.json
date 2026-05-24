@@ -7,7 +7,21 @@
       "indirizzo": "Via Roma 12, 70043 Monopoli (BA)",
       "preside": "Maria Rossi",
       "sitoweb": "https://www.icgiovannixxiii.edu.it",
-      "dominioservizi": "https://servizi.icgiovannixxiii.edu.it"
+      "dominioservizi": "https://servizi.icgiovannixxiii.edu.it",
+      "classi": [
+        {
+          "codice": "1A",
+          "anno": 1,
+          "sezione": "A",
+          "indirizzo": "Linguistico"
+        },
+        {
+          "codice": "2B",
+          "anno": 2,
+          "sezione": "B",
+          "indirizzo": "Scientifico"
+        }
+      ]
     }
   },
   {
@@ -18,7 +32,21 @@
       "indirizzo": "Via Dante 45, 70121 Bari (BA)",
       "preside": "Luigi Bianchi",
       "sitoweb": "https://www.liceogalileibari.edu.it",
-      "dominioservizi": "https://servizi.liceogalileibari.edu.it"
+      "dominioservizi": "https://servizi.liceogalileibari.edu.it",
+      "classi": [
+        {
+          "codice": "3A",
+          "anno": 3,
+          "sezione": "A",
+          "indirizzo": "STEM"
+        },
+        {
+          "codice": "5C",
+          "anno": 5,
+          "sezione": "C",
+          "indirizzo": "Tradizionale"
+        }
+      ]
     }
   },
   {
@@ -29,7 +57,21 @@
       "indirizzo": "Corso Italia 88, 74123 Taranto (TA)",
       "preside": "Giovanna Verdi",
       "sitoweb": "https://www.itifermi.edu.it",
-      "dominioservizi": "https://servizi.itifermi.edu.it"
+      "dominioservizi": "https://servizi.itifermi.edu.it",
+      "classi": [
+        {
+          "codice": "4INF",
+          "anno": 4,
+          "sezione": "INF",
+          "indirizzo": "Informatica"
+        },
+        {
+          "codice": "5ELE",
+          "anno": 5,
+          "sezione": "ELE",
+          "indirizzo": "Elettronica"
+        }
+      ]
     }
   }
 ]
