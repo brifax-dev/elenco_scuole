@@ -70,4 +70,8 @@
     "giocatori" : "9"
 },{ "gioco" : "Little Secret",
     "giocatori" : "9"
+},{ "gioco" : "Sfida lo Squalo",
+    "giocatori" : "4"
+},{ "gioco" : "Gastone Testone",
+    "giocatori" : "4"
 }]
