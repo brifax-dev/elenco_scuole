@@ -13,7 +13,8 @@
         "codice": "9353/speedy-smith",
         "crediti": 1,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "G",
@@ -21,7 +22,8 @@
         "codice": "9009/aljami-durham",
         "crediti": 5,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "G",
@@ -29,7 +31,8 @@
         "codice": "969/alessandro-cappelletti",
         "crediti": 30,
         "riconfermato": true,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "si"
       },
       {
         "ruolo": "G",
@@ -37,7 +40,8 @@
         "codice": "821/lorenzo-bucarelli",
         "crediti": 1,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "si"
       },
       {
         "ruolo": "GA",
@@ -45,7 +49,8 @@
         "codice": "314/jaylen-barford",
         "crediti": 5,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "GA",
@@ -53,7 +58,8 @@
         "codice": "4268/andrea-pecchia",
         "crediti": 1,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "si"
       },
       {
         "ruolo": "A",
@@ -61,7 +67,8 @@
         "codice": "9335/isaiah-roby",
         "crediti": 44,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "A",
@@ -69,7 +76,8 @@
         "codice": "854/jason-burnell",
         "crediti": 5,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "A",
@@ -77,7 +85,8 @@
         "codice": "9362/louis-olinde",
         "crediti": 1,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "A",
@@ -85,7 +94,8 @@
         "codice": "9026/andrej-jakimovski",
         "crediti": 51,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "si"
       },
       {
         "ruolo": "A",
@@ -93,7 +103,8 @@
         "codice": "7132/francesco-ferrari",
         "crediti": 1,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "si"
       },
       {
         "ruolo": "AC",
@@ -101,7 +112,8 @@
         "codice": "9139/jt-thor",
         "crediti": 43,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "C",
@@ -109,7 +121,8 @@
         "codice": "9021/nick-mcglynn",
         "crediti": 59,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "C",
@@ -117,7 +130,8 @@
         "codice": "6653/skylar-spencer",
         "crediti": 11,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "C",
@@ -125,7 +139,8 @@
         "codice": "7449/selom-mawugbe",
         "crediti": 11,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       }
     ]
   },
@@ -143,7 +158,8 @@
         "codice": "9351/dante-maddox",
         "crediti": 58,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "G",
@@ -151,7 +167,8 @@
         "codice": "9380/gerald-ayayi",
         "crediti": 5,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "G",
@@ -159,7 +176,8 @@
         "codice": "9388/garrison-mathews",
         "crediti": 1,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "G",
@@ -167,7 +185,8 @@
         "codice": "6993/langston-galloway",
         "crediti": 1,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "G",
@@ -175,7 +194,8 @@
         "codice": "274/tommaso-baldasso",
         "crediti": 1,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "si"
       },
       {
         "ruolo": "GA",
@@ -183,7 +203,8 @@
         "codice": "9329/charles-brown",
         "crediti": 56,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "GA",
@@ -191,7 +212,8 @@
         "codice": "6191/jp-macura",
         "crediti": 5,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "GA",
@@ -199,7 +221,8 @@
         "codice": "3880/riccardo-moraschini",
         "crediti": 5,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "si"
       },
       {
         "ruolo": "GA",
@@ -207,7 +230,8 @@
         "codice": "76/mirza-alibegovic",
         "crediti": 5,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "si"
       },
       {
         "ruolo": "GA",
@@ -215,7 +239,8 @@
         "codice": "5823/riccardo-visconti",
         "crediti": 1,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "si"
       },
       {
         "ruolo": "A",
@@ -223,7 +248,8 @@
         "codice": "4214/jordan-parks",
         "crediti": 2,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "A",
@@ -231,7 +257,8 @@
         "codice": "9365/isaiah-miles",
         "crediti": 1,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "C",
@@ -239,7 +266,8 @@
         "codice": "9343/chad-brown",
         "crediti": 31,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "C",
@@ -247,7 +275,8 @@
         "codice": "378/jordan-bayehe",
         "crediti": 30,
         "riconfermato": true,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "si"
       },
       {
         "ruolo": "C",
@@ -255,7 +284,8 @@
         "codice": "6186/guglielmo-caruso",
         "crediti": 1,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "si"
       },
       {
         "ruolo": "C",
@@ -264,7 +294,8 @@
         "crediti": 22,
         "riconfermato": false,
         "stato": "Ceduto",
-        "motivoCessione": "taglio fase di riparazione"
+        "motivoCessione": "taglio fase di riparazione",
+        "italiano": "no"
       }
     ]
   },
@@ -282,7 +313,8 @@
         "codice": "9334/hunter-hale",
         "crediti": 52,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "G",
@@ -290,7 +322,8 @@
         "codice": "9363/glynn-watson",
         "crediti": 2,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "G",
@@ -298,7 +331,8 @@
         "codice": "4879/dewayne-russell",
         "crediti": 5,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "G",
@@ -306,7 +340,8 @@
         "codice": "9342/hassani-gravett",
         "crediti": 1,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "G",
@@ -314,7 +349,8 @@
         "codice": "1617/amedeo-della-valle",
         "crediti": 30,
         "riconfermato": true,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "si"
       },
       {
         "ruolo": "G",
@@ -322,7 +358,8 @@
         "codice": "3526/bruno-mascolo",
         "crediti": 2,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "si"
       },
       {
         "ruolo": "GA",
@@ -330,7 +367,8 @@
         "codice": "7391/denzel-valentine",
         "crediti": 5,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "A",
@@ -338,7 +376,8 @@
         "codice": "9357/jack-white",
         "crediti": 22,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "A",
@@ -346,7 +385,8 @@
         "codice": "9347/mezie-offurum",
         "crediti": 52,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "A",
@@ -354,7 +394,8 @@
         "codice": "425/eimantas-bendzius",
         "crediti": 1,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "A",
@@ -362,7 +403,8 @@
         "codice": "3714/federico-miaschi",
         "crediti": 2,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "si"
       },
       {
         "ruolo": "A",
@@ -370,7 +412,8 @@
         "codice": "5764/giovanni-veronesi",
         "crediti": 2,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "si"
       },
       {
         "ruolo": "C",
@@ -378,7 +421,8 @@
         "codice": "9038/dominik-olejniczak",
         "crediti": 10,
         "riconfermato": true,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "C",
@@ -386,7 +430,8 @@
         "codice": "7428/nate-renfro",
         "crediti": 5,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "C",
@@ -394,7 +439,8 @@
         "codice": "1875/paul-eboua",
         "crediti": 92,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "si"
       }
     ]
   },
@@ -412,7 +458,8 @@
         "codice": "9370/wendell-moore",
         "crediti": 15,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "G",
@@ -420,7 +467,8 @@
         "codice": "6604/colbey-ross",
         "crediti": 1,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "G",
@@ -428,7 +476,8 @@
         "codice": "7412/federico-zampini",
         "crediti": 1,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "si"
       },
       {
         "ruolo": "GA",
@@ -436,7 +485,8 @@
         "codice": "9339/izaiah-brockington",
         "crediti": 1,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "A",
@@ -444,7 +494,8 @@
         "codice": "9344/alec-peters",
         "crediti": 72,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "A",
@@ -452,7 +503,8 @@
         "codice": "9391/hunter-tyson",
         "crediti": 1,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "A",
@@ -460,7 +512,8 @@
         "codice": "5369/arturs-strautins",
         "crediti": 30,
         "riconfermato": true,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "si"
       },
       {
         "ruolo": "AC",
@@ -468,7 +521,8 @@
         "codice": "9333/valentine-chery",
         "crediti": 2,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "AC",
@@ -476,7 +530,8 @@
         "codice": "774/john-brown",
         "crediti": 5,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "AC",
@@ -484,7 +539,8 @@
         "codice": "9382/marko-simonovic",
         "crediti": 121,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "si"
       },
       {
         "ruolo": "AC",
@@ -492,7 +548,8 @@
         "codice": "3200/alessandro-lever",
         "crediti": 1,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "si"
       },
       {
         "ruolo": "C",
@@ -500,7 +557,8 @@
         "codice": "9043/aliou-diarra",
         "crediti": 13,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "C",
@@ -508,7 +566,8 @@
         "codice": "9378/moses-wright",
         "crediti": 36,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "C",
@@ -516,7 +575,8 @@
         "codice": "9369/kevin-kokila",
         "crediti": 5,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "C",
@@ -524,7 +584,8 @@
         "codice": "1775/ousmane-diop",
         "crediti": 6,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "si"
       },
       {
         "ruolo": "G",
@@ -533,7 +594,8 @@
         "crediti": 5,
         "riconfermato": false,
         "stato": "Ceduto",
-        "motivoCessione": "taglio fase di riparazione"
+        "motivoCessione": "taglio fase di riparazione",
+        "italiano": "no"
       }
     ]
   },
@@ -551,7 +613,8 @@
         "codice": "9032/jahmi-us-ramsey",
         "crediti": 30,
         "riconfermato": true,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "G",
@@ -559,7 +622,8 @@
         "codice": "9328/quincy-olivari",
         "crediti": 38,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "G",
@@ -567,7 +631,8 @@
         "codice": "1205/semaj-christon",
         "crediti": 5,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "G",
@@ -575,7 +640,8 @@
         "codice": "9368/marcus-carr",
         "crediti": 9,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "G",
@@ -583,7 +649,8 @@
         "codice": "9030/andrea-calzavara",
         "crediti": 43,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "si"
       },
       {
         "ruolo": "G",
@@ -591,7 +658,8 @@
         "codice": "3207/matteo-librizzi",
         "crediti": 5,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "si"
       },
       {
         "ruolo": "GA",
@@ -599,7 +667,8 @@
         "codice": "9302/raequan-battle",
         "crediti": 14,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "A",
@@ -607,7 +676,8 @@
         "codice": "9012/savion-flagg",
         "crediti": 36,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "A",
@@ -615,7 +685,8 @@
         "codice": "9381/trentyn-flowers",
         "crediti": 29,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "A",
@@ -623,7 +694,8 @@
         "codice": "9372/bo-klintman",
         "crediti": 4,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "A",
@@ -631,7 +703,8 @@
         "codice": "439/alessandro-bertini",
         "crediti": 1,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "si"
       },
       {
         "ruolo": "A",
@@ -639,7 +712,8 @@
         "codice": "97/davide-alviti",
         "crediti": 33,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "si"
       },
       {
         "ruolo": "C",
@@ -647,7 +721,8 @@
         "codice": "5433/kaleb-tarczewski",
         "crediti": 39,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "C",
@@ -655,7 +730,8 @@
         "codice": "9360/enoch-boakye",
         "crediti": 10,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "C",
@@ -663,7 +739,8 @@
         "codice": "934/gora-camara",
         "crediti": 5,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "si"
       },
       {
         "ruolo": "AC",
@@ -672,7 +749,8 @@
         "crediti": 1,
         "riconfermato": false,
         "stato": "Ceduto",
-        "motivoCessione": "taglio fase di riparazione"
+        "motivoCessione": "taglio fase di riparazione",
+        "italiano": "no"
       }
     ]
   },
@@ -690,7 +768,8 @@
         "codice": "7030/charlie-edward-moore",
         "crediti": 1,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "G",
@@ -698,7 +777,8 @@
         "codice": "9374/aaron-holiday",
         "crediti": 1,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "G",
@@ -706,7 +786,8 @@
         "codice": "9375/xavier-moon",
         "crediti": 1,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "G",
@@ -714,7 +795,8 @@
         "codice": "9031/r-j-cole",
         "crediti": 5,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "G",
@@ -722,7 +804,8 @@
         "codice": "6138/niccolo-mannion",
         "crediti": 240,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "si"
       },
       {
         "ruolo": "G",
@@ -730,7 +813,8 @@
         "codice": "5499/darius-thompson",
         "crediti": 1,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "si"
       },
       {
         "ruolo": "A",
@@ -738,7 +822,8 @@
         "codice": "9004/derrick-alston",
         "crediti": 1,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "A",
@@ -746,7 +831,8 @@
         "codice": "9338/jermaine-samuels",
         "crediti": 1,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "A",
@@ -754,7 +840,8 @@
         "codice": "7431/justin-gorham",
         "crediti": 5,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "A",
@@ -762,7 +849,8 @@
         "codice": "9371/kessler-edwards",
         "crediti": 5,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "A",
@@ -770,7 +858,8 @@
         "codice": "6486/andrea-loro",
         "crediti": 1,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "si"
       },
       {
         "ruolo": "AC",
@@ -778,7 +867,8 @@
         "codice": "9348/ze-rik-onyema",
         "crediti": 1,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "C",
@@ -786,7 +876,8 @@
         "codice": "536/miro-bilan",
         "crediti": 30,
         "riconfermato": true,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "C",
@@ -794,7 +885,8 @@
         "codice": "5481/amedeo-tessitori",
         "crediti": 10,
         "riconfermato": true,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "si"
       },
       {
         "ruolo": "C",
@@ -802,7 +894,8 @@
         "codice": "5594/leonardo-tote",
         "crediti": 11,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "si"
       }
     ]
   },
@@ -820,7 +913,8 @@
         "codice": "9330/darius-brown",
         "crediti": 45,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "G",
@@ -828,7 +922,8 @@
         "codice": "7048/prentiss-hubb",
         "crediti": 5,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "G",
@@ -836,7 +931,8 @@
         "codice": "6616/c-j-massinburg",
         "crediti": 5,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "G",
@@ -844,7 +940,8 @@
         "codice": "6640/riccardo-rossato",
         "crediti": 30,
         "riconfermato": true,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "si"
       },
       {
         "ruolo": "G",
@@ -852,7 +949,8 @@
         "codice": "656/giordano-bortolani",
         "crediti": 15,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "si"
       },
       {
         "ruolo": "G",
@@ -860,7 +958,8 @@
         "codice": "3855/davide-moretti",
         "crediti": 1,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "si"
       },
       {
         "ruolo": "GA",
@@ -868,7 +967,8 @@
         "codice": "6142/john-petrucelli",
         "crediti": 25,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "si"
       },
       {
         "ruolo": "A",
@@ -876,7 +976,8 @@
         "codice": "9355/zac-seljaas",
         "crediti": 35,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "A",
@@ -884,7 +985,8 @@
         "codice": "9327/isaiah-bigelow",
         "crediti": 15,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "A",
@@ -892,7 +994,8 @@
         "codice": "9390/lajae-jones",
         "crediti": 1,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "A",
@@ -900,7 +1003,8 @@
         "codice": "4034/stefan-nikolic",
         "crediti": 25,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "si"
       },
       {
         "ruolo": "C",
@@ -908,7 +1012,8 @@
         "codice": "9036/jaime-echenique",
         "crediti": 35,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "C",
@@ -916,7 +1021,8 @@
         "codice": "9349/mike-tobey",
         "crediti": 15,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "C",
@@ -924,7 +1030,8 @@
         "codice": "7034/derek-ogbeide",
         "crediti": 5,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "C",
@@ -932,7 +1039,8 @@
         "codice": "7014/ismael-kamagate",
         "crediti": 5,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "G",
@@ -941,7 +1049,8 @@
         "crediti": 5,
         "riconfermato": false,
         "stato": "Ceduto",
-        "motivoCessione": "taglio fase di riparazione"
+        "motivoCessione": "taglio fase di riparazione",
+        "italiano": "no"
       },
       {
         "ruolo": "A",
@@ -950,7 +1059,8 @@
         "crediti": 5,
         "riconfermato": false,
         "stato": "Ceduto",
-        "motivoCessione": "taglio fase di riparazione"
+        "motivoCessione": "taglio fase di riparazione",
+        "italiano": "si"
       }
     ]
   },
@@ -968,7 +1078,8 @@
         "codice": "9341/andrew-andrews",
         "crediti": 3,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "G",
@@ -976,7 +1087,8 @@
         "codice": "9356/jeff-dowtin",
         "crediti": 34,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "G",
@@ -984,7 +1096,8 @@
         "codice": "9352/rob-edwards",
         "crediti": 32,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "G",
@@ -992,7 +1105,8 @@
         "codice": "6605/markel-brown",
         "crediti": 1,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "G",
@@ -1000,7 +1114,8 @@
         "codice": "9367/trent-frazier",
         "crediti": 1,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "G",
@@ -1008,7 +1123,8 @@
         "codice": "5299/marco-spissu",
         "crediti": 74,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "si"
       },
       {
         "ruolo": "GA",
@@ -1016,7 +1132,8 @@
         "codice": "6156/devon-hall",
         "crediti": 1,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "GA",
@@ -1024,7 +1141,8 @@
         "codice": "9008/marko-guduric",
         "crediti": 1,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "A",
@@ -1032,7 +1150,8 @@
         "codice": "9340/rj-melendez",
         "crediti": 5,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "A",
@@ -1040,7 +1159,8 @@
         "codice": "9006/karim-jallow",
         "crediti": 5,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "A",
@@ -1048,7 +1168,8 @@
         "codice": "75/amar-alibegovic",
         "crediti": 96,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "si"
       },
       {
         "ruolo": "A",
@@ -1056,7 +1177,8 @@
         "codice": "5913/carl-wheatle",
         "crediti": 5,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "si"
       },
       {
         "ruolo": "AC",
@@ -1064,7 +1186,8 @@
         "codice": "7079/kyle-wiltjer",
         "crediti": 25,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "no"
       },
       {
         "ruolo": "C",
@@ -1072,7 +1195,8 @@
         "codice": "1774/mouhamet-rassoul-diouf",
         "crediti": 30,
         "riconfermato": true,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "si"
       },
       {
         "ruolo": "C",
@@ -1080,7 +1204,8 @@
         "codice": "9379/giovanni-emejuru",
         "crediti": 1,
         "riconfermato": false,
-        "stato": "Attivo"
+        "stato": "Attivo",
+        "italiano": "si"
       }
     ]
   }
