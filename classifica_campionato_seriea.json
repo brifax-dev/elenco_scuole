@@ -1,0 +1,190 @@
+{
+  "classifica": [
+    {
+      "posizione": 1,
+      "squadra": "CSKA Basket",
+      "punti": 6,
+      "giornate": 4,
+      "vinte": 3,
+      "perse": 1,
+      "puntiFatti": 501,
+      "puntiSubiti": 367,
+      "differenza": 134,
+      "mediaPuntiFatti": 125.2,
+      "mediaPuntiSubiti": 91.7,
+      "trend": "stabile"
+    },
+    {
+      "posizione": 2,
+      "squadra": "Casorzo Lakers",
+      "punti": 6,
+      "giornate": 4,
+      "vinte": 3,
+      "perse": 1,
+      "puntiFatti": 411,
+      "puntiSubiti": 362,
+      "differenza": 49,
+      "mediaPuntiFatti": 102.7,
+      "mediaPuntiSubiti": 90.5,
+      "trend": "salita"
+    },
+    {
+      "posizione": 3,
+      "squadra": "Rasta Panthers",
+      "punti": 6,
+      "giornate": 4,
+      "vinte": 3,
+      "perse": 1,
+      "puntiFatti": 443,
+      "puntiSubiti": 402,
+      "differenza": 41,
+      "mediaPuntiFatti": 110.7,
+      "mediaPuntiSubiti": 100.5,
+      "trend": "discesa"
+    },
+    {
+      "posizione": 4,
+      "squadra": "La Effe",
+      "punti": 4,
+      "giornate": 4,
+      "vinte": 2,
+      "perse": 2,
+      "puntiFatti": 387,
+      "puntiSubiti": 374,
+      "differenza": 13,
+      "mediaPuntiFatti": 96.7,
+      "mediaPuntiSubiti": 93.5,
+      "trend": "salita"
+    },
+    {
+      "posizione": 5,
+      "squadra": "OBA",
+      "punti": 4,
+      "giornate": 4,
+      "vinte": 2,
+      "perse": 2,
+      "puntiFatti": 356,
+      "puntiSubiti": 352,
+      "differenza": 4,
+      "mediaPuntiFatti": 89.0,
+      "mediaPuntiSubiti": 88.0,
+      "trend": "salita"
+    },
+    {
+      "posizione": 6,
+      "squadra": "Maccabi Ruero",
+      "punti": 4,
+      "giornate": 4,
+      "vinte": 2,
+      "perse": 2,
+      "puntiFatti": 404,
+      "puntiSubiti": 445,
+      "differenza": -41,
+      "mediaPuntiFatti": 101.0,
+      "mediaPuntiSubiti": 111.2,
+      "trend": "discesa"
+    },
+    {
+      "posizione": 7,
+      "squadra": "Furlee",
+      "punti": 2,
+      "giornate": 4,
+      "vinte": 1,
+      "perse": 3,
+      "puntiFatti": 362,
+      "puntiSubiti": 430,
+      "differenza": -68,
+      "mediaPuntiFatti": 90.5,
+      "mediaPuntiSubiti": 107.5,
+      "trend": "stabile"
+    },
+    {
+      "posizione": 8,
+      "squadra": "PBK Dinamo Ronco",
+      "punti": 0,
+      "giornate": 4,
+      "vinte": 0,
+      "perse": 4,
+      "puntiFatti": 323,
+      "puntiSubiti": 455,
+      "differenza": -132,
+      "mediaPuntiFatti": 80.7,
+      "mediaPuntiSubiti": 113.7,
+      "trend": "stabile"
+    }
+  ],
+  "statisticheGenerali": [
+    {
+      "statistica": "MIGLIOR ATTACCO",
+      "squadra": "CSKA Basket",
+      "punti": 501,
+      "media": 125.2
+    },
+    {
+      "statistica": "MIGLIOR DIFESA",
+      "squadra": "OBA",
+      "punti": 352,
+      "media": 88.0
+    },
+    {
+      "statistica": "MIGLIOR DIFFERENZA CANESTRI",
+      "squadra": "CSKA Basket",
+      "punti": 134,
+      "media": 33
+    },
+    {
+      "statistica": "PEGGIOR ATTACCO",
+      "squadra": "PBK Dinamo Ronco",
+      "punti": 323,
+      "media": 80.7
+    },
+    {
+      "statistica": "PEGGIOR DIFESA",
+      "squadra": "PBK Dinamo Ronco",
+      "punti": 455,
+      "media": 113.7
+    },
+    {
+      "statistica": "PEGGIOR DIFFERENZA CANESTRI",
+      "squadra": "PBK Dinamo Ronco",
+      "punti": -132,
+      "media": -33
+    }
+  ],
+  "classificaMarcatori": {
+    "note": "Si considerano solo i giocatori che hanno giocato almeno 2/3 del campionato",
+    "giocatori": [
+      { "posizione": 1, "giocatore": "MANNION", "squadra": "CSKA Basket", "mediaPunti": 29.3 },
+      { "posizione": 2, "giocatore": "KABENGELE", "squadra": "Furleee", "mediaPunti": 28.0 },
+      { "posizione": 3, "giocatore": "BILAN", "squadra": "CSKA Basket", "mediaPunti": 27.7 },
+      { "posizione": 4, "giocatore": "PINKINS", "squadra": "OBA", "mediaPunti": 21.0 },
+      { "posizione": 5, "giocatore": "KAMAGATE", "squadra": "Maccabi Ruero", "mediaPunti": 20.5 },
+      { "posizione": 6, "giocatore": "ROSS", "squadra": "Maccabi Ruero", "mediaPunti": 20.0 },
+      { "posizione": 7, "giocatore": "HANDS", "squadra": "Rasta Panthers", "mediaPunti": 19.0 },
+      { "posizione": 8, "giocatore": "TOTE'", "squadra": "CSKA Basket", "mediaPunti": 18.5 },
+      { "posizione": 9, "giocatore": "KUHSE", "squadra": "Rasta Panthers", "mediaPunti": 17.5 },
+      { "posizione": 10, "giocatore": "LEDAY", "squadra": "Maccabi Ruero", "mediaPunti": 17.5 },
+      { "posizione": 11, "giocatore": "BROWN Markel", "squadra": "OBA", "mediaPunti": 16.2 },
+      { "posizione": 12, "giocatore": "FAYE", "squadra": "Casorzo Lakers", "mediaPunti": 16.0 },
+      { "posizione": 13, "giocatore": "FORD", "squadra": "Furleee", "mediaPunti": 16.0 },
+      { "posizione": 14, "giocatore": "SILINS", "squadra": "Rasta Panthers", "mediaPunti": 15.5 },
+      { "posizione": 15, "giocatore": "MIROTIC", "squadra": "La Effe", "mediaPunti": 15.5 },
+      { "posizione": 16, "giocatore": "BOWMAN", "squadra": "PBK Dinamo Ronco", "mediaPunti": 15.3 },
+      { "posizione": 17, "giocatore": "BENDZIUS", "squadra": "CSKA Basket", "mediaPunti": 14.6 },
+      { "posizione": 18, "giocatore": "ALVITI", "squadra": "Casorzo Lakers", "mediaPunti": 14.0 },
+      { "posizione": 19, "giocatore": "BRAJKOVIC", "squadra": "Rasta Panthers", "mediaPunti": 14.0 },
+      { "posizione": 20, "giocatore": "FORREST", "squadra": "La Effe", "mediaPunti": 13.3 },
+      { "posizione": 21, "giocatore": "HALILOVIC", "squadra": "La Effe", "mediaPunti": 13.0 },
+      { "posizione": 22, "giocatore": "LAMB", "squadra": "Casorzo Lakers", "mediaPunti": 12.7 },
+      { "posizione": 23, "giocatore": "AKOBUNDU-EHIOGU", "squadra": "PBK Dinamo Ronco", "mediaPunti": 12.3 },
+      { "posizione": 24, "giocatore": "DIMITRIJEVIC", "squadra": "Maccabi Ruero", "mediaPunti": 12.0 }
+    ]
+  },
+  "miglioreQuintettoStagionale": [
+    { "ruolo": "A", "giocatore": "TOTE'", "squadra": "CSKA Basket" },
+    { "ruolo": "A", "giocatore": "PINKINS", "squadra": "OBA" },
+    { "ruolo": "C", "giocatore": "KABENGELE", "squadra": "Furleee" },
+    { "ruolo": "G", "giocatore": "MANNION", "squadra": "CSKA Basket", "premio": "MVP" },
+    { "ruolo": "G", "giocatore": "ROSS", "squadra": "Maccabi Ruero" }
+  ]
+}
