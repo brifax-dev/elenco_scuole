@@ -32,7 +32,7 @@
     "giocatori" : "4"
 },{ "gioco" : "Dixit",
     "giocatori" : "8"
-},{ "gioco" : "Voodoo",
+},{ "gioco" : "Vu dù",
     "giocatori" : "6"
 },{ "gioco" : "Tzulan Quest",
     "giocatori" : "5"
@@ -74,4 +74,48 @@
     "giocatori" : "4"
 },{ "gioco" : "Gastone Testone",
     "giocatori" : "4"
+},{ "gioco" : "W il corpo umano",
+    "giocatori" : "4"
+},{ "gioco" : "Tabelline e problemini",
+    "giocatori" : "4"
+},{ "gioco" : "Uno contro uno",
+    "giocatori" : "2"
+},{ "gioco" : "Cosmopoli",
+    "giocatori" : "6"
+},{ "gioco" : "Il gioco della vita",
+    "giocatori" : "4"
+},{ "gioco" : "Labirinto",
+    "giocatori" : "4"
+},{ "gioco" : "La mummia",
+    "giocatori" : "5"
+},{ "gioco" : "Harry Potter Wizarding world",
+    "giocatori" : "4"
+},{ "gioco" : "L'allegro chirurgo",
+    "giocatori" : "10"
+},{ "gioco" : "Bicchieri sprint",
+    "giocatori" : "4"
+},{ "gioco" : "Scarabeo",
+    "giocatori" : "4"
+},{ "gioco" : "Tantasma Blitz",
+    "giocatori" : "8"
+},{ "gioco" : "Genitori contro figli",
+    "giocatori" : "4"
+},{ "gioco" : "Trivial pursuit",
+    "giocatori" : "6"
+},{ "gioco" : "Trivial pursuit Nazionale",
+    "giocatori" : "6"
+},{ "gioco" : "Jenga",
+    "giocatori" : "10"
+},{ "gioco" : "Twister",
+    "giocatori" : "4"
+},{ "gioco" : "Monopoly Junior",
+    "giocatori" : "4"
+},{ "gioco" : "Dobble",
+    "giocatori" : "4"
+},{ "gioco" : "Pirata Barbanera",
+    "giocatori" : "4"
+},{ "gioco" : "Harry Potter",
+    "giocatori" : "4"
+},{ "gioco" : "Frozen",
+    "giocatori" : "6"
 }]
