@@ -1,0 +1,31 @@
+[
+  {
+    "fase": "Quarti di Finale",
+    "partite": [
+      {
+        "casa": "CSKA Basket",
+        "trasferta": "Casorzo Lakers",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
+      },
+      {
+        "casa": "Cag8 Team",
+        "trasferta": "Drink Team",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
+      },
+      {
+        "casa": "Rasta Panthers",
+        "trasferta": "Maccabi Ruero",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
+      },
+      {
+        "casa": "KMS",
+        "trasferta": "Furleee",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
+      }
+    ]
+  }
+]
