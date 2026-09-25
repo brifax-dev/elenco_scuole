@@ -1,0 +1,82 @@
+[
+  {
+    "squadra": "RASTA PANTHERS",
+    "proprietario": "Gabrio",
+    "password": "pbkdf2_sha256$20000$a3555e81ed7afb0f15543b54a9497ec3$9c81a4ae9fa0144e789aec83e573a605dce6c4296f9a13ad1abfd5d1d52d6816"
+  },
+  {
+    "squadra": "MONZA A SPICCHI",
+    "proprietario": "bruno21",
+    "password": "pbkdf2_sha256$20000$fcbf4c30ed874131c25ef98efc7177d2$d46e660067241f1f68883f50873e80836b99b971a7d2096b6834cb70bd4aabc2"
+  },
+  {
+    "squadra": "DRINK TEAM",
+    "proprietario": "Alectro93",
+    "password": "pbkdf2_sha256$20000$6de979d68d41d740c456f148566c1029$51fa80d7fd70ad7e73b3ae0ca10790d38f4f13e38f1b9c9852069377e0e2570b"
+  },
+  {
+    "squadra": "MACCABI RUERO",
+    "proprietario": "Sprizzaug",
+    "password": "pbkdf2_sha256$20000$2f0c8f8707f7c693f96c474864296c2a$0053264c70b3f4b1aa7289b608537d6a5d8d4fb9f1ab73fec5ed20a2e231f994"
+  },
+  {
+    "squadra": "PBK DINAMO RONCO",
+    "proprietario": "Libertas_FO",
+    "password": "pbkdf2_sha256$20000$d3f481a506176cc0504ddfcd21174e2b$5cf4df4eb7b3310873a6a410abed32ab4093a521a54a104d9643237a0212dfb2"
+  },
+  {
+    "squadra": "CSKA BASKET",
+    "proprietario": "Alphonso Ford",
+    "password": "pbkdf2_sha256$20000$7b8b9ee0a2a3e4667efdcb2dea5c64a4$9401066cbe95bbce6bd80cd39c0fa9c163cd56cc21748aa885193bfbcb06dba1"
+  },
+  {
+    "squadra": "CASORZO LAKERS",
+    "proprietario": "pazzoide198",
+    "password": "pbkdf2_sha256$20000$134ba10fa8ed30fa9a46976a8ce17e84$484c88ee1a1864f2ffaae62947c404295eedae400202db932b9f42adbdd50bf2"
+  },
+  {
+    "squadra": "FURLEEE",
+    "proprietario": "Filo-Gallo95",
+    "password": "pbkdf2_sha256$20000$4a773c99fa542ec73ace2d677dd3b333$d6a443cb380af4dd392c036b556edab11fdafb87925976c408c84e43ede6c4c8"
+  },
+  {
+    "squadra": "FAMOSTRANO",
+    "proprietario": "LorFra20",
+    "password": "pbkdf2_sha256$20000$fe63274eb4b57033baf4b81be3bd4de3$5386a87e78a318077cdb03c29d1e14cd9076c37aa4571ed9734460c59eecf442"
+  },
+  {
+    "squadra": "TT SARONNO",
+    "proprietario": "AlexD12",
+    "password": "pbkdf2_sha256$20000$3188563798e32e52151cae4eea27d406$75cb3c3cffe507f2f4cd797479f599ce86c79fe298460059c5677bc8baa7f769"
+  },
+  {
+    "squadra": "EFSANE ҪUKO",
+    "proprietario": "KMS2171",
+    "password": "pbkdf2_sha256$20000$d0857deef8b763ef5c99a5c003087826$5f0f746283671411e484d6a3ba63d082ed3c3d9a67390680eed8f6d2822c8d51"
+  },
+  {
+    "squadra": "LA EFFE",
+    "proprietario": "fabgallagher",
+    "password": "pbkdf2_sha256$20000$6871dd325651288a097e26345cabdcc3$51ddcc14911b0dda4719e377cf789f58243cfcdd0ada8245c64361d3b62f9f83"
+  },
+  {
+    "squadra": "BRIFAX LECCE",
+    "proprietario": "Brifax",
+    "password": "pbkdf2_sha256$20000$b1a5fc4fab65cfdbccab671239fecb37$3227b0a6087575b22a515ce31003f0d25ba9865ad58c214140269e1b488e1287"
+  },
+  {
+    "squadra": "SPRITZ&ROLL",
+    "proprietario": "Giuseppe",
+    "password": "pbkdf2_sha256$20000$922d62116ffdc36d9e2d5c6a96c36c1d$9a0f57b14c8181f96af6fece321d98e0bb873ff4cf618b68f63b597804adee08"
+  },
+  {
+    "squadra": "OBA",
+    "proprietario": "Tamatoa",
+    "password": "pbkdf2_sha256$20000$a17488fec560a6d559c31d054d20c7e8$afe3d9efa9c2b6f8bd8b26b8d8d4f55d1602d526b457ae988498ed3d0fea32a6"
+  },
+  {
+    "squadra": "CAG-8 TEAM",
+    "proprietario": "Baso23",
+    "password": "pbkdf2_sha256$20000$138561c6237eeeade8ba153d3f60bb52$2b8b0459eeddceb24b30526c3bb907a6ffc39d3addb5d3f04eec41d1eeb9a14c"
+  }
+]
