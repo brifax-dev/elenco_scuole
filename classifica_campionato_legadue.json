@@ -1,0 +1,165 @@
+{
+  "classifica": [
+    {
+      "posizione": 0,
+      "squadra": "La Effe",
+      "punti": 0,
+      "giornate": 0,
+      "vinte": 0,
+      "perse": 0,
+      "puntiFatti": 0,
+      "puntiSubiti": 0,
+      "differenza": 0,
+      "mediaPuntiFatti": 0,
+      "mediaPuntiSubiti": 0,
+      "trend": ""
+    },
+    {
+      "posizione": 0,
+      "squadra": "Brifax Lecce",
+      "punti": 0,
+      "giornate": 0,
+      "vinte": 0,
+      "perse": 0,
+      "puntiFatti": 0,
+      "puntiSubiti": 0,
+      "differenza": 0,
+      "mediaPuntiFatti": 0,
+      "mediaPuntiSubiti": 0,
+      "trend": ""
+    },
+    {
+      "posizione": 0,
+      "squadra": "Spritz&Roll",
+      "punti": 0,
+      "giornate": 0,
+      "vinte": 0,
+      "perse": 0,
+      "puntiFatti": 0,
+      "puntiSubiti": 0,
+      "differenza": 0,
+      "mediaPuntiFatti": 0,
+      "mediaPuntiSubiti": 0,
+      "trend": ""
+    },
+    {
+      "posizione": 0,
+      "squadra": "OBA",
+      "punti": 0,
+      "giornate": 0,
+      "vinte": 0,
+      "perse": 0,
+      "puntiFatti": 0,
+      "puntiSubiti": 0,
+      "differenza": 0,
+      "mediaPuntiFatti": 0,
+      "mediaPuntiSubiti": 0,
+      "trend": ""
+    },
+    {
+      "posizione": 0,
+      "squadra": "Cag8 Team",
+      "punti": 0,
+      "giornate": 0,
+      "vinte": 0,
+      "perse": 0,
+      "puntiFatti": 0,
+      "puntiSubiti": 0,
+      "differenza": 0,
+      "mediaPuntiFatti": 0,
+      "mediaPuntiSubiti": 0,
+      "trend": ""
+    },
+    {
+      "posizione": 0,
+      "squadra": "KMS Lì Van Kedileri",
+      "punti": 0,
+      "giornate": 0,
+      "vinte": 0,
+      "perse": 0,
+      "puntiFatti": 0,
+      "puntiSubiti": 0,
+      "differenza": 0,
+      "mediaPuntiFatti": 0,
+      "mediaPuntiSubiti": 0,
+      "trend": ""
+    },
+    {
+      "posizione": 0,
+      "squadra": "Famostrano",
+      "punti": 0,
+      "giornate": 0,
+      "vinte": 0,
+      "perse": 0,
+      "puntiFatti": 0,
+      "puntiSubiti": 0,
+      "differenza": 0,
+      "mediaPuntiFatti": 0,
+      "mediaPuntiSubiti": 0,
+      "trend": ""
+    },
+    {
+      "posizione": 0,
+      "squadra": "TT Saronno",
+      "punti": 0,
+      "giornate": 0,
+      "vinte": 0,
+      "perse": 0,
+      "puntiFatti": 0,
+      "puntiSubiti": 0,
+      "differenza": 0,
+      "mediaPuntiFatti": 0,
+      "mediaPuntiSubiti": 0,
+      "trend": ""
+    }
+  ],
+  "statisticheGenerali": [
+    {
+      "statistica": "MIGLIOR ATTACCO",
+      "squadra": ",
+      "punti": 0,
+      "media": 0
+    },
+    {
+      "statistica": "MIGLIOR DIFESA",
+      "squadra": "",
+      "punti": 0,
+      "media": 0
+    },
+    {
+      "statistica": "MIGLIOR DIFFERENZA CANESTRI",
+      "squadra": "",
+      "punti": 0,
+      "media": 0
+    },
+    {
+      "statistica": "PEGGIOR ATTACCO",
+      "squadra": "",
+      "punti": 0,
+      "media": 0
+    },
+    {
+      "statistica": "PEGGIOR DIFESA",
+      "squadra": "",
+      "punti": 0,
+      "media": 0
+    },
+    {
+      "statistica": "PEGGIOR DIFFERENZA CANESTRI",
+      "squadra": "",
+      "punti": 0,
+      "media": 0
+    }
+  ],
+  "classificaMarcatori": {
+    "note": "",
+    "giocatori": []
+  },
+  "miglioreQuintettoStagionale": [
+    { "ruolo": "", "giocatore": "", "squadra": "", "premio": ""  },
+    { "ruolo": "", "giocatore": "", "squadra": "", "premio": ""  },
+    { "ruolo": "", "giocatore": "", "squadra": "", "premio": ""  },
+    { "ruolo": "", "giocatore": "", "squadra": "", "premio": "" },
+    { "ruolo": "", "giocatore": "", "squadra": "", "premio": ""  }
+  ]
+}
