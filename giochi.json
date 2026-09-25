@@ -2,4 +2,22 @@
     "giocatori" : "6"
 },{ "gioco" : "Monopoly",
     "giocatori" : "6"
+},{ "gioco" : "Takenoko",
+    "giocatori" : "4"
+},{ "gioco" : "Brivido II",
+    "giocatori" : "8"
+},{ "gioco" : "Brivido I",
+    "giocatori" : "4"
+},{ "gioco" : "Crack,
+    "giocatori" : "4"
+},{ "gioco" : "SkualAttack,
+    "giocatori" : "4"
+},{ "gioco" : "Risiko,
+    "giocatori" : "6"
+},{ "gioco" : "HeroQuest,
+    "giocatori" : "5"
+},{ "gioco" : "L'isola di fuoco,
+    "giocatori" : "4"
+},{ "gioco" : "Villains,
+    "giocatori" : "6"
 }]
