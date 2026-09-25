@@ -1,782 +1,977 @@
 [
   {
     "nome": "CARR Marcus",
-    "codice": "9368/marcus-carr"
+    "codice": "9368/marcus-carr",
+    "italiano": "no"
   },
   {
     "nome": "BELLO Rasheed",
-    "codice": "9366/rasheed-bello"
+    "codice": "9366/rasheed-bello",
+    "italiano": "no"
   },
   {
     "nome": "FRAZIER Trent",
-    "codice": "9367/trent-frazier"
+    "codice": "9367/trent-frazier",
+    "italiano": "no"
   },
   {
     "nome": "MOORE JR Wendell",
-    "codice": "9370/wendell-moore"
+    "codice": "9370/wendell-moore",
+    "italiano": "no"
   },
   {
     "nome": "CHRISTON Semaj",
-    "codice": "1205/semaj-christon"
+    "codice": "1205/semaj-christon",
+    "italiano": "no"
   },
   {
     "nome": "GRAVETT Hassani",
-    "codice": "9342/hassani-gravett"
+    "codice": "9342/hassani-gravett",
+    "italiano": "no"
   },
   {
     "nome": "COLE RJ",
-    "codice": "9031/r-j-cole"
+    "codice": "9031/r-j-cole",
+    "italiano": "no"
   },
   {
     "nome": "BOLMARO Leandro",
-    "codice": "7405/leandro-bolmaro"
+    "codice": "7405/leandro-bolmaro",
+    "italiano": "no"
   },
   {
     "nome": "MATHEWS Garrison",
-    "codice": "9388/garrison-mathews"
+    "codice": "9388/garrison-mathews",
+    "italiano": "no"
   },
   {
     "nome": "HALL Devon",
-    "codice": "6156/devon-hall"
+    "codice": "6156/devon-hall",
+    "italiano": "no"
   },
   {
     "nome": "GUDURIC Marko",
-    "codice": "9008/marko-guduric"
+    "codice": "9008/marko-guduric",
+    "italiano": "no"
   },
   {
     "nome": "DOWTIN Jeff",
-    "codice": "9356/jeff-dowtin"
+    "codice": "9356/jeff-dowtin",
+    "italiano": "no"
   },
   {
     "nome": "RAMSEY Jahmi'us",
-    "codice": "9032/jahmi-us-ramsey"
+    "codice": "9032/jahmi-us-ramsey",
+    "italiano": "no"
   },
   {
     "nome": "BROWN Markel",
-    "codice": "6605/markel-brown"
+    "codice": "6605/markel-brown",
+    "italiano": "no"
   },
   {
     "nome": "BARFORD Jaylen",
-    "codice": "314/jaylen-barford"
+    "codice": "314/jaylen-barford",
+    "italiano": "no"
   },
   {
     "nome": "SMITH Kenneth Speedy",
-    "codice": "9353/speedy-smith"
+    "codice": "9353/speedy-smith",
+    "italiano": "no"
   },
   {
     "nome": "EDWARDS Rob",
-    "codice": "9352/rob-edwards"
+    "codice": "9352/rob-edwards",
+    "italiano": "no"
   },
   {
     "nome": "MOON Xavier",
-    "codice": "9375/xavier-moon"
+    "codice": "9375/xavier-moon",
+    "italiano": "no"
   },
   {
     "nome": "LEMAR Brynton",
-    "codice": "3185/brynton-lemar"
+    "codice": "3185/brynton-lemar",
+    "italiano": "no"
   },
   {
     "nome": "HOLIDAY Aaron",
-    "codice": "9374/aaron-holiday"
+    "codice": "9374/aaron-holiday",
+    "italiano": "no"
   },
   {
     "nome": "AYAYI Gerald",
-    "codice": "9380/gerald-ayayi"
+    "codice": "9380/gerald-ayayi",
+    "italiano": "no"
   },
   {
     "nome": "IUZZOLINO Micheal",
-    "codice": "9383/mike-iuzzolino"
+    "codice": "9383/mike-iuzzolino",
+    "italiano": "no"
   },
   {
     "nome": "STEVENSON Erik",
-    "codice": "9384/erik-stevenson"
+    "codice": "9384/erik-stevenson",
+    "italiano": "no"
   },
   {
     "nome": "DAVIS Corey",
-    "codice": "6258/corey-davis"
+    "codice": "6258/corey-davis",
+    "italiano": "no"
   },
   {
     "nome": "NEVELS Garrett",
-    "codice": "2293/garrett-nevels"
+    "codice": "2293/garrett-nevels",
+    "italiano": "no"
   },
   {
     "nome": "HORTON Ithiel",
-    "codice": "9345/ithiel-horton"
+    "codice": "9345/ithiel-horton",
+    "italiano": "no"
   },
   {
     "nome": "MOORE Charlie",
-    "codice": "7030/charlie-edward-moore"
+    "codice": "7030/charlie-edward-moore",
+    "italiano": "no"
   },
   {
     "nome": "HUBB Prentiss",
-    "codice": "7048/prentiss-hubb"
+    "codice": "7048/prentiss-hubb",
+    "italiano": "no"
   },
   {
     "nome": "DURHAM Aljami",
-    "codice": "9009/aljami-durham"
+    "codice": "9009/aljami-durham",
+    "italiano": "no"
   },
   {
     "nome": "MADDOX Dante",
-    "codice": "9351/dante-maddox"
+    "codice": "9351/dante-maddox",
+    "italiano": "no"
   },
   {
     "nome": "OLIVARI Quincy",
-    "codice": "9328/quincy-olivari"
+    "codice": "9328/quincy-olivari",
+    "italiano": "no"
   },
   {
     "nome": "BROWN Jr. Charles",
-    "codice": "9329/charles-brown"
+    "codice": "9329/charles-brown",
+    "italiano": "no"
   },
   {
     "nome": "BROWN Darius",
-    "codice": "9330/darius-brown"
+    "codice": "9330/darius-brown",
+    "italiano": "no"
   },
   {
     "nome": "RUSSELL DeWayne",
-    "codice": "4879/dewayne-russell"
+    "codice": "4879/dewayne-russell",
+    "italiano": "no"
   },
   {
     "nome": "CARTER Jr. Chico",
-    "codice": "9331/chico-carter"
+    "codice": "9331/chico-carter",
+    "italiano": "no"
   },
   {
     "nome": "MACURA JP",
-    "codice": "6191/jp-macura"
+    "codice": "6191/jp-macura",
+    "italiano": "no"
   },
   {
     "nome": "ROSS Colbey",
-    "codice": "6604/colbey-ross"
+    "codice": "6604/colbey-ross",
+    "italiano": "no"
   },
   {
     "nome": "GALLOWAY Langston",
-    "codice": "6993/langston-galloway"
+    "codice": "6993/langston-galloway",
+    "italiano": "no"
   },
   {
     "nome": "SISKO Zan",
-    "codice": "9358/zan-sisko"
+    "codice": "9358/zan-sisko",
+    "italiano": "no"
   },
   {
     "nome": "BATTLE RaeQuan",
-    "codice": "9302/raequan-battle"
+    "codice": "9302/raequan-battle",
+    "italiano": "no"
   },
   {
     "nome": "VALENTINE Denzel",
-    "codice": "7391/denzel-valentine"
+    "codice": "7391/denzel-valentine",
+    "italiano": "no"
   },
   {
     "nome": "McDOWELL-WHITE William",
-    "codice": "9336/william-mcdowell-white"
+    "codice": "9336/william-mcdowell-white",
+    "italiano": "no"
   },
   {
     "nome": "HALE Hunter",
-    "codice": "9334/hunter-hale"
+    "codice": "9334/hunter-hale",
+    "italiano": "no"
   },
   {
     "nome": "DUKE David",
-    "codice": "9337/david-duke"
+    "codice": "9337/david-duke",
+    "italiano": "no"
   },
   {
     "nome": "WATSON Glynn",
-    "codice": "9363/glynn-watson"
+    "codice": "9363/glynn-watson",
+    "italiano": "no"
   },
   {
     "nome": "RICE Sir Jabari",
-    "codice": "9359/sir-jabari-rice"
+    "codice": "9359/sir-jabari-rice",
+    "italiano": "no"
   },
   {
     "nome": "BOWMAN Ky",
-    "codice": "6648/ky-bowman"
+    "codice": "6648/ky-bowman",
+    "italiano": "no"
   },
   {
     "nome": "GREEN Erick",
-    "codice": "2534/erick-green"
+    "codice": "2534/erick-green",
+    "italiano": "no"
   },
   {
     "nome": "ANDREWS Andrew",
-    "codice": "9341/andrew-andrews"
+    "codice": "9341/andrew-andrews",
+    "italiano": "no"
   },
   {
     "nome": "MASSINBURG CJ",
-    "codice": "6616/c-j-massinburg"
+    "codice": "6616/c-j-massinburg",
+    "italiano": "no"
   },
   {
     "nome": "BROCKINGTON Izaiah",
-    "codice": "9339/izaiah-brockington"
+    "codice": "9339/izaiah-brockington",
+    "italiano": "no"
   },
   {
     "nome": "HACKETT Daniel",
-    "codice": "2608/daniel-hackett"
+    "codice": "2608/daniel-hackett",
+    "italiano": "si"
   },
   {
     "nome": "BALDASSO Tommaso",
-    "codice": "274/tommaso-baldasso"
+    "codice": "274/tommaso-baldasso",
+    "italiano": "si"
   },
   {
     "nome": "CASARIN Davide",
-    "codice": "1051/davide-casarin"
+    "codice": "1051/davide-casarin",
+    "italiano": "si"
   },
   {
     "nome": "PARRAVICINI Matteo",
-    "codice": "4217/matteo-parravicini"
+    "codice": "4217/matteo-parravicini",
+    "italiano": "si"
   },
   {
     "nome": "MORASCHINI Riccardo",
-    "codice": "3880/riccardo-moraschini"
+    "codice": "3880/riccardo-moraschini",
+    "italiano": "si"
   },
   {
     "nome": "UDOM Liam",
-    "codice": "5660/liam-udom"
+    "codice": "5660/liam-udom",
+    "italiano": "si"
   },
   {
     "nome": "VENTURA Simone",
-    "codice": "9073/simone-ventura"
+    "codice": "9073/simone-ventura",
+    "italiano": "si"
   },
   {
     "nome": "THOMPSON Darius",
-    "codice": "5499/darius-thompson"
+    "codice": "5499/darius-thompson",
+    "italiano": "si"
   },
   {
     "nome": "FLACCADORI Diego",
-    "codice": "2103/diego-flaccadori"
+    "codice": "2103/diego-flaccadori",
+    "italiano": "si"
   },
   {
     "nome": "TONUT Stefano",
-    "codice": "5568/stefano-tonut"
+    "codice": "5568/stefano-tonut",
+    "italiano": "si"
   },
   {
     "nome": "SPISSU Marco",
-    "codice": "5299/marco-spissu"
+    "codice": "5299/marco-spissu",
+    "italiano": "si"
   },
   {
     "nome": "PETRUCELLI John",
-    "codice": "6142/john-petrucelli"
+    "codice": "6142/john-petrucelli",
+    "italiano": "si"
   },
   {
     "nome": "FAGGIAN Leonardo",
-    "codice": "1965/leonardo-faggian"
+    "codice": "1965/leonardo-faggian",
+    "italiano": "si"
   },
   {
     "nome": "UGLIETTI Lorenzo",
-    "codice": "5663/lorenzo-uglietti"
+    "codice": "5663/lorenzo-uglietti",
+    "italiano": "si"
   },
   {
     "nome": "ROSSATO Riccardo",
-    "codice": "6640/riccardo-rossato (A)"
+    "codice": "6640/riccardo-rossato (A)",
+    "italiano": "si"
   },
   {
     "nome": "WOLDETENSAE Tomas",
-    "codice": "6309/tomas-woldetensae"
+    "codice": "6309/tomas-woldetensae",
+    "italiano": "si"
   },
   {
     "nome": "VISCONTI Riccardo",
-    "codice": "5823/riccardo-visconti"
+    "codice": "5823/riccardo-visconti",
+    "italiano": "si"
   },
   {
     "nome": "ALIBEGOVIC Mirza",
-    "codice": "76/mirza-alibegovic"
+    "codice": "76/mirza-alibegovic",
+    "italiano": "si"
   },
   {
     "nome": "BONACINI Federico",
-    "codice": "9376/federico-bonaccini"
+    "codice": "9376/federico-bonaccini",
+    "italiano": "si"
   },
   {
     "nome": "MANNION Nico",
-    "codice": "6138/niccolo-mannion"
+    "codice": "6138/niccolo-mannion",
+    "italiano": "si"
   },
   {
     "nome": "ODZEBE Giannis",
-    "codice": "9386/giannis-odzebe"
+    "codice": "9386/giannis-odzebe",
+    "italiano": "si"
   },
   {
     "nome": "MASCOLO Bruno",
-    "codice": "3526/bruno-mascolo"
+    "codice": "3526/bruno-mascolo",
+    "italiano": "si"
   },
   {
     "nome": "CERON Marco",
-    "codice": "1142/marco-ceron"
+    "codice": "1142/marco-ceron",
+    "italiano": "si"
   },
   {
     "nome": "PECCHIA Andrea",
-    "codice": "4268/andrea-pecchia"
+    "codice": "4268/andrea-pecchia",
+    "italiano": "si"
   },
   {
     "nome": "BORTOLANI Giordano",
-    "codice": "656/giordano-bortolani"
+    "codice": "656/giordano-bortolani",
+    "italiano": "si"
   },
   {
     "nome": "FORRAY Toto",
-    "codice": "2148/toto-forray"
+    "codice": "2148/toto-forray",
+    "italiano": "si"
   },
   {
     "nome": "HASSAN Patrick",
-    "codice": "7452/patrick-hassan"
+    "codice": "7452/patrick-hassan",
+    "italiano": "si"
   },
   {
     "nome": "CATTAPAN Federico",
-    "codice": "7119/federico-cattapan"
+    "codice": "7119/federico-cattapan",
+    "italiano": "si"
   },
   {
     "nome": "CAPPELLETTI Alessandro",
-    "codice": "969/alessandro-cappelletti"
+    "codice": "969/alessandro-cappelletti",
+    "italiano": "si"
   },
   {
     "nome": "ALLINEI Gregorio",
-    "codice": "9332/gregorio-allinei"
+    "codice": "9332/gregorio-allinei",
+    "italiano": "si"
   },
   {
     "nome": "RUZZIER Michele",
-    "codice": "4890/michele-ruzzier"
+    "codice": "4890/michele-ruzzier",
+    "italiano": "si"
   },
   {
     "nome": "CANKA Abramo",
-    "codice": "9005/abramo-canka"
+    "codice": "9005/abramo-canka",
+    "italiano": "si"
   },
   {
     "nome": "CALZAVARA Andrea",
-    "codice": "9030/andrea-calzavara"
+    "codice": "9030/andrea-calzavara",
+    "italiano": "si"
   },
   {
     "nome": "BUCARELLI Lorenzo",
-    "codice": "821/lorenzo-bucarelli"
+    "codice": "821/lorenzo-bucarelli",
+    "italiano": "si"
   },
   {
     "nome": "LIBRIZZI Matteo",
-    "codice": "3207/matteo-librizzi"
+    "codice": "3207/matteo-librizzi",
+    "italiano": "si"
   },
   {
     "nome": "DELLA VALLE Amedeo",
-    "codice": "1617/amedeo-della-valle"
+    "codice": "1617/amedeo-della-valle",
+    "italiano": "si"
   },
   {
     "nome": "VILLA Mauro",
-    "codice": "6556/mauro-villa"
+    "codice": "6556/mauro-villa",
+    "italiano": "si"
   },
   {
     "nome": "CANDI Leonardo",
-    "codice": "954/leonardo-candi"
+    "codice": "954/leonardo-candi",
+    "italiano": "si"
   },
   {
     "nome": "DE NICOLAO Giovanni",
-    "codice": "1670/giovanni-de-nicolao"
+    "codice": "1670/giovanni-de-nicolao",
+    "italiano": "si"
   },
   {
     "nome": "GRANT Sasha",
-    "codice": "6994/sasha-grant"
+    "codice": "6994/sasha-grant",
+    "italiano": "si"
   },
   {
     "nome": "MARETTO Octavio",
-    "codice": "6499/octavio-maretto"
+    "codice": "6499/octavio-maretto",
+    "italiano": "si"
   },
   {
     "nome": "ZAMPINI Federico",
-    "codice": "7412/federico-zampini"
+    "codice": "7412/federico-zampini",
+    "italiano": "si"
   },
   {
     "nome": "AMBROSIN Lorenzo",
-    "codice": "106/lorenzo-ambrosin"
+    "codice": "106/lorenzo-ambrosin",
+    "italiano": "si"
   },
   {
     "nome": "OLIVIERI Matteo",
-    "codice": "9350/matteo-oliveri"
+    "codice": "9350/matteo-oliveri",
+    "italiano": "si"
   },
   {
     "nome": "EDWARDS Kessler",
-    "codice": "9371/kessler-edwards"
+    "codice": "9371/kessler-edwards",
+    "italiano": "no"
   },
   {
     "nome": "ALSTON Derrick jr",
-    "codice": "9004/derrick-alston"
+    "codice": "9004/derrick-alston",
+    "italiano": "no"
   },
   {
     "nome": "KLINTMAN Bobi",
-    "codice": "9372/bo-klintman"
+    "codice": "9372/bo-klintman",
+    "italiano": "no"
   },
   {
     "nome": "FLAGG Savion",
-    "codice": "9012/savion-flagg"
+    "codice": "9012/savion-flagg",
+    "italiano": "no"
   },
   {
     "nome": "GRAZULIS Andrejs",
-    "codice": "2494/andrejs-grazulis"
+    "codice": "2494/andrejs-grazulis",
+    "italiano": "no"
   },
   {
     "nome": "MILES Isaiah",
-    "codice": "9365/isaiah-miles"
+    "codice": "9365/isaiah-miles",
+    "italiano": "no"
   },
   {
     "nome": "PETERS Alec",
-    "codice": "9344/alec-peters"
+    "codice": "9344/alec-peters",
+    "italiano": "no"
   },
   {
     "nome": "BURNELL Jason",
-    "codice": "854/jason-burnell"
+    "codice": "854/jason-burnell",
+    "italiano": "no"
   },
   {
     "nome": "BOOKER Devin",
-    "codice": "9007/devin-booker"
+    "codice": "9007/devin-booker",
+    "italiano": "no"
   },
   {
     "nome": "SELJAAS Zac",
-    "codice": "9355/zac-seljaas"
+    "codice": "9355/zac-seljaas",
+    "italiano": "no"
   },
   {
     "nome": "WHITE Jack",
-    "codice": "9357/jack-white"
+    "codice": "9357/jack-white",
+    "italiano": "no"
   },
   {
     "nome": "THOR JT",
-    "codice": "9139/jt-thor"
+    "codice": "9139/jt-thor",
+    "italiano": "no"
   },
   {
     "nome": "BROWN John",
-    "codice": "774/john-brown"
+    "codice": "774/john-brown",
+    "italiano": "no"
   },
   {
     "nome": "RYAN Matt",
-    "codice": "9377/matt-ryan"
+    "codice": "9377/matt-ryan",
+    "italiano": "no"
   },
   {
     "nome": "CAREY Jr Vernon",
-    "codice": "9373/vernon-carey-jr"
+    "codice": "9373/vernon-carey-jr",
+    "italiano": "no"
   },
   {
     "nome": "FLOWERS Trentyn",
-    "codice": "9381/trentyn-flowers"
+    "codice": "9381/trentyn-flowers",
+    "italiano": "no"
   },
   {
     "nome": "WATSON Paul",
-    "codice": "9385/paul-watson"
+    "codice": "9385/paul-watson",
+    "italiano": "no"
   },
   {
     "nome": "OFFURUM Mezie",
-    "codice": "9347/mezie-offurum"
+    "codice": "9347/mezie-offurum",
+    "italiano": "no"
   },
   {
     "nome": "JOHNSON Brandon",
-    "codice": "9346/brandon-johnson"
+    "codice": "9346/brandon-johnson",
+    "italiano": "no"
   },
   {
     "nome": "ONYEMA Ze'rik",
-    "codice": "9348/ze-rik-onyema"
+    "codice": "9348/ze-rik-onyema",
+    "italiano": "no"
   },
   {
     "nome": "JALLOW Karim",
-    "codice": "9006/karim-jallow"
+    "codice": "9006/karim-jallow",
+    "italiano": "no"
   },
   {
     "nome": "GORHAM Justin",
-    "codice": "7431/justin-gorham"
+    "codice": "7431/justin-gorham",
+    "italiano": "no"
   },
   {
     "nome": "VENE Siim Sander",
-    "codice": "5756/siim-sander-vene"
+    "codice": "5756/siim-sander-vene",
+    "italiano": "no"
   },
   {
     "nome": "BIGELOW Isaiah",
-    "codice": "9327/isaiah-bigelow"
+    "codice": "9327/isaiah-bigelow",
+    "italiano": "no"
   },
   {
     "nome": "CHAPMAN Brekkett",
-    "codice": "9041/brekkott-chapman"
+    "codice": "9041/brekkott-chapman",
+    "italiano": "no"
   },
   {
     "nome": "CHERY Valentin",
-    "codice": "9333/valentine-chery"
+    "codice": "9333/valentine-chery",
+    "italiano": "no"
   },
   {
     "nome": "McDERMOTT Sean",
-    "codice": "7007/sean-mcdermott"
+    "codice": "7007/sean-mcdermott",
+    "italiano": "no"
   },
   {
     "nome": "BENDZIUS Eimantas",
-    "codice": "425/eimantas-bendzius"
+    "codice": "425/eimantas-bendzius",
+    "italiano": "no"
   },
   {
     "nome": "ROBY Isaiah",
-    "codice": "9335/isaiah-roby"
+    "codice": "9335/isaiah-roby",
+    "italiano": "no"
   },
   {
     "nome": "PARKS Jordan",
-    "codice": "4214/jordan-parks"
+    "codice": "4214/jordan-parks",
+    "italiano": "no"
   },
   {
     "nome": "WILTJER Kyle",
-    "codice": "7079/kyle-wiltjer"
+    "codice": "7079/kyle-wiltjer",
+    "italiano": "no"
   },
   {
     "nome": "OLINDE Louis",
-    "codice": "9362/louis-olinde"
+    "codice": "9362/louis-olinde",
+    "italiano": "no"
   },
   {
     "nome": "SAMUELS Jr. Jermaine",
-    "codice": "9338/jermaine-samuels"
+    "codice": "9338/jermaine-samuels",
+    "italiano": "no"
   },
   {
     "nome": "MELENDEZ Rj",
-    "codice": "9340/rj-melendez"
+    "codice": "9340/rj-melendez",
+    "italiano": "no"
   },
   {
     "nome": "FERRARI Francesco",
-    "codice": "7132/francesco-ferrari"
+    "codice": "7132/francesco-ferrari",
+    "italiano": "si"
   },
   {
     "nome": "RICCI Gianpaolo",
-    "codice": "4692/giampaolo-ricci"
+    "codice": "4692/giampaolo-ricci",
+    "italiano": "si"
   },
   {
     "nome": "AKELE Nicola",
-    "codice": "45/nicola-akele"
+    "codice": "45/nicola-akele",
+    "italiano": "si"
   },
   {
     "nome": "JAKIMOVSKI Andrej",
-    "codice": "9026/andrej-jakimovski"
+    "codice": "9026/andrej-jakimovski",
+    "italiano": "si"
   },
   {
     "nome": "SANKARE Assane",
-    "codice": "7097/assane-sankare"
+    "codice": "7097/assane-sankare",
+    "italiano": "si"
   },
   {
     "nome": "SEVERINI Luca",
-    "codice": "5125/luca-severini"
+    "codice": "5125/luca-severini",
+    "italiano": "si"
   },
   {
     "nome": "WHEATLE Carl",
-    "codice": "5913/carl-wheatle"
+    "codice": "5913/carl-wheatle",
+    "italiano": "si"
   },
   {
     "nome": "VERONESI Giovanni",
-    "codice": "5764/giovanni-veronesi"
+    "codice": "5764/giovanni-veronesi",
+    "italiano": "si"
   },
   {
     "nome": "MILOVANOVIC Marko",
-    "codice": ""
+    "codice": "",
+    "italiano": "si"
   },
   {
     "nome": "SIMONOVIC Marko",
-    "codice": "9382/marko-simonovic"
+    "codice": "9382/marko-simonovic",
+    "italiano": "si"
   },
   {
     "nome": "MEZZANOTTE Andrea",
-    "codice": "3710/andrea-mezzanotte"
+    "codice": "3710/andrea-mezzanotte",
+    "italiano": "si"
   },
   {
     "nome": "STRAUTINS Arturs",
-    "codice": "5369/arturs-strautins"
+    "codice": "5369/arturs-strautins",
+    "italiano": "si"
   },
   {
     "nome": "LEVER Alessandro",
-    "codice": "3200/alessandro-lever"
+    "codice": "3200/alessandro-lever",
+    "italiano": "si"
   },
   {
     "nome": "GAZZOTTI Giulio",
-    "codice": "2313/giulio-gazzotti"
+    "codice": "2313/giulio-gazzotti",
+    "italiano": "si"
   },
   {
     "nome": "ALIBEGOVIC Amar",
-    "codice": "75/amar-alibegovic"
+    "codice": "75/amar-alibegovic",
+    "italiano": "si"
   },
   {
     "nome": "NIANG Cheickh",
-    "codice": "7279/cheickh-niang"
+    "codice": "7279/cheickh-niang",
+    "italiano": "si"
   },
   {
     "nome": "AIRHIENBUWA Theo",
-    "codice": "6808/theo-airhienbuwa"
+    "codice": "6808/theo-airhienbuwa",
+    "italiano": "si"
   },
   {
     "nome": "BERTINI Alessandro",
-    "codice": "439/alessandro-bertini"
+    "codice": "439/alessandro-bertini",
+    "italiano": "si"
   },
   {
     "nome": "MIASCHI Federico",
-    "codice": "3714/federico-miaschi"
+    "codice": "3714/federico-miaschi",
+    "italiano": "si"
   },
   {
     "nome": "CHILLO Matteo",
-    "codice": "1189/matteo-chillo"
+    "codice": "1189/matteo-chillo",
+    "italiano": "si"
   },
   {
     "nome": "DEANGELI Lodovico",
-    "codice": "1592/lodovico-deangeli"
+    "codice": "1592/lodovico-deangeli",
+    "italiano": "si"
   },
   {
     "nome": "MOBIO Joseph",
-    "codice": "6189/joseph-mobio"
+    "codice": "6189/joseph-mobio",
+    "italiano": "si"
   },
   {
     "nome": "CAVALLERO Matteo",
-    "codice": "6562/matteo-cavallero"
+    "codice": "6562/matteo-cavallero",
+    "italiano": "si"
   },
   {
     "nome": "GRASSI Mattia",
-    "codice": "7539/mattia-grassi"
+    "codice": "7539/mattia-grassi",
+    "italiano": "si"
   },
   {
     "nome": "ALVITI Davide",
-    "codice": "97/davide-alviti"
+    "codice": "97/davide-alviti",
+    "italiano": "si"
   },
   {
     "nome": "NIKOLIC Stefan",
-    "codice": "4034/stefan-nikolic"
+    "codice": "4034/stefan-nikolic",
+    "italiano": "si"
   },
   {
     "nome": "IKANGI Iris",
-    "codice": "2790/iris-ikangi"
+    "codice": "2790/iris-ikangi",
+    "italiano": "si"
   },
   {
     "nome": "JANELIDZE Giga",
-    "codice": "2852/giga-janelidze"
+    "codice": "2852/giga-janelidze",
+    "italiano": "si"
   },
   {
     "nome": "LORO Andrea",
-    "codice": "6486/andrea-loro"
+    "codice": "6486/andrea-loro",
+    "italiano": "si"
   },
   {
     "nome": "BROWN Chad",
-    "codice": "9343/chad-brown"
+    "codice": "9343/chad-brown",
+    "italiano": "no"
   },
   {
     "nome": "DIARRA Aliou",
-    "codice": "9043/aliou-diarra"
+    "codice": "9043/aliou-diarra",
+    "italiano": "no"
   },
   {
     "nome": "KOKILA Kevin",
-    "codice": "9369/kevin-kokila"
+    "codice": "9369/kevin-kokila",
+    "italiano": "no"
   },
   {
     "nome": "WRIGHT Moses",
-    "codice": "9378/moses-wright"
+    "codice": "9378/moses-wright",
+    "italiano": "no"
   },
   {
     "nome": "OGBEIDE Derek",
-    "codice": "7034/derek-ogbeide"
+    "codice": "7034/derek-ogbeide",
+    "italiano": "no"
   },
   {
     "nome": "ECHENIQUE Jaime",
-    "codice": "9036/jaime-echenique"
+    "codice": "9036/jaime-echenique",
+    "italiano": "no"
   },
   {
     "nome": "BILAN Miro",
-    "codice": "536/miro-bilan"
+    "codice": "536/miro-bilan",
+    "italiano": "no"
   },
   {
     "nome": "OLEJNICZAK Dominic",
-    "codice": "9038/dominik-olejniczak"
+    "codice": "9038/dominik-olejniczak",
+    "italiano": "no"
   },
   {
     "nome": "MAWUGBE Selom",
-    "codice": "7449/selom-mawugbe"
+    "codice": "7449/selom-mawugbe",
+    "italiano": "no"
   },
   {
     "nome": "CROSWELL Ed",
-    "codice": "9014/ed-croswell"
+    "codice": "9014/ed-croswell",
+    "italiano": "no"
   },
   {
     "nome": "MCGLYNN Nick",
-    "codice": "9021/nick-mcglynn"
+    "codice": "9021/nick-mcglynn",
+    "italiano": "no"
   },
   {
     "nome": "SPENCER Skylar",
-    "codice": "6653/skylar-spencer"
+    "codice": "6653/skylar-spencer",
+    "italiano": "no"
   },
   {
     "nome": "RENFRO Nate",
-    "codice": "7428/nate-renfro"
+    "codice": "7428/nate-renfro",
+    "italiano": "no"
   },
   {
     "nome": "KAMAGATE Ismaël",
-    "codice": "7014/ismael-kamagate"
+    "codice": "7014/ismael-kamagate",
+    "italiano": "no"
   },
   {
     "nome": "BOAKYE Enoch",
-    "codice": "9360/enoch-boakye"
+    "codice": "9360/enoch-boakye",
+    "italiano": "no"
   },
   {
     "nome": "TOBEY Mike",
-    "codice": "9349/mike-tobey"
+    "codice": "9349/mike-tobey",
+    "italiano": "no"
   },
   {
     "nome": "OKEKE Leonardo",
-    "codice": "6619/leonardo-okeke"
+    "codice": "6619/leonardo-okeke",
+    "italiano": "si"
   },
   {
     "nome": "DIOUF Mouhamet",
-    "codice": "1774/mouhamet-rassoul-diouf"
+    "codice": "1774/mouhamet-rassoul-diouf",
+    "italiano": "si"
   },
   {
     "nome": "DIOP Ousmane",
-    "codice": "1775/ousmane-diop"
+    "codice": "1775/ousmane-diop",
+    "italiano": "si"
   },
   {
     "nome": "TOTE' Leonardo",
-    "codice": "5594/leonardo-tote"
+    "codice": "5594/leonardo-tote",
+    "italiano": "si"
   },
   {
     "nome": "CARUSO Guglielmo",
-    "codice": "6186/guglielmo-caruso"
+    "codice": "6186/guglielmo-caruso",
+    "italiano": "si"
   },
   {
     "nome": "FAINKE Elhadji",
-    "codice": "6887/elhadji-fainke"
+    "codice": "6887/elhadji-fainke",
+    "italiano": "si"
   },
   {
     "nome": "CAMARA Gora",
-    "codice": "934/gora-camara"
+    "codice": "934/gora-camara",
+    "italiano": "si"
   },
   {
     "nome": "EMEJURU Giovanni",
-    "codice": "9379/giovanni-emejuru"
+    "codice": "9379/giovanni-emejuru",
+    "italiano": "si"
   },
   {
     "nome": "IANNUZZI Antonio",
-    "codice": "2770/antonio-iannuzzi"
+    "codice": "2770/antonio-iannuzzi",
+    "italiano": "si"
   },
   {
     "nome": "EBOUA Paul",
-    "codice": "1875/paul-eboua"
+    "codice": "1875/paul-eboua",
+    "italiano": "si"
   },
   {
     "nome": "BAYEHE Jordan",
-    "codice": "378/jordan-bayehe"
+    "codice": "378/jordan-bayehe",
+    "italiano": "si"
   },
   {
     "nome": "CANDUSSI Francesco",
-    "codice": "949/francesco-candussi"
+    "codice": "949/francesco-candussi",
+    "italiano": "si"
   },
   {
     "nome": "LADURNER Maximilian",
-    "codice": "3155/maximilian-ladurner"
+    "codice": "3155/maximilian-ladurner",
+    "italiano": "si"
   },
   {
     "nome": "TESSITORI Amedeo",
-    "codice": "5481/amedeo-tessitori"
+    "codice": "5481/amedeo-tessitori",
+    "italiano": "si"
   },
   {
     "nome": "POSER Federico",
-    "codice": "7411/federico-poser"
+    "codice": "7411/federico-poser",
+    "italiano": "si"
   },
   {
     "nome": "MANE Maodo",
-    "codice": "9123/malick-mane-el-hadji-maodo"
+    "codice": "9123/malick-mane-el-hadji-maodo",
+    "italiano": "si"
   },
   {
     "nome": "TARCZEWSKI Kaleb",
-    "codice": "5433/kaleb-tarczewski"
+    "codice": "5433/kaleb-tarczewski",
+    "italiano": "no"
   },
   {
     "nome": "ANIGBOGU Ike",
-    "codice": "9042/ike-anigbogu"
+    "codice": "9042/ike-anigbogu",
+    "italiano": "no"
   },
   {
     "nome": "TYSON Hunter",
-    "codice": "9391/hunter-tyson"
+    "codice": "9391/hunter-tyson",
+    "italiano": "no"
   },
   {
     "nome": "MORETTI Davide",
-    "codice": "3855/davide-moretti"
+    "codice": "3855/davide-moretti",
+    "italiano": "si"
   },
   {
     "nome": "JONES Lajae",
-    "codice": "9390/lajae-jones"
+    "codice": "9390/lajae-jones",
+    "italiano": "no"
   }
 ]
