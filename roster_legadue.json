@@ -1,0 +1,1060 @@
+[
+  {
+    "nome": "FAMOSTRANO",
+    "proprietario": "LorFra20",
+    "creditiRimanenti": 48,
+    "creditiSpesi": 302,
+    "bonusMercato": 50,
+    "recuperoCreditiTagli": 0,
+    "giocatori": [
+      {
+        "ruolo": "G",
+        "giocatore": "ROSS Colbey",
+        "codice": "6604/colbey-ross",
+        "crediti": 5,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "G",
+        "giocatore": "DOWTIN Jeff",
+        "codice": "9356/jeff-dowtin",
+        "crediti": 1,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "G",
+        "giocatore": "MANNION Nico",
+        "codice": "6138/niccolo-mannion",
+        "crediti": 110,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "G",
+        "giocatore": "CALZAVARA Andrea",
+        "codice": "9030/andrea-calzavara",
+        "crediti": 20,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "G",
+        "giocatore": "ZAMPINI Federico",
+        "codice": "7412/federico-zampini",
+        "crediti": 5,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "GA",
+        "giocatore": "BATTLE RaeQuan",
+        "codice": "9302/raequan-battle",
+        "crediti": 5,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "A",
+        "giocatore": "PETERS Alec",
+        "codice": "9344/alec-peters",
+        "crediti": 5,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "A",
+        "giocatore": "BIGELOW Isaiah",
+        "codice": "9327/isaiah-bigelow",
+        "crediti": 5,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "A",
+        "giocatore": "BURNELL Jason",
+        "codice": "854/jason-burnell",
+        "crediti": 5,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "A",
+        "giocatore": "SAMUELS Jr. Jermaine",
+        "codice": "9338/jermaine-samuels",
+        "crediti": 5,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "AC",
+        "giocatore": "SIMONOVIC Marko",
+        "codice": "9382/marko-simonovic",
+        "crediti": 90,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "AC",
+        "giocatore": "LEVER Alessandro",
+        "codice": "3200/alessandro-lever",
+        "crediti": 5,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "C",
+        "giocatore": "ECHENIQUE Jaime",
+        "codice": "9036/jaime-echenique",
+        "crediti": 10,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "C",
+        "giocatore": "WRIGHT Moses",
+        "codice": "9378/moses-wright",
+        "crediti": 30,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "C",
+        "giocatore": "MAWUGBE Selom",
+        "codice": "7449/selom-mawugbe",
+        "crediti": 1,
+        "riconfermato": false,
+        "stato": "Attivo"
+      }
+    ]
+  },
+  {
+    "nome": "TT SARONNO",
+    "proprietario": "AlexD12",
+    "creditiRimanenti": 90,
+    "creditiSpesi": 260,
+    "bonusMercato": 50,
+    "recuperoCreditiTagli": 0,
+    "giocatori": [
+      {
+        "ruolo": "G",
+        "giocatore": "CHRISTON Semaj",
+        "codice": "1205/semaj-christon",
+        "crediti": 11,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "G",
+        "giocatore": "RAMSEY Jahmi'us",
+        "codice": "9032/jahmi-us-ramsey",
+        "crediti": 22,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "G",
+        "giocatore": "GALLOWAY Langston",
+        "codice": "6993/langston-galloway",
+        "crediti": 23,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "G",
+        "giocatore": "OLIVARI Quincy",
+        "codice": "9328/quincy-olivari",
+        "crediti": 21,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "GA",
+        "giocatore": "MORASCHINI Riccardo",
+        "codice": "3880/riccardo-moraschini",
+        "crediti": 1,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "GA",
+        "giocatore": "ALIBEGOVIC Mirza",
+        "codice": "76/mirza-alibegovic",
+        "crediti": 5,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "GA",
+        "giocatore": "PECCHIA Andrea",
+        "codice": "4268/andrea-pecchia",
+        "crediti": 5,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "A",
+        "giocatore": "FLAGG Savion",
+        "codice": "9012/savion-flagg",
+        "crediti": 15,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "A",
+        "giocatore": "VERONESI Giovanni",
+        "codice": "5764/giovanni-veronesi",
+        "crediti": 1,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "AC",
+        "giocatore": "THOR JT",
+        "codice": "9139/jt-thor",
+        "crediti": 37,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "AC",
+        "giocatore": "BROWN John",
+        "codice": "774/john-brown",
+        "crediti": 31,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "C",
+        "giocatore": "BROWN Chad",
+        "codice": "9343/chad-brown",
+        "crediti": 21,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "C",
+        "giocatore": "OGBEIDE Derek",
+        "codice": "7034/derek-ogbeide",
+        "crediti": 31,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "C",
+        "giocatore": "DIOUF Mouhamet",
+        "codice": "1774/mouhamet-rassoul-diouf",
+        "crediti": 31,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "C",
+        "giocatore": "CARUSO Guglielmo",
+        "codice": "6186/guglielmo-caruso",
+        "crediti": 5,
+        "riconfermato": false,
+        "stato": "Attivo"
+      }
+    ]
+  },
+  {
+    "nome": "EFSANE ҪUKO",
+    "proprietario": "KMS2171",
+    "creditiRimanenti": 118,
+    "creditiSpesi": 232,
+    "bonusMercato": 50,
+    "recuperoCreditiTagli": 0,
+    "giocatori": [
+      {
+        "ruolo": "G",
+        "giocatore": "HALE Hunter",
+        "codice": "9334/hunter-hale",
+        "crediti": 44,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "G",
+        "giocatore": "LEMAR Brynton",
+        "codice": "3185/brynton-lemar",
+        "crediti": 26,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "G",
+        "giocatore": "MOON Xavier",
+        "codice": "9375/xavier-moon",
+        "crediti": 5,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "G",
+        "giocatore": "RUSSELL DeWayne",
+        "codice": "4879/dewayne-russell",
+        "crediti": 5,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "G",
+        "giocatore": "LIBRIZZI Matteo",
+        "codice": "3207/matteo-librizzi",
+        "crediti": 5,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "GA",
+        "giocatore": "VALENTINE Denzel",
+        "codice": "7391/denzel-valentine",
+        "crediti": 40,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "GA",
+        "giocatore": "FAGGIAN Leonardo",
+        "codice": "1965/leonardo-faggian",
+        "crediti": 1,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "A",
+        "giocatore": "WHITE Jack",
+        "codice": "9357/jack-white",
+        "crediti": 24,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "A",
+        "giocatore": "RYAN Matt",
+        "codice": "9377/matt-ryan",
+        "crediti": 4,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "A",
+        "giocatore": "JOHNSON Brandon",
+        "codice": "9346/brandon-johnson",
+        "crediti": 1,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "A",
+        "giocatore": "STRAUTINS Arturs",
+        "codice": "5369/arturs-strautins",
+        "crediti": 30,
+        "riconfermato": true,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "C",
+        "giocatore": "KAMAGATE Ismaël",
+        "codice": "7014/ismael-kamagate",
+        "crediti": 36,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "C",
+        "giocatore": "TOBEY Mike",
+        "codice": "9349/mike-tobey",
+        "crediti": 6,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "C",
+        "giocatore": "EMEJURU Giovanni",
+        "codice": "9379/giovanni-emejuru",
+        "crediti": 4,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "C",
+        "giocatore": "CANDUSSI Francesco",
+        "codice": "949/francesco-candussi",
+        "crediti": 1,
+        "riconfermato": false,
+        "stato": "Attivo"
+      }
+    ]
+  },
+  {
+    "nome": "LA EFFE",
+    "proprietario": "fabgallagher",
+    "creditiRimanenti": 163,
+    "creditiSpesi": 218,
+    "bonusMercato": 50,
+    "recuperoCreditiTagli": 31,
+    "giocatori": [
+      {
+        "ruolo": "G",
+        "giocatore": "HOLIDAY Aaron",
+        "codice": "9374/aaron-holiday",
+        "crediti": 5,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "G",
+        "giocatore": "DURHAM Aljami",
+        "codice": "9009/aljami-durham",
+        "crediti": 1,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "G",
+        "giocatore": "COLE RJ",
+        "codice": "9031/r-j-cole",
+        "crediti": 3,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "G",
+        "giocatore": "BOLMARO Leandro",
+        "codice": "7405/leandro-bolmaro",
+        "crediti": 1,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "G",
+        "giocatore": "THOMPSON Darius",
+        "codice": "5499/darius-thompson",
+        "crediti": 5,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "GA",
+        "giocatore": "PETRUCELLI John",
+        "codice": "6142/john-petrucelli",
+        "crediti": 37,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "A",
+        "giocatore": "EDWARDS Kessler",
+        "codice": "9371/kessler-edwards",
+        "crediti": 1,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "A",
+        "giocatore": "ROBY Isaiah",
+        "codice": "9335/isaiah-roby",
+        "crediti": 1,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "A",
+        "giocatore": "LORO Andrea",
+        "codice": "6486/andrea-loro",
+        "crediti": 4,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "A",
+        "giocatore": "ALIBEGOVIC Amar",
+        "codice": "75/amar-alibegovic",
+        "crediti": 53,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "A",
+        "giocatore": "NIANG Cheickh",
+        "codice": "7279/cheickh-niang",
+        "crediti": 1,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "AC",
+        "giocatore": "ONYEMA Ze'rik",
+        "codice": "9348/ze-rik-onyema",
+        "crediti": 5,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "C",
+        "giocatore": "OLEJNICZAK Dominic",
+        "codice": "9038/dominik-olejniczak",
+        "crediti": 68,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "C",
+        "giocatore": "ANIGBOGU Ike",
+        "codice": "9042/ike-anigbogu",
+        "crediti": 1,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "C",
+        "giocatore": "TARCZEWSKI Kaleb",
+        "codice": "5433/kaleb-tarczewski",
+        "crediti": 1,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "C",
+        "giocatore": "CROSWELL Ed",
+        "codice": "9014/ed-croswell",
+        "crediti": 30,
+        "riconfermato": true,
+        "stato": "Ceduto",
+        "motivoCessione": "taglio fase di riparazione"
+      },
+      {
+        "ruolo": "G",
+        "giocatore": "CARR Marcus",
+        "codice": "9368/marcus-carr",
+        "crediti": 1,
+        "riconfermato": false,
+        "stato": "Ceduto",
+        "motivoCessione": "taglio fase di riparazione"
+      }
+    ]
+  },
+  {
+    "nome": "BRIFAX LECCE",
+    "proprietario": "Brifax",
+    "creditiRimanenti": 121,
+    "creditiSpesi": 229,
+    "bonusMercato": 50,
+    "recuperoCreditiTagli": 0,
+    "giocatori": [
+      {
+        "ruolo": "G",
+        "giocatore": "MADDOX Dante",
+        "codice": "9351/dante-maddox",
+        "crediti": 15,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "G",
+        "giocatore": "BELLO Rasheed",
+        "codice": "9366/rasheed-bello",
+        "crediti": 1,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "G",
+        "giocatore": "NEVELS Garrett",
+        "codice": "2293/garrett-nevels",
+        "crediti": 1,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "G",
+        "giocatore": "DELLA VALLE Amedeo",
+        "codice": "1617/amedeo-della-valle",
+        "crediti": 110,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "G",
+        "giocatore": "BUCARELLI Lorenzo",
+        "codice": "821/lorenzo-bucarelli",
+        "crediti": 1,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "GA",
+        "giocatore": "UDOM Liam",
+        "codice": "5660/liam-udom",
+        "crediti": 5,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "A",
+        "giocatore": "FLOWERS Trentyn",
+        "codice": "9381/trentyn-flowers",
+        "crediti": 12,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "A",
+        "giocatore": "OFFURUM Mezie",
+        "codice": "9347/mezie-offurum",
+        "crediti": 1,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "A",
+        "giocatore": "MELENDEZ Rj",
+        "codice": "9340/rj-melendez",
+        "crediti": 1,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "A",
+        "giocatore": "JAKIMOVSKI Andrej",
+        "codice": "9026/andrej-jakimovski",
+        "crediti": 11,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "A",
+        "giocatore": "BERTINI Alessandro",
+        "codice": "439/alessandro-bertini",
+        "crediti": 1,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "AC",
+        "giocatore": "WILTJER Kyle",
+        "codice": "7079/kyle-wiltjer",
+        "crediti": 30,
+        "riconfermato": true,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "C",
+        "giocatore": "BOAKYE Enoch",
+        "codice": "9360/enoch-boakye",
+        "crediti": 5,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "C",
+        "giocatore": "MCGLYNN Nick",
+        "codice": "9021/nick-mcglynn",
+        "crediti": 5,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "C",
+        "giocatore": "DIARRA Aliou",
+        "codice": "9043/aliou-diarra",
+        "crediti": 30,
+        "riconfermato": false,
+        "stato": "Attivo"
+      }
+    ]
+  },
+  {
+    "nome": "SPRITZ&ROLL",
+    "proprietario": "Giuseppe",
+    "creditiRimanenti": 94,
+    "creditiSpesi": 256,
+    "bonusMercato": 50,
+    "recuperoCreditiTagli": 0,
+    "giocatori": [
+      {
+        "ruolo": "G",
+        "giocatore": "MOORE Charlie",
+        "codice": "7030/charlie-edward-moore",
+        "crediti": 5,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "G",
+        "giocatore": "ROSSATO Riccardo",
+        "codice": "6640/riccardo-rossato",
+        "crediti": 2,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "G",
+        "giocatore": "MASCOLO Bruno",
+        "codice": "3526/bruno-mascolo",
+        "crediti": 5,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "G",
+        "giocatore": "FLACCADORI Diego",
+        "codice": "2103/diego-flaccadori",
+        "crediti": 30,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "G",
+        "giocatore": "CANDI Leonardo",
+        "codice": "954/leonardo-candi",
+        "crediti": 10,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "GA",
+        "giocatore": "MACURA JP",
+        "codice": "6191/jp-macura",
+        "crediti": 30,
+        "riconfermato": true,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "GA",
+        "giocatore": "VISCONTI Riccardo",
+        "codice": "5823/riccardo-visconti",
+        "crediti": 2,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "A",
+        "giocatore": "GRAZULIS Andrejs",
+        "codice": "2494/andrejs-grazulis",
+        "crediti": 10,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "A",
+        "giocatore": "PARKS Jordan",
+        "codice": "4214/jordan-parks",
+        "crediti": 35,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "A",
+        "giocatore": "SELJAAS Zac",
+        "codice": "9355/zac-seljaas",
+        "crediti": 28,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "A",
+        "giocatore": "RICCI Gianpaolo",
+        "codice": "4692/giampaolo-ricci",
+        "crediti": 65,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "C",
+        "giocatore": "SPENCER Skylar",
+        "codice": "6653/skylar-spencer",
+        "crediti": 5,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "C",
+        "giocatore": "TESSITORI Amedeo",
+        "codice": "5481/amedeo-tessitori",
+        "crediti": 22,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "C",
+        "giocatore": "POSER Federico",
+        "codice": "7411/federico-poser",
+        "crediti": 6,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "C",
+        "giocatore": "DIOP Ousmane",
+        "codice": "1775/ousmane-diop",
+        "crediti": 1,
+        "riconfermato": false,
+        "stato": "Attivo"
+      }
+    ]
+  },
+  {
+    "nome": "OBA",
+    "proprietario": "Tamatoa",
+    "creditiRimanenti": 19,
+    "creditiSpesi": 331,
+    "bonusMercato": 50,
+    "recuperoCreditiTagli": 0,
+    "giocatori": [
+      {
+        "ruolo": "G",
+        "giocatore": "HUBB Prentiss",
+        "codice": "7048/prentiss-hubb",
+        "crediti": 17,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "G",
+        "giocatore": "WATSON Glynn",
+        "codice": "9363/glynn-watson",
+        "crediti": 16,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "G",
+        "giocatore": "SPISSU Marco",
+        "codice": "5299/marco-spissu",
+        "crediti": 61,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "G",
+        "giocatore": "BALDASSO Tommaso",
+        "codice": "274/tommaso-baldasso",
+        "crediti": 65,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "GA",
+        "giocatore": "MOORE JR Wendell",
+        "codice": "9370/wendell-moore",
+        "crediti": 1,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "GA",
+        "giocatore": "BARFORD Jaylen",
+        "codice": "314/jaylen-barford",
+        "crediti": 1,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "A",
+        "giocatore": "GORHAM Justin",
+        "codice": "7431/justin-gorham",
+        "crediti": 5,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "A",
+        "giocatore": "BENDZIUS Eimantas",
+        "codice": "425/eimantas-bendzius",
+        "crediti": 17,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "A",
+        "giocatore": "McDERMOTT Sean",
+        "codice": "7007/sean-mcdermott",
+        "crediti": 5,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "A",
+        "giocatore": "MILES Isaiah",
+        "codice": "9365/isaiah-miles",
+        "crediti": 3,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "A",
+        "giocatore": "ALVITI Davide",
+        "codice": "97/davide-alviti",
+        "crediti": 39,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "A",
+        "giocatore": "WHEATLE Carl",
+        "codice": "5913/carl-wheatle",
+        "crediti": 5,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "AC",
+        "giocatore": "BOOKER Devin",
+        "codice": "9007/devin-booker",
+        "crediti": 5,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "C",
+        "giocatore": "BILAN Miro",
+        "codice": "536/miro-bilan",
+        "crediti": 30,
+        "riconfermato": true,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "C",
+        "giocatore": "TOTE' Leonardo",
+        "codice": "5594/leonardo-tote",
+        "crediti": 61,
+        "riconfermato": false,
+        "stato": "Attivo"
+      }
+    ]
+  },
+  {
+    "nome": "CAG-8 TEAM",
+    "proprietario": "Baso23",
+    "creditiRimanenti": 199,
+    "creditiSpesi": 151,
+    "bonusMercato": 50,
+    "recuperoCreditiTagli": 0,
+    "giocatori": [
+      {
+        "ruolo": "G",
+        "giocatore": "EDWARDS Rob",
+        "codice": "9352/rob-edwards",
+        "crediti": 10,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "G",
+        "giocatore": "AYAYI Gerald",
+        "codice": "9380/gerald-ayayi",
+        "crediti": 1,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "G",
+        "giocatore": "CAPPELLETTI Alessandro",
+        "codice": "969/alessandro-cappelletti",
+        "crediti": 10,
+        "riconfermato": true,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "G",
+        "giocatore": "BORTOLANI Giordano",
+        "codice": "656/giordano-bortolani",
+        "crediti": 5,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "GA",
+        "giocatore": "BROWN Jr. Charles",
+        "codice": "9329/charles-brown",
+        "crediti": 35,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "GA",
+        "giocatore": "BROCKINGTON Izaiah",
+        "codice": "9339/izaiah-brockington",
+        "crediti": 5,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "GA",
+        "giocatore": "HALL Devon",
+        "codice": "6156/devon-hall",
+        "crediti": 1,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "GA",
+        "giocatore": "GUDURIC Marko",
+        "codice": "9008/marko-guduric",
+        "crediti": 30,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "A",
+        "giocatore": "JALLOW Karim",
+        "codice": "9006/karim-jallow",
+        "crediti": 1,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "A",
+        "giocatore": "ALSTON Derrick jr",
+        "codice": "9004/derrick-alston",
+        "crediti": 10,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "A",
+        "giocatore": "NIKOLIC Stefan",
+        "codice": "4034/stefan-nikolic",
+        "crediti": 1,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "AC",
+        "giocatore": "CHERY Valentin",
+        "codice": "9333/valentine-chery",
+        "crediti": 5,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "C",
+        "giocatore": "RENFRO Nate",
+        "codice": "7428/nate-renfro",
+        "crediti": 1,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "C",
+        "giocatore": "EBOUA Paul",
+        "codice": "1875/paul-eboua",
+        "crediti": 35,
+        "riconfermato": false,
+        "stato": "Attivo"
+      },
+      {
+        "ruolo": "C",
+        "giocatore": "BAYEHE Jordan",
+        "codice": "378/jordan-bayehe",
+        "crediti": 1,
+        "riconfermato": false,
+        "stato": "Attivo"
+      }
+    ]
+  }
+]
