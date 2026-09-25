@@ -5,19 +5,27 @@
     "partite": [
       {
         "casa": "Drink Team",
-        "trasferta": "Rasta Panthers"
+        "trasferta": "Rasta Panthers",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "CSKA Basket",
-        "trasferta": "Monza a Spicchi"
+        "trasferta": "Monza a Spicchi",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "PBK Dinamo Ronco",
-        "trasferta": "Maccabi Ruero"
+        "trasferta": "Maccabi Ruero",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Casorzo Lakers",
-        "trasferta": "Furleee"
+        "trasferta": "Furleee",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       }
     ]
   },
@@ -27,19 +35,27 @@
     "partite": [
       {
         "casa": "Rasta Panthers",
-        "trasferta": "Casorzo Lakers"
+        "trasferta": "Casorzo Lakers",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Maccabi Ruero",
-        "trasferta": "Drink Team"
+        "trasferta": "Drink Team",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Furleee",
-        "trasferta": "Monza a Spicchi"
+        "trasferta": "Monza a Spicchi",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "PBK Dinamo Ronco",
-        "trasferta": "CSKA Basket"
+        "trasferta": "CSKA Basket",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       }
     ]
   },
@@ -49,19 +65,27 @@
     "partite": [
       {
         "casa": "Furleee",
-        "trasferta": "CSKA Basket"
+        "trasferta": "CSKA Basket",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Rasta Panthers",
-        "trasferta": "PBK Dinamo Ronco"
+        "trasferta": "PBK Dinamo Ronco",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Monza a Spicchi",
-        "trasferta": "Maccabi Ruero"
+        "trasferta": "Maccabi Ruero",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Casorzo Lakers",
-        "trasferta": "Drink Team"
+        "trasferta": "Drink Team",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       }
     ]
   },
@@ -71,19 +95,27 @@
     "partite": [
       {
         "casa": "Monza a Spicchi",
-        "trasferta": "PBK Dinamo Ronco"
+        "trasferta": "PBK Dinamo Ronco",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "CSKA Basket",
-        "trasferta": "Rasta Panthers"
+        "trasferta": "Rasta Panthers",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Maccabi Ruero",
-        "trasferta": "Casorzo Lakers"
+        "trasferta": "Casorzo Lakers",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Drink Team",
-        "trasferta": "Furleee"
+        "trasferta": "Furleee",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       }
     ]
   },
@@ -93,19 +125,27 @@
     "partite": [
       {
         "casa": "Drink Team",
-        "trasferta": "CSKA Basket"
+        "trasferta": "CSKA Basket",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Furleee",
-        "trasferta": "PBK Dinamo Ronco"
+        "trasferta": "PBK Dinamo Ronco",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Maccabi Ruero",
-        "trasferta": "Rasta Panthers"
+        "trasferta": "Rasta Panthers",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Casorzo Lakers",
-        "trasferta": "Monza a Spicchi"
+        "trasferta": "Monza a Spicchi",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       }
     ]
   },
@@ -115,19 +155,27 @@
     "partite": [
       {
         "casa": "Rasta Panthers",
-        "trasferta": "Monza a Spicchi"
+        "trasferta": "Monza a Spicchi",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "CSKA Basket",
-        "trasferta": "Casorzo Lakers"
+        "trasferta": "Casorzo Lakers",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Furleee",
-        "trasferta": "Maccabi Ruero"
+        "trasferta": "Maccabi Ruero",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "PBK Dinamo Ronco",
-        "trasferta": "Drink Team"
+        "trasferta": "Drink Team",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       }
     ]
   },
@@ -137,19 +185,27 @@
     "partite": [
       {
         "casa": "Rasta Panthers",
-        "trasferta": "Furleee"
+        "trasferta": "Furleee",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "CSKA Basket",
-        "trasferta": "Maccabi Ruero"
+        "trasferta": "Maccabi Ruero",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Monza a Spicchi",
-        "trasferta": "Drink Team"
+        "trasferta": "Drink Team",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Casorzo Lakers",
-        "trasferta": "PBK Dinamo Ronco"
+        "trasferta": "PBK Dinamo Ronco",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       }
     ]
   },
@@ -159,19 +215,27 @@
     "partite": [
       {
         "casa": "Rasta Panthers",
-        "trasferta": "Drink Team"
+        "trasferta": "Drink Team",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Monza a Spicchi",
-        "trasferta": "CSKA Basket"
+        "trasferta": "CSKA Basket",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Maccabi Ruero",
-        "trasferta": "PBK Dinamo Ronco"
+        "trasferta": "PBK Dinamo Ronco",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Furleee",
-        "trasferta": "Casorzo Lakers"
+        "trasferta": "Casorzo Lakers",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       }
     ]
   },
@@ -181,19 +245,27 @@
     "partite": [
       {
         "casa": "Casorzo Lakers",
-        "trasferta": "Rasta Panthers"
+        "trasferta": "Rasta Panthers",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Drink Team",
-        "trasferta": "Maccabi Ruero"
+        "trasferta": "Maccabi Ruero",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Monza a Spicchi",
-        "trasferta": "Furleee"
+        "trasferta": "Furleee",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "CSKA Basket",
-        "trasferta": "PBK Dinamo Ronco"
+        "trasferta": "PBK Dinamo Ronco",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       }
     ]
   },
@@ -203,19 +275,27 @@
     "partite": [
       {
         "casa": "CSKA Basket",
-        "trasferta": "Furleee"
+        "trasferta": "Furleee",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "PBK Dinamo Ronco",
-        "trasferta": "Rasta Panthers"
+        "trasferta": "Rasta Panthers",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Maccabi Ruero",
-        "trasferta": "Monza a Spicchi"
+        "trasferta": "Monza a Spicchi",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Drink Team",
-        "trasferta": "Casorzo Lakers"
+        "trasferta": "Casorzo Lakers",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       }
     ]
   },
@@ -225,19 +305,27 @@
     "partite": [
       {
         "casa": "PBK Dinamo Ronco",
-        "trasferta": "Monza a Spicchi"
+        "trasferta": "Monza a Spicchi",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Rasta Panthers",
-        "trasferta": "CSKA Basket"
+        "trasferta": "CSKA Basket",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Casorzo Lakers",
-        "trasferta": "Maccabi Ruero"
+        "trasferta": "Maccabi Ruero",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Furleee",
-        "trasferta": "Drink Team"
+        "trasferta": "Drink Team",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       }
     ]
   },
@@ -247,19 +335,27 @@
     "partite": [
       {
         "casa": "CSKA Basket",
-        "trasferta": "Drink Team"
+        "trasferta": "Drink Team",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "PBK Dinamo Ronco",
-        "trasferta": "Furleee"
+        "trasferta": "Furleee",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Rasta Panthers",
-        "trasferta": "Maccabi Ruero"
+        "trasferta": "Maccabi Ruero",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Monza a Spicchi",
-        "trasferta": "Casorzo Lakers"
+        "trasferta": "Casorzo Lakers",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       }
     ]
   },
@@ -269,19 +365,27 @@
     "partite": [
       {
         "casa": "Monza a Spicchi",
-        "trasferta": "Rasta Panthers"
+        "trasferta": "Rasta Panthers",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Casorzo Lakers",
-        "trasferta": "CSKA Basket"
+        "trasferta": "CSKA Basket",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Maccabi Ruero",
-        "trasferta": "Furleee"
+        "trasferta": "Furleee",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Drink Team",
-        "trasferta": "PBK Dinamo Ronco"
+        "trasferta": "PBK Dinamo Ronco",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       }
     ]
   },
@@ -291,19 +395,27 @@
     "partite": [
       {
         "casa": "Furleee",
-        "trasferta": "Rasta Panthers"
+        "trasferta": "Rasta Panthers",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Maccabi Ruero",
-        "trasferta": "CSKA Basket"
+        "trasferta": "CSKA Basket",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Drink Team",
-        "trasferta": "Monza a Spicchi"
+        "trasferta": "Monza a Spicchi",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "PBK Dinamo Ronco",
-        "trasferta": "Casorzo Lakers"
+        "trasferta": "Casorzo Lakers",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       }
     ]
   },
@@ -313,19 +425,27 @@
     "partite": [
       {
         "casa": "Drink Team",
-        "trasferta": "Rasta Panthers"
+        "trasferta": "Rasta Panthers",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "CSKA Basket",
-        "trasferta": "Monza a Spicchi"
+        "trasferta": "Monza a Spicchi",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "PBK Dinamo Ronco",
-        "trasferta": "Maccabi Ruero"
+        "trasferta": "Maccabi Ruero",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Casorzo Lakers",
-        "trasferta": "Furleee"
+        "trasferta": "Furleee",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       }
     ]
   },
@@ -335,19 +455,27 @@
     "partite": [
       {
         "casa": "Rasta Panthers",
-        "trasferta": "Casorzo Lakers"
+        "trasferta": "Casorzo Lakers",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Maccabi Ruero",
-        "trasferta": "Drink Team"
+        "trasferta": "Drink Team",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Furleee",
-        "trasferta": "Monza a Spicchi"
+        "trasferta": "Monza a Spicchi",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "PBK Dinamo Ronco",
-        "trasferta": "CSKA Basket"
+        "trasferta": "CSKA Basket",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       }
     ]
   },
@@ -357,19 +485,27 @@
     "partite": [
       {
         "casa": "Furleee",
-        "trasferta": "CSKA Basket"
+        "trasferta": "CSKA Basket",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Rasta Panthers",
-        "trasferta": "PBK Dinamo Ronco"
+        "trasferta": "PBK Dinamo Ronco",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Monza a Spicchi",
-        "trasferta": "Maccabi Ruero"
+        "trasferta": "Maccabi Ruero",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Casorzo Lakers",
-        "trasferta": "Drink Team"
+        "trasferta": "Drink Team",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       }
     ]
   },
@@ -379,19 +515,27 @@
     "partite": [
       {
         "casa": "Monza a Spicchi",
-        "trasferta": "PBK Dinamo Ronco"
+        "trasferta": "PBK Dinamo Ronco",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "CSKA Basket",
-        "trasferta": "Rasta Panthers"
+        "trasferta": "Rasta Panthers",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Maccabi Ruero",
-        "trasferta": "Casorzo Lakers"
+        "trasferta": "Casorzo Lakers",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Drink Team",
-        "trasferta": "Furleee"
+        "trasferta": "Furleee",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       }
     ]
   },
@@ -401,19 +545,27 @@
     "partite": [
       {
         "casa": "Drink Team",
-        "trasferta": "CSKA Basket"
+        "trasferta": "CSKA Basket",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Furleee",
-        "trasferta": "PBK Dinamo Ronco"
+        "trasferta": "PBK Dinamo Ronco",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Maccabi Ruero",
-        "trasferta": "Rasta Panthers"
+        "trasferta": "Rasta Panthers",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Casorzo Lakers",
-        "trasferta": "Monza a Spicchi"
+        "trasferta": "Monza a Spicchi",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       }
     ]
   },
@@ -423,19 +575,27 @@
     "partite": [
       {
         "casa": "Rasta Panthers",
-        "trasferta": "Monza a Spicchi"
+        "trasferta": "Monza a Spicchi",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "CSKA Basket",
-        "trasferta": "Casorzo Lakers"
+        "trasferta": "Casorzo Lakers",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Furleee",
-        "trasferta": "Maccabi Ruero"
+        "trasferta": "Maccabi Ruero",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "PBK Dinamo Ronco",
-        "trasferta": "Drink Team"
+        "trasferta": "Drink Team",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       }
     ]
   },
@@ -445,19 +605,27 @@
     "partite": [
       {
         "casa": "Rasta Panthers",
-        "trasferta": "Furleee"
+        "trasferta": "Furleee",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "CSKA Basket",
-        "trasferta": "Maccabi Ruero"
+        "trasferta": "Maccabi Ruero",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Monza a Spicchi",
-        "trasferta": "Drink Team"
+        "trasferta": "Drink Team",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Casorzo Lakers",
-        "trasferta": "PBK Dinamo Ronco"
+        "trasferta": "PBK Dinamo Ronco",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       }
     ]
   }

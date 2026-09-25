@@ -5,19 +5,27 @@
     "partite": [
       {
         "casa": "OBA",
-        "trasferta": "Brifax Lecce"
+        "trasferta": "Brifax Lecce",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "La Effe",
-        "trasferta": "Efsane Ҫuko"
+        "trasferta": "Efsane Ҫuko",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Spritz n Roll",
-        "trasferta": "Famostrano"
+        "trasferta": "Famostrano",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "TT Saronno",
-        "trasferta": "Cag8 Team"
+        "trasferta": "Cag8 Team",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       }
     ]
   },
@@ -27,19 +35,27 @@
     "partite": [
       {
         "casa": "Brifax Lecce",
-        "trasferta": "TT Saronno"
+        "trasferta": "TT Saronno",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Famostrano",
-        "trasferta": "OBA"
+        "trasferta": "OBA",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Cag8 Team",
-        "trasferta": "Efsane Ҫuko"
+        "trasferta": "Efsane Ҫuko",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Spritz n Roll",
-        "trasferta": "La Effe"
+        "trasferta": "La Effe",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       }
     ]
   },
@@ -49,19 +65,27 @@
     "partite": [
       {
         "casa": "Cag8 Team",
-        "trasferta": "La Effe"
+        "trasferta": "La Effe",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Brifax Lecce",
-        "trasferta": "Spritz n Roll"
+        "trasferta": "Spritz n Roll",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Efsane Ҫuko",
-        "trasferta": "Famostrano"
+        "trasferta": "Famostrano",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "TT Saronno",
-        "trasferta": "OBA"
+        "trasferta": "OBA",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       }
     ]
   },
@@ -71,19 +95,27 @@
     "partite": [
       {
         "casa": "Efsane Ҫuko",
-        "trasferta": "Spritz n Roll"
+        "trasferta": "Spritz n Roll",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "La Effe",
-        "trasferta": "Brifax Lecce"
+        "trasferta": "Brifax Lecce",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Famostrano",
-        "trasferta": "TT Saronno"
+        "trasferta": "TT Saronno",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "OBA",
-        "trasferta": "Cag8 Team"
+        "trasferta": "Cag8 Team",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       }
     ]
   },
@@ -93,19 +125,27 @@
     "partite": [
       {
         "casa": "OBA",
-        "trasferta": "La Effe"
+        "trasferta": "La Effe",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Cag8 Team",
-        "trasferta": "Spritz n Roll"
+        "trasferta": "Spritz n Roll",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Famostrano",
-        "trasferta": "Brifax Lecce"
+        "trasferta": "Brifax Lecce",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "TT Saronno",
-        "trasferta": "Efsane Ҫuko"
+        "trasferta": "Efsane Ҫuko",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       }
     ]
   },
@@ -115,19 +155,27 @@
     "partite": [
       {
         "casa": "Brifax Lecce",
-        "trasferta": "Efsane Ҫuko"
+        "trasferta": "Efsane Ҫuko",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "La Effe",
-        "trasferta": "TT Saronno"
+        "trasferta": "TT Saronno",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Cag8 Team",
-        "trasferta": "Famostrano"
+        "trasferta": "Famostrano",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Spritz n Roll",
-        "trasferta": "OBA"
+        "trasferta": "OBA",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       }
     ]
   },
@@ -137,19 +185,27 @@
     "partite": [
       {
         "casa": "Brifax Lecce",
-        "trasferta": "Cag8 Team"
+        "trasferta": "Cag8 Team",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "La Effe",
-        "trasferta": "Famostrano"
+        "trasferta": "Famostrano",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Efsane Ҫuko",
-        "trasferta": "OBA"
+        "trasferta": "OBA",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "TT Saronno",
-        "trasferta": "Spritz n Roll"
+        "trasferta": "Spritz n Roll",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       }
     ]
   },
@@ -159,19 +215,27 @@
     "partite": [
       {
         "casa": "Brifax Lecce",
-        "trasferta": "OBA"
+        "trasferta": "OBA",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Efsane Ҫuko",
-        "trasferta": "La Effe"
+        "trasferta": "La Effe",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Famostrano",
-        "trasferta": "Spritz n Roll"
+        "trasferta": "Spritz n Roll",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Cag8 Team",
-        "trasferta": "TT Saronno"
+        "trasferta": "TT Saronno",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       }
     ]
   },
@@ -181,19 +245,27 @@
     "partite": [
       {
         "casa": "TT Saronno",
-        "trasferta": "Brifax Lecce"
+        "trasferta": "Brifax Lecce",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "OBA",
-        "trasferta": "Famostrano"
+        "trasferta": "Famostrano",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Efsane Ҫuko",
-        "trasferta": "Cag8 Team"
+        "trasferta": "Cag8 Team",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "La Effe",
-        "trasferta": "Spritz n Roll"
+        "trasferta": "Spritz n Roll",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       }
     ]
   },
@@ -203,19 +275,27 @@
     "partite": [
       {
         "casa": "La Effe",
-        "trasferta": "Cag8 Team"
+        "trasferta": "Cag8 Team",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Spritz n Roll",
-        "trasferta": "Brifax Lecce"
+        "trasferta": "Brifax Lecce",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Famostrano",
-        "trasferta": "Efsane Ҫuko"
+        "trasferta": "Efsane Ҫuko",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "OBA",
-        "trasferta": "TT Saronno"
+        "trasferta": "TT Saronno",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       }
     ]
   },
@@ -225,19 +305,27 @@
     "partite": [
       {
         "casa": "Spritz n Roll",
-        "trasferta": "Efsane Ҫuko"
+        "trasferta": "Efsane Ҫuko",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Brifax Lecce",
-        "trasferta": "La Effe"
+        "trasferta": "La Effe",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "TT Saronno",
-        "trasferta": "Famostrano"
+        "trasferta": "Famostrano",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Cag8 Team",
-        "trasferta": "OBA"
+        "trasferta": "OBA",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       }
     ]
   },
@@ -247,19 +335,27 @@
     "partite": [
       {
         "casa": "La Effe",
-        "trasferta": "OBA"
+        "trasferta": "OBA",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Spritz n Roll",
-        "trasferta": "Cag8 Team"
+        "trasferta": "Cag8 Team",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Brifax Lecce",
-        "trasferta": "Famostrano"
+        "trasferta": "Famostrano",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Efsane Ҫuko",
-        "trasferta": "TT Saronno"
+        "trasferta": "TT Saronno",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       }
     ]
   },
@@ -269,19 +365,27 @@
     "partite": [
       {
         "casa": "Efsane Ҫuko",
-        "trasferta": "Brifax Lecce"
+        "trasferta": "Brifax Lecce",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "TT Saronno",
-        "trasferta": "La Effe"
+        "trasferta": "La Effe",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Famostrano",
-        "trasferta": "Cag8 Team"
+        "trasferta": "Cag8 Team",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "OBA",
-        "trasferta": "Spritz n Roll"
+        "trasferta": "Spritz n Roll",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       }
     ]
   },
@@ -291,19 +395,27 @@
     "partite": [
       {
         "casa": "Cag8 Team",
-        "trasferta": "Brifax Lecce"
+        "trasferta": "Brifax Lecce",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Famostrano",
-        "trasferta": "La Effe"
+        "trasferta": "La Effe",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "OBA",
-        "trasferta": "Efsane Ҫuko"
+        "trasferta": "Efsane Ҫuko",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Spritz n Roll",
-        "trasferta": "TT Saronno"
+        "trasferta": "TT Saronno",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       }
     ]
   },
@@ -313,19 +425,27 @@
     "partite": [
       {
         "casa": "OBA",
-        "trasferta": "Brifax Lecce"
+        "trasferta": "Brifax Lecce",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "La Effe",
-        "trasferta": "Efsane Ҫuko"
+        "trasferta": "Efsane Ҫuko",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Spritz n Roll",
-        "trasferta": "Famostrano"
+        "trasferta": "Famostrano",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "TT Saronno",
-        "trasferta": "Cag8 Team"
+        "trasferta": "Cag8 Team",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       }
     ]
   },
@@ -335,19 +455,27 @@
     "partite": [
       {
         "casa": "Brifax Lecce",
-        "trasferta": "TT Saronno"
+        "trasferta": "TT Saronno",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Famostrano",
-        "trasferta": "OBA"
+        "trasferta": "OBA",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Cag8 Team",
-        "trasferta": "Efsane Ҫuko"
+        "trasferta": "Efsane Ҫuko",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Spritz n Roll",
-        "trasferta": "La Effe"
+        "trasferta": "La Effe",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       }
     ]
   },
@@ -357,19 +485,27 @@
     "partite": [
       {
         "casa": "Cag8 Team",
-        "trasferta": "La Effe"
+        "trasferta": "La Effe",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Brifax Lecce",
-        "trasferta": "Spritz n Roll"
+        "trasferta": "Spritz n Roll",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Efsane Ҫuko",
-        "trasferta": "Famostrano"
+        "trasferta": "Famostrano",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "TT Saronno",
-        "trasferta": "OBA"
+        "trasferta": "OBA",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       }
     ]
   },
@@ -379,19 +515,27 @@
     "partite": [
       {
         "casa": "Efsane Ҫuko",
-        "trasferta": "Spritz n Roll"
+        "trasferta": "Spritz n Roll",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "La Effe",
-        "trasferta": "Brifax Lecce"
+        "trasferta": "Brifax Lecce",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Famostrano",
-        "trasferta": "TT Saronno"
+        "trasferta": "TT Saronno",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "OBA",
-        "trasferta": "Cag8 Team"
+        "trasferta": "Cag8 Team",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       }
     ]
   },
@@ -401,19 +545,27 @@
     "partite": [
       {
         "casa": "OBA",
-        "trasferta": "La Effe"
+        "trasferta": "La Effe",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Cag8 Team",
-        "trasferta": "Spritz n Roll"
+        "trasferta": "Spritz n Roll",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Famostrano",
-        "trasferta": "Brifax Lecce"
+        "trasferta": "Brifax Lecce",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "TT Saronno",
-        "trasferta": "Efsane Ҫuko"
+        "trasferta": "Efsane Ҫuko",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       }
     ]
   },
@@ -423,19 +575,27 @@
     "partite": [
       {
         "casa": "Brifax Lecce",
-        "trasferta": "Efsane Ҫuko"
+        "trasferta": "Efsane Ҫuko",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "La Effe",
-        "trasferta": "TT Saronno"
+        "trasferta": "TT Saronno",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Cag8 Team",
-        "trasferta": "Famostrano"
+        "trasferta": "Famostrano",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Spritz n Roll",
-        "trasferta": "OBA"
+        "trasferta": "OBA",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       }
     ]
   },
@@ -445,19 +605,27 @@
     "partite": [
       {
         "casa": "Brifax Lecce",
-        "trasferta": "Cag8 Team"
+        "trasferta": "Cag8 Team",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "La Effe",
-        "trasferta": "Famostrano"
+        "trasferta": "Famostrano",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Efsane Ҫuko",
-        "trasferta": "OBA"
+        "trasferta": "OBA",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "TT Saronno",
-        "trasferta": "Spritz n Roll"
+        "trasferta": "Spritz n Roll",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       }
     ]
   },
@@ -467,19 +635,27 @@
     "partite": [
       {
         "casa": "Brifax Lecce",
-        "trasferta": "OBA"
+        "trasferta": "OBA",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Efsane Ҫuko",
-        "trasferta": "La Effe"
+        "trasferta": "La Effe",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Famostrano",
-        "trasferta": "Spritz n Roll"
+        "trasferta": "Spritz n Roll",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Cag8 Team",
-        "trasferta": "TT Saronno"
+        "trasferta": "TT Saronno",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       }
     ]
   },
@@ -489,19 +665,27 @@
     "partite": [
       {
         "casa": "TT Saronno",
-        "trasferta": "Brifax Lecce"
+        "trasferta": "Brifax Lecce",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "OBA",
-        "trasferta": "Famostrano"
+        "trasferta": "Famostrano",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Efsane Ҫuko",
-        "trasferta": "Cag8 Team"
+        "trasferta": "Cag8 Team",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "La Effe",
-        "trasferta": "Spritz n Roll"
+        "trasferta": "Spritz n Roll",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       }
     ]
   },
@@ -511,19 +695,27 @@
     "partite": [
       {
         "casa": "La Effe",
-        "trasferta": "Cag8 Team"
+        "trasferta": "Cag8 Team",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Spritz n Roll",
-        "trasferta": "Brifax Lecce"
+        "trasferta": "Brifax Lecce",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Famostrano",
-        "trasferta": "Efsane Ҫuko"
+        "trasferta": "Efsane Ҫuko",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "OBA",
-        "trasferta": "TT Saronno"
+        "trasferta": "TT Saronno",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       }
     ]
   },
@@ -533,19 +725,27 @@
     "partite": [
       {
         "casa": "Spritz n Roll",
-        "trasferta": "Efsane Ҫuko"
+        "trasferta": "Efsane Ҫuko",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Brifax Lecce",
-        "trasferta": "La Effe"
+        "trasferta": "La Effe",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "TT Saronno",
-        "trasferta": "Famostrano"
+        "trasferta": "Famostrano",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Cag8 Team",
-        "trasferta": "OBA"
+        "trasferta": "OBA",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       }
     ]
   },
@@ -555,19 +755,27 @@
     "partite": [
       {
         "casa": "La Effe",
-        "trasferta": "OBA"
+        "trasferta": "OBA",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Spritz n Roll",
-        "trasferta": "Cag8 Team"
+        "trasferta": "Cag8 Team",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Brifax Lecce",
-        "trasferta": "Famostrano"
+        "trasferta": "Famostrano",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Efsane Ҫuko",
-        "trasferta": "TT Saronno"
+        "trasferta": "TT Saronno",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       }
     ]
   },
@@ -577,19 +785,27 @@
     "partite": [
       {
         "casa": "Efsane Ҫuko",
-        "trasferta": "Brifax Lecce"
+        "trasferta": "Brifax Lecce",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "TT Saronno",
-        "trasferta": "La Effe"
+        "trasferta": "La Effe",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Famostrano",
-        "trasferta": "Cag8 Team"
+        "trasferta": "Cag8 Team",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "OBA",
-        "trasferta": "Spritz n Roll"
+        "trasferta": "Spritz n Roll",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       }
     ]
   },
@@ -599,19 +815,27 @@
     "partite": [
       {
         "casa": "Cag8 Team",
-        "trasferta": "Brifax Lecce"
+        "trasferta": "Brifax Lecce",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Famostrano",
-        "trasferta": "La Effe"
+        "trasferta": "La Effe",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "OBA",
-        "trasferta": "Efsane Ҫuko"
+        "trasferta": "Efsane Ҫuko",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Spritz n Roll",
-        "trasferta": "TT Saronno"
+        "trasferta": "TT Saronno",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       }
     ]
   }
