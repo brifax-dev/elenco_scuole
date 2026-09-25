@@ -1,0 +1,792 @@
+[
+  {
+    "competizione": "Campionato Fantabasketlive serieA",
+    "edizioni": [
+      {
+        "anno": "2009-2010",
+        "primo": "Maccabi Ruero",
+        "secondo": "Pepsi Juve Caserta",
+        "terzo": "Monza a Spicchi"
+      },
+      {
+        "anno": "2010-2011",
+        "primo": "Titans",
+        "secondo": "Maccabi Ruero",
+        "terzo": "Monza a Spicchi"
+      },
+      {
+        "anno": "2011-2012",
+        "primo": "Maccabi Ruero",
+        "secondo": "Pepsi Juve Caserta",
+        "terzo": "Olimpia Cerro"
+      },
+      {
+        "anno": "2012-2013",
+        "primo": "Monza a Spicchi",
+        "secondo": "Basket Scer",
+        "terzo": "Azzurra Brindisi"
+      },
+      {
+        "anno": "2013-2014",
+        "primo": "Monza a Spicchi",
+        "secondo": "Maccabi Ruero",
+        "terzo": "Azzurra Brindisi"
+      },
+      {
+        "anno": "2014-2015",
+        "primo": "Monza a Spicchi",
+        "secondo": "Basket Scer",
+        "terzo": "Brifax Lecce"
+      },
+      {
+        "anno": "2015-2016",
+        "primo": "LaBari",
+        "secondo": "Basket Scer",
+        "terzo": "Aurora Trezzo"
+      },
+      {
+        "anno": "2016-2017",
+        "primo": "Brifax Lecce",
+        "secondo": "VR46",
+        "terzo": "Cantù"
+      },
+      {
+        "anno": "2017-2018",
+        "primo": "Brifax Lecce",
+        "secondo": "Monza a Spicchi",
+        "terzo": "Iuzzolinos"
+      },
+      {
+        "anno": "2018-2019",
+        "primo": "Maccabi Ruero",
+        "secondo": "Brifax Lecce",
+        "terzo": "Casorzo Lakers"
+      },
+      {
+        "anno": "2019-2020",
+        "nota": "non assegnato"
+      },
+      {
+        "anno": "2020-2021",
+        "primo": "Casorzo Lakers",
+        "secondo": "Drink Team",
+        "terzo": "Sassari Knicks"
+      },
+      {
+        "anno": "2021-2022",
+        "primo": "Sassari Knicks",
+        "secondo": "Spritz&Roll",
+        "terzo": "Monferrato Cricket"
+      },
+      {
+        "anno": "2022-2023",
+        "primo": "CSKA Basket",
+        "secondo": "Maccabi Ruero",
+        "terzo": "La Effe"
+      },
+      {
+        "anno": "2023-2024",
+        "primo": "CSKA Basket",
+        "secondo": "PBK Dinamo Ronco",
+        "terzo": "Maccabi Ruero"
+      },
+      {
+        "anno": "2024-2025",
+        "primo": "CSKA Basket",
+        "secondo": "Casorzo Lakers",
+        "terzo": "Rasta Panthers"
+      },
+      {
+        "anno": "2025-2026",
+        "primo": "CSKA Basket",
+        "secondo": "Maccabi Ruero",
+        "terzo": "Casorzo Lakers"
+      }
+    ]
+  },
+  {
+    "competizione": "Campionato Fantabasketlive legadue",
+    "edizioni": [
+      {
+        "anno": "2011-2012",
+        "primo": "Aurora Trezzo",
+        "secondo": "Kinder Bologna",
+        "terzo": "Gallo8"
+      },
+      {
+        "anno": "2012-2013",
+        "primo": "CCCP",
+        "secondo": "Fieri Guerrieri",
+        "terzo": "Aurora Armani Milano"
+      },
+      {
+        "anno": "2013-2014",
+        "primo": "CCCP",
+        "secondo": "Brifax Lecce",
+        "terzo": "Drink Team"
+      },
+      {
+        "anno": "2014-2015",
+        "primo": "LaBari",
+        "secondo": "Iuzzolinos",
+        "terzo": "Indiana Thunder"
+      },
+      {
+        "anno": "2015-2016",
+        "primo": "Sassari Knicks",
+        "secondo": "Cantù",
+        "terzo": "Panthers"
+      },
+      {
+        "anno": "2016-2017",
+        "primo": "Iuzzolinos",
+        "secondo": "Panthers",
+        "terzo": "Casorzo Lakers"
+      },
+      {
+        "anno": "2017-2018",
+        "primo": "Maccabi Ruero",
+        "secondo": "Auxilium Cus TO",
+        "terzo": "Celtic Pride"
+      },
+      {
+        "anno": "2018-2019",
+        "primo": "Crognaleto",
+        "secondo": "Celtic Pride",
+        "terzo": "PBK Dinamo Ronco"
+      },
+      {
+        "anno": "2019-2020",
+        "nota": "non assegnato"
+      },
+      {
+        "anno": "2020-2021",
+        "primo": "CSKA Basket",
+        "secondo": "La Effe",
+        "terzo": "PBK Dinamo Ronco"
+      },
+      {
+        "anno": "2021-2022",
+        "nota": "non disputato"
+      },
+      {
+        "anno": "2022-2023",
+        "primo": "Rasta Panthers",
+        "secondo": "PBK Dinamo Ronco",
+        "terzo": "Domperignon"
+      },
+      {
+        "anno": "2023-2024",
+        "primo": "Casorzo Lakers",
+        "secondo": "Furleee",
+        "terzo": "Fieri Guerrieri"
+      },
+      {
+        "anno": "2024-2025",
+        "primo": "Monza a Spicchi",
+        "secondo": "Brifax Lecce",
+        "terzo": "Drink Team"
+      },
+      {
+        "anno": "2025-2026",
+        "primo": "Drink Team",
+        "secondo": "Furleee",
+        "terzo": "Spritz n Roll"
+      }
+    ]
+  },
+  {
+    "competizione": "Coppa Italia serieA",
+    "edizioni": [
+      {
+        "anno": "2009-2010",
+        "primo": "Pepsi Juve Caserta",
+        "secondo": "Gialappa's Treviso",
+        "terzo": "Maccabi Ruero"
+      },
+      {
+        "anno": "2010-2011",
+        "primo": "Olimpia Cerro",
+        "secondo": "Titans",
+        "terzo": "Demones Ozieri"
+      },
+      {
+        "anno": "2011-2012",
+        "primo": "Cerro Magic",
+        "secondo": "Maccabi Ruero",
+        "terzo": "Basket Padova"
+      },
+      {
+        "anno": "2012-2013",
+        "primo": "Azzurra Brindisi",
+        "secondo": "Basket Scer",
+        "terzo": "Monza a Spicchi"
+      },
+      {
+        "anno": "2013-2014",
+        "primo": "Fieri Guerrieri",
+        "secondo": "Monza a Spicchi",
+        "terzo": "Azzurra Brindisi"
+      },
+      {
+        "anno": "2014-2015",
+        "primo": "Brifax Lecce",
+        "secondo": "Aurora Trezzo",
+        "terzo": "Basket Scer"
+      },
+      {
+        "anno": "2015-2016",
+        "primo": "LaBari",
+        "secondo": "Drink Team",
+        "terzo": "Fieri Guerrieri"
+      },
+      {
+        "anno": "2016-2017",
+        "primo": "VR46",
+        "secondo": "Brifax Lecce",
+        "terzo": "Sassari Knicks"
+      },
+      {
+        "anno": "2017-2018",
+        "primo": "Brifax Lecce",
+        "secondo": "Ball don't lie",
+        "terzo": "The Greek Freak"
+      },
+      {
+        "anno": "2018-2019",
+        "primo": "Brifax Lecce",
+        "secondo": "Monza a Spicchi",
+        "terzo": "Iuzzolinos"
+      },
+      {
+        "anno": "2019-2020",
+        "primo": "Fieri Guerrieri",
+        "secondo": "Celtic Pride",
+        "terzo": "Maccabi Ruero"
+      },
+      {
+        "anno": "2020-2021",
+        "primo": "Casorzo Lakers",
+        "secondo": "Drink Team",
+        "terzo": "Maccabi Ruero"
+      },
+      {
+        "anno": "2021-2022",
+        "primo": "Monferrato Cricket",
+        "secondo": "Spritz&Roll",
+        "terzo": "Dinamo Lucura"
+      },
+      {
+        "anno": "2022-2023",
+        "primo": "Monza a Spicchi",
+        "secondo": "Cag8 Team",
+        "terzo": "Monferrato Cricket"
+      },
+      {
+        "anno": "2023-2024",
+        "primo": "PBK Dinamo Ronco",
+        "secondo": "CSKA Basket",
+        "terzo": "OBA"
+      },
+      {
+        "anno": "2024-2025",
+        "primo": "CSKA Basket",
+        "secondo": "Rasta Panthers",
+        "terzo": "Casorzo Lakers"
+      },
+      {
+        "anno": "2025-2026",
+        "primo": "Maccabi Ruero",
+        "secondo": "Brifax Lecce",
+        "terzo": "Rasta Panthers"
+      }
+    ]
+  },
+  {
+    "competizione": "Coppa Italia legadue",
+    "edizioni": [
+      {
+        "anno": "2011-2012",
+        "primo": "Gallo 8",
+        "secondo": "Azzurra Brindisi",
+        "terzo": "Aurora Trezzo"
+      },
+      {
+        "anno": "2012-2013",
+        "primo": "Fieri Guerrieri",
+        "secondo": "Olimpia AJ Settimo",
+        "terzo": "Lombardini Libertines"
+      },
+      {
+        "anno": "2013-2014",
+        "primo": "CCCP",
+        "secondo": "Lombardini Libertines",
+        "terzo": "Drink Team"
+      },
+      {
+        "anno": "2014-2015",
+        "primo": "LaBari",
+        "secondo": "Indiana Thunder",
+        "terzo": "Iuzzolinos"
+      },
+      {
+        "anno": "2015-2016",
+        "primo": "Sassari Knicks",
+        "secondo": "Panthers",
+        "terzo": "ClaCa Avellino"
+      },
+      {
+        "anno": "2016-2017",
+        "primo": "Casorzo Lakers",
+        "secondo": "Iuzzolinos",
+        "terzo": "Karma"
+      },
+      {
+        "anno": "2017-2018",
+        "primo": "Torino Lakers",
+        "secondo": "Maccabi Ruero",
+        "terzo": "SSV Fassone"
+      },
+      {
+        "anno": "2018-2019",
+        "primo": "Celtic Pride",
+        "secondo": "Famostrano",
+        "terzo": "PBK Dinamo Ronco"
+      },
+      {
+        "anno": "2019-2020",
+        "primo": "Los Hermanos",
+        "secondo": "PBK Dinamo Ronco",
+        "terzo": "Squadra B"
+      },
+      {
+        "anno": "2020-2021",
+        "primo": "CSKA Basket",
+        "secondo": "Monferrato Cricket",
+        "terzo": "La Effe"
+      },
+      {
+        "anno": "2021-2022",
+        "nota": "non disputato"
+      },
+      {
+        "anno": "2022-2023",
+        "primo": "Fieri Guerrieri",
+        "secondo": "Brifax Lecce",
+        "terzo": "PBK Dinamo Ronco"
+      },
+      {
+        "anno": "2023-2024",
+        "primo": "Crognaleto",
+        "secondo": "Furleee",
+        "terzo": "Casorzo Lakers"
+      },
+      {
+        "anno": "2024-2025",
+        "primo": "Monza a Spicchi",
+        "secondo": "Brifax Lecce",
+        "terzo": "Spritz & Roll"
+      },
+      {
+        "anno": "2025-2026",
+        "primo": "Sassari Knicks",
+        "secondo": "Cag8 Team",
+        "terzo": "KMS"
+      }
+    ]
+  },
+  {
+    "competizione": "Coppa di Lega",
+    "edizioni": [
+      {
+        "anno": "2009-2010",
+        "primo": "Basket Padova",
+        "secondo": "Dream Battipaglia",
+        "terzo": "Pepsi Juve Caserta"
+      },
+      {
+        "anno": "2010-2011",
+        "primo": "Monza a Spicchi",
+        "secondo": "Maccabi Ruero",
+        "terzo": "Basket Padova"
+      },
+      {
+        "anno": "2011-2012",
+        "primo": "Maccabi Ruero",
+        "secondo": "Cerro Magic",
+        "terzo": "Aurora Trezzo"
+      },
+      {
+        "anno": "2012-2013",
+        "primo": "CCCP",
+        "secondo": "Basket Padova",
+        "terzo": "Fieri Guerrieri"
+      },
+      {
+        "anno": "2013-2014",
+        "primo": "CCCP",
+        "secondo": "Drink Team",
+        "terzo": "Brifax Lecce"
+      },
+      {
+        "anno": "2014-2015",
+        "primo": "Indiana Thunder",
+        "secondo": "LaBari",
+        "terzo": "Aurora Trezzo"
+      },
+      {
+        "anno": "2015-2016",
+        "primo": "LaBari",
+        "secondo": "Indiana Thunder",
+        "terzo": "Panthers"
+      },
+      {
+        "anno": "2016-2017",
+        "primo": "VR46",
+        "secondo": "Drink Team",
+        "terzo": "Sassari Knicks"
+      },
+      {
+        "anno": "2017-2018",
+        "primo": "Rubbia",
+        "secondo": "Fieri Guerrieri",
+        "terzo": "Monza a Spicchi"
+      },
+      {
+        "anno": "2018-2019",
+        "primo": "Celtic Pride",
+        "secondo": "Maccabi Ruero",
+        "terzo": "Rubbia"
+      },
+      {
+        "anno": "2019-2020",
+        "nota": "non assegnata"
+      },
+      {
+        "anno": "2020-2021",
+        "primo": "Monza a Spicchi",
+        "secondo": "Sassari Knicks",
+        "terzo": "Crognaleto"
+      },
+      {
+        "anno": "2021-2022",
+        "primo": "CSKA Basket",
+        "secondo": "Casorzo Lakers",
+        "terzo": "Dinamo Lucura"
+      },
+      {
+        "anno": "2022-2023",
+        "primo": "CSKA Basket",
+        "secondo": "Casorzo Lakers",
+        "terzo": "Monza a Spicchi"
+      },
+      {
+        "anno": "2023-2024",
+        "primo": "Rasta Panthers",
+        "secondo": "Furleee",
+        "terzo": "Sassari Knicks"
+      },
+      {
+        "anno": "2024-2025",
+        "primo": "CSKA Basket",
+        "secondo": "PBK Dinamo Ronco",
+        "terzo": "Fieri Guerrieri"
+      },
+      {
+        "anno": "2025-2026",
+        "primo": "CSKA Basket",
+        "secondo": "KMS Lì Van Kedileri",
+        "terzo": "Maccabi Ruero"
+      }
+    ]
+  },
+  {
+    "competizione": "Eurolega",
+    "edizioni": [
+      {
+        "anno": "2009-2010",
+        "primo": "Pepsi Juve Caserta",
+        "secondo": "Monza a Spicchi",
+        "terzo": "Zio Willie Team"
+      },
+      {
+        "anno": "2010-2011",
+        "primo": "Titans",
+        "secondo": "Monza a Spicchi",
+        "terzo": "Maccabi Ruero"
+      },
+      {
+        "anno": "2011-2012",
+        "primo": "Maccabi Ruero",
+        "secondo": "Monza a Spicchi",
+        "terzo": "Aurora Trezzo"
+      },
+      {
+        "anno": "2012-2013",
+        "primo": "CCCP",
+        "secondo": "Monza a Spicchi",
+        "terzo": "Basket Scer"
+      },
+      {
+        "anno": "2013-2014",
+        "primo": "Fieri Guerrieri",
+        "secondo": "CCCP",
+        "terzo": "Maccabi Ruero"
+      },
+      {
+        "anno": "2014-2015",
+        "primo": "LaBari",
+        "secondo": "Maccabi Ruero",
+        "terzo": "Iuzzolinos"
+      },
+      {
+        "anno": "2015-2016",
+        "primo": "Sassari Knicks",
+        "secondo": "Panthers",
+        "terzo": "LaBari"
+      },
+      {
+        "anno": "2016-2017",
+        "primo": "Brifax Lecce",
+        "secondo": "Iuzzolinos",
+        "terzo": "Casorzo Lakers"
+      },
+      {
+        "anno": "2017-2018",
+        "primo": "Monza a Spicchi",
+        "secondo": "Maccabi Ruero",
+        "terzo": "Brifax Lecce"
+      },
+      {
+        "anno": "2018-2019",
+        "primo": "Monza a Spicchi",
+        "secondo": "Maccabi Ruero",
+        "terzo": "Celtic Pride"
+      },
+      {
+        "anno": "2019-2020",
+        "nota": "non assegnata"
+      },
+      {
+        "anno": "2020-2021",
+        "primo": "CSKA Basket",
+        "secondo": "La Effe",
+        "terzo": "Celtic Pride"
+      },
+      {
+        "anno": "2021-2022",
+        "primo": "Monza a Spicchi",
+        "secondo": "Casorzo Lakers",
+        "terzo": "Maccabi Ruero"
+      },
+      {
+        "anno": "2022-2023",
+        "primo": "CSKA Basket",
+        "secondo": "Monza a Spicchi",
+        "terzo": "Casorzo Lakers"
+      },
+      {
+        "anno": "2023-2024",
+        "primo": "CSKA Basket",
+        "secondo": "Fieri Guerrieri",
+        "terzo": "PBK Dinamo Ronco"
+      },
+      {
+        "anno": "2024-2025",
+        "primo": "CSKA Basket",
+        "secondo": "Rasta Panthers",
+        "terzo": "Fieri Guerrieri"
+      },
+      {
+        "anno": "2025-2026",
+        "primo": "Cag8 Team",
+        "secondo": "Casorzo Lakers",
+        "terzo": "Rasta Panthers"
+      }
+    ]
+  },
+  {
+    "competizione": "Champions",
+    "edizioni": [
+      {
+        "anno": "2017-2018",
+        "primo": "Maccabi Ruero",
+        "secondo": "Fieri Guerrieri",
+        "terzo": "The Greek Freak"
+      },
+      {
+        "anno": "2018-2019",
+        "primo": "Maccabi Ruero",
+        "secondo": "Celtic Pride",
+        "terzo": "Crognaleto"
+      },
+      {
+        "anno": "2019-2020",
+        "nota": "non assegnata"
+      },
+      {
+        "anno": "2020-2021",
+        "primo": "Casorzo Lakers",
+        "secondo": "Piolo Basket",
+        "terzo": "Maccabi Ruero"
+      },
+      {
+        "anno": "2021-2022",
+        "primo": "Spritz&Roll",
+        "secondo": "Monferrato Cricket",
+        "terzo": "CSKA Basket"
+      },
+      {
+        "anno": "2022-2023",
+        "primo": "CSKA Basket",
+        "secondo": "Monza a Spicchi",
+        "terzo": "Maccabi Ruero"
+      },
+      {
+        "anno": "2023-2024",
+        "primo": "CSKA Basket",
+        "secondo": "OBA",
+        "terzo": "Fieri Guerrieri"
+      },
+      {
+        "anno": "2024-2025",
+        "primo": "CSKA Basket",
+        "secondo": "Brifax Lecce",
+        "terzo": "Casorzo Lakers"
+      },
+      {
+        "anno": "2025-2026",
+        "primo": "Casorzo Lakers",
+        "secondo": "Maccabi Ruero",
+        "terzo": "CSKA Basket"
+      }
+    ]
+  },
+  {
+    "competizione": "Supercoppa",
+    "edizioni": [
+      {
+        "anno": "2018-2019",
+        "primo": "Brifax Lecce",
+        "secondo": "Monza a Spicchi"
+      },
+      {
+        "anno": "2019-2020",
+        "primo": "Drink Team",
+        "secondo": "Brifax Lecce",
+        "terzo": "Maccabi Ruero"
+      },
+      {
+        "anno": "2020-2021",
+        "primo": "Casorzo Lakers",
+        "secondo": "Monza a Spicchi"
+      },
+      {
+        "anno": "2021-2022",
+        "primo": "Casorzo Lakers",
+        "secondo": "La Effe",
+        "terzo": "Monza a Spicchi"
+      },
+      {
+        "anno": "2022-2023",
+        "primo": "Maccabi Ruero",
+        "secondo": "Monza a Spicchi",
+        "terzo": "Brifax Lecce"
+      },
+      {
+        "anno": "2023-2024",
+        "primo": "CSKA Basket",
+        "secondo": "Casorzo Lakers",
+        "terzo": "Fieri Guerrieri"
+      },
+      {
+        "anno": "2024-2025",
+        "primo": "CSKA Basket",
+        "secondo": "Brifax Lecce",
+        "terzo": "OBA"
+      },
+      {
+        "anno": "2025-2026",
+        "primo": "Casorzo Lakers",
+        "secondo": "Rasta Panthers",
+        "terzo": "CSKA Basket"
+      }
+    ]
+  },
+  {
+    "competizione": "Eurocup",
+    "edizioni": [
+      {
+        "anno": "2021-2022",
+        "primo": "Fieri Guerrieri",
+        "secondo": "Brifax Lecce"
+      },
+      {
+        "anno": "2022-2023",
+        "primo": "PBK Dinamo Ronco",
+        "secondo": "Drink Team",
+        "terzo": "Cag8 Team"
+      },
+      {
+        "anno": "2023-2024",
+        "primo": "Brifax Lecce",
+        "secondo": "Furleee",
+        "terzo": "Cag8 Team"
+      },
+      {
+        "anno": "2024-2025",
+        "primo": "Cag8 Team",
+        "secondo": "Monza a Spicchi",
+        "terzo": "Drink Team"
+      },
+      {
+        "anno": "2025-2026",
+        "primo": "Maccabi Ruero",
+        "secondo": "Furleee",
+        "terzo": "KMS Lì Van Kedileri"
+      }
+    ]
+  },
+  {
+    "competizione": "Campionato A2 LNP",
+    "edizioni": [
+      {
+        "anno": "2021-2022",
+        "primo": "JBM Casorzo",
+        "secondo": "Urania Arricchita",
+        "terzo": "Forlì Sailors"
+      },
+      {
+        "anno": "2022-2023",
+        "primo": "Sinudyne",
+        "secondo": "Panasonic Reggio",
+        "terzo": "JBM Casorzo"
+      }
+    ]
+  },
+  {
+    "competizione": "Coppa Italia A2 LNP",
+    "edizioni": [
+      {
+        "anno": "2021-2022",
+        "primo": "Panasonic Reggio",
+        "secondo": "Urania Arricchita"
+      },
+      {
+        "anno": "2022-2023",
+        "primo": "JBM Casorzo",
+        "secondo": "Sinudyne"
+      }
+    ]
+  },
+  {
+    "competizione": "Supercoppa A2 LNP",
+    "edizioni": [
+      {
+        "anno": "2022-2023",
+        "primo": "Panasonic Reggio",
+        "secondo": "JBM Casorzo"
+      }
+    ]
+  }
+]
