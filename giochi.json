@@ -20,4 +20,54 @@
     "giocatori" : "4"
 },{ "gioco" : "Villains",
     "giocatori" : "6"
+},{ "gioco" : "Talisman",
+    "giocatori" : "6"
+},{ "gioco" : "Cocco Dentista",
+    "giocatori" : "100"
+},{ "gioco" : "Otto il maialotto",
+    "giocatori" : "100"
+},{ "gioco" : "Occhio alla nonna",
+    "giocatori" : "100"
+},{ "gioco" : "Non svegliare papà",
+    "giocatori" : "4"
+},{ "gioco" : "Dixit",
+    "giocatori" : "8"
+},{ "gioco" : "Voodoo",
+    "giocatori" : "6"
+},{ "gioco" : "Tzulan Quest",
+    "giocatori" : "5"
+},{ "gioco" : "Scacchi",
+    "giocatori" : "2"
+},{ "gioco" : "Dama",
+    "giocatori" : "2"
+},{ "gioco" : "Tria",
+    "giocatori" : "2"
+},{ "gioco" : "Memory Animali",
+    "giocatori" : "2"
+},{ "gioco" : "Memory Ambiente",
+    "giocatori" : "2"
+},{ "gioco" : "Forza 4",
+    "giocatori" : "2"
+},{ "gioco" : "Indovina chi è",
+    "giocatori" : "2"
+},{ "gioco" : "Hotel",
+    "giocatori" : "4"
+},{ "gioco" : "Power Hungry Pets",
+    "giocatori" : "6"
+},{ "gioco" : "Exploding Kittens",
+    "giocatori" : "5"
+},{ "gioco" : "Exploding Kittens il gioco",
+    "giocatori" : "5"
+},{ "gioco" : "Neko in",
+    "giocatori" : "6"
+},{ "gioco" : "Canvas",
+    "giocatori" : "5"
+},{ "gioco" : "Ciccio Pasticcio",
+    "giocatori" : "100"
+},{ "gioco" : "Taco Gatto Capra Cacio Pizza",
+    "giocatori" : "8"
+},{ "gioco" : "Beccato",
+    "giocatori" : "9"
+},{ "gioco" : "Little Secret",
+    "giocatori" : "9"
 }]
