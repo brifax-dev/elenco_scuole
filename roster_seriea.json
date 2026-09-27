@@ -751,15 +751,6 @@
         "stato": "Ceduto",
         "motivoCessione": "taglio fase di riparazione",
         "italiano": "no"
-      }, 
-      {
-        "ruolo": "C",
-        "giocatore": "TARCZEWSKI Kaleb",
-        "codice": "5433/kaleb-tarczewski",
-        "crediti":39,
-        "riconfermato": false,
-        "stato": "Attivo",
-        "italiano": "no"
       }
     ]
   },
