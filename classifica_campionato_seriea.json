@@ -1,154 +1,154 @@
 {
   "classifica": [
     {
-      "posizione": 0,
+      "posizione": 1,
       "squadra": "CSKA Basket",
-      "punti": 0,
-      "giornate": 0,
-      "vinte": 0,
+      "punti": 2,
+      "giornate": 1,
+      "vinte": 1,
       "perse": 0,
-      "puntiFatti": 0,
-      "puntiSubiti": 0,
-      "differenza": 0,
-      "mediaPuntiFatti": 0,
-      "mediaPuntiSubiti": 0,
-      "trend": ""
+      "puntiFatti": 147,
+      "puntiSubiti": 139,
+      "differenza": 8,
+      "mediaPuntiFatti": 147.0,
+      "mediaPuntiSubiti": 139.0,
+      "trend": "▲"
     },
     {
-      "posizione": 0,
-      "squadra": "Casorzo Lakers",
-      "punti": 0,
-      "giornate": 0,
-      "vinte": 0,
-      "perse": 0,
-      "puntiFatti": 0,
-      "puntiSubiti": 0,
-      "differenza": 0,
-      "mediaPuntiFatti": 0,
-      "mediaPuntiSubiti": 0,
-      "trend": ""
-    },
-    {
-      "posizione": 0,
+      "posizione": 2,
       "squadra": "Rasta Panthers",
-      "punti": 0,
-      "giornate": 0,
-      "vinte": 0,
+      "punti": 2,
+      "giornate": 1,
+      "vinte": 1,
       "perse": 0,
-      "puntiFatti": 0,
-      "puntiSubiti": 0,
-      "differenza": 0,
-      "mediaPuntiFatti": 0,
-      "mediaPuntiSubiti": 0,
-      "trend": ""
+      "puntiFatti": 122,
+      "puntiSubiti": 61,
+      "differenza": 61,
+      "mediaPuntiFatti": 122.0,
+      "mediaPuntiSubiti": 61.0,
+      "trend": "▲"
     },
     {
-      "posizione": 0,
-      "squadra": "Drink Team",
-      "punti": 0,
-      "giornate": 0,
-      "vinte": 0,
-      "perse": 0,
-      "puntiFatti": 0,
-      "puntiSubiti": 0,
-      "differenza": 0,
-      "mediaPuntiFatti": 0,
-      "mediaPuntiSubiti": 0,
-      "trend": ""
-    },
-    {
-      "posizione": 0,
-      "squadra": "Furleee",
-      "punti": 0,
-      "giornate": 0,
-      "vinte": 0,
-      "perse": 0,
-      "puntiFatti": 0,
-      "puntiSubiti": 0,
-      "differenza": 0,
-      "mediaPuntiFatti": 0,
-      "mediaPuntiSubiti": 0,
-      "trend": ""
-    },
-    {
-      "posizione": 0,
+      "posizione": 3,
       "squadra": "Maccabi Ruero",
-      "punti": 0,
-      "giornate": 0,
-      "vinte": 0,
+      "punti": 2,
+      "giornate": 1,
+      "vinte": 1,
       "perse": 0,
-      "puntiFatti": 0,
-      "puntiSubiti": 0,
-      "differenza": 0,
-      "mediaPuntiFatti": 0,
-      "mediaPuntiSubiti": 0,
-      "trend": ""
+      "puntiFatti": 100,
+      "puntiSubiti": 98,
+      "differenza": 2,
+      "mediaPuntiFatti": 100.0,
+      "mediaPuntiSubiti": 98.0,
+      "trend": "▲"
     },
     {
-      "posizione": 0,
+      "posizione": 4,
+      "squadra": "Casorzo Lakers",
+      "punti": 2,
+      "giornate": 1,
+      "vinte": 1,
+      "perse": 0,
+      "puntiFatti": 87,
+      "puntiSubiti": 79,
+      "differenza": 8,
+      "mediaPuntiFatti": 87.0,
+      "mediaPuntiSubiti": 79.0,
+      "trend": "▲"
+    },
+    {
+      "posizione": 5,
       "squadra": "Monza a Spicchi",
       "punti": 0,
-      "giornate": 0,
+      "giornate": 1,
       "vinte": 0,
-      "perse": 0,
-      "puntiFatti": 0,
-      "puntiSubiti": 0,
-      "differenza": 0,
-      "mediaPuntiFatti": 0,
-      "mediaPuntiSubiti": 0,
-      "trend": ""
+      "perse": 1,
+      "puntiFatti": 139,
+      "puntiSubiti": 147,
+      "differenza": -8,
+      "mediaPuntiFatti": 139.0,
+      "mediaPuntiSubiti": 147.0,
+      "trend": "="
     },
     {
-      "posizione": 0,
+      "posizione": 6,
       "squadra": "PBK Dinamo Ronco",
       "punti": 0,
-      "giornate": 0,
+      "giornate": 1,
       "vinte": 0,
-      "perse": 0,
-      "puntiFatti": 0,
-      "puntiSubiti": 0,
-      "differenza": 0,
-      "mediaPuntiFatti": 0,
-      "mediaPuntiSubiti": 0,
-      "trend": ""
+      "perse": 1,
+      "puntiFatti": 98,
+      "puntiSubiti": 100,
+      "differenza": -2,
+      "mediaPuntiFatti": 98.0,
+      "mediaPuntiSubiti": 100.0,
+      "trend": "▼"
+    },
+    {
+      "posizione": 7,
+      "squadra": "Furleee",
+      "punti": 0,
+      "giornate": 1,
+      "vinte": 0,
+      "perse": 1,
+      "puntiFatti": 79,
+      "puntiSubiti": 87,
+      "differenza": -8,
+      "mediaPuntiFatti": 79.0,
+      "mediaPuntiSubiti": 87.0,
+      "trend": "▼"
+    },
+    {
+      "posizione": 8,
+      "squadra": "Drink Team",
+      "punti": 0,
+      "giornate": 1,
+      "vinte": 0,
+      "perse": 1,
+      "puntiFatti": 61,
+      "puntiSubiti": 122,
+      "differenza": -61,
+      "mediaPuntiFatti": 61.0,
+      "mediaPuntiSubiti": 122.0,
+      "trend": "▼"
     }
   ],
   "statisticheGenerali": [
     {
       "statistica": "MIGLIOR ATTACCO",
-      "squadra": ",
-      "punti": 0,
-      "media": 0
+      "squadra": "CSKA Basket",
+      "punti": 147,
+      "media": 147.0
     },
     {
       "statistica": "MIGLIOR DIFESA",
-      "squadra": "",
-      "punti": 0,
-      "media": 0
+      "squadra": "Rasta Panthers",
+      "punti": 61,
+      "media": 61.0
     },
     {
       "statistica": "MIGLIOR DIFFERENZA CANESTRI",
-      "squadra": "",
-      "punti": 0,
-      "media": 0
+      "squadra": "Rasta Panthers",
+      "punti": 61,
+      "media": 61.0
     },
     {
       "statistica": "PEGGIOR ATTACCO",
-      "squadra": "",
-      "punti": 0,
-      "media": 0
+      "squadra": "Drink Team",
+      "punti": 61,
+      "media": 61.0
     },
     {
       "statistica": "PEGGIOR DIFESA",
-      "squadra": "",
-      "punti": 0,
-      "media": 0
+      "squadra": "Monza a Spicchi",
+      "punti": 147,
+      "media": 147.0
     },
     {
       "statistica": "PEGGIOR DIFFERENZA CANESTRI",
-      "squadra": "",
-      "punti": 0,
-      "media": 0
+      "squadra": "Drink Team",
+      "punti": -61,
+      "media": -61.0
     }
   ],
   "classificaMarcatori": {
@@ -156,10 +156,35 @@
     "giocatori": []
   },
   "miglioreQuintettoStagionale": [
-    { "ruolo": "", "giocatore": "", "squadra": "", "premio": ""  },
-    { "ruolo": "", "giocatore": "", "squadra": "", "premio": ""  },
-    { "ruolo": "", "giocatore": "", "squadra": "", "premio": ""  },
-    { "ruolo": "", "giocatore": "", "squadra": "", "premio": "" },
-    { "ruolo": "", "giocatore": "", "squadra": "", "premio": ""  }
+    {
+      "ruolo": "",
+      "giocatore": "",
+      "squadra": "",
+      "premio": ""
+    },
+    {
+      "ruolo": "",
+      "giocatore": "",
+      "squadra": "",
+      "premio": ""
+    },
+    {
+      "ruolo": "",
+      "giocatore": "",
+      "squadra": "",
+      "premio": ""
+    },
+    {
+      "ruolo": "",
+      "giocatore": "",
+      "squadra": "",
+      "premio": ""
+    },
+    {
+      "ruolo": "",
+      "giocatore": "",
+      "squadra": "",
+      "premio": ""
+    }
   ]
 }
