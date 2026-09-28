@@ -1,0 +1,566 @@
+{
+  "turno": 1,
+  "serie": "Legadue",
+  "giocatori": [
+    {
+      "squadra": "OBA",
+      "giocatore": "Hubb Prentiss",
+      "valutazione": 18,
+      "minuti": 26,
+      "valutazione_reale": 18
+    },
+    {
+      "squadra": "OBA",
+      "giocatore": "Watson Glynn",
+      "valutazione": 15,
+      "minuti": 24,
+      "valutazione_reale": 15
+    },
+    {
+      "squadra": "OBA",
+      "giocatore": "Gorham Justin",
+      "valutazione": 17,
+      "minuti": 31,
+      "valutazione_reale": 17
+    },
+    {
+      "squadra": "OBA",
+      "giocatore": "Bendzius Eimantas",
+      "valutazione": 13,
+      "minuti": 19,
+      "valutazione_reale": 13
+    },
+    {
+      "squadra": "OBA",
+      "giocatore": "Bilan Miro",
+      "valutazione": 37,
+      "minuti": 26,
+      "valutazione_reale": 37
+    },
+    {
+      "squadra": "OBA",
+      "giocatore": "Spissu Marco",
+      "valutazione": 5,
+      "minuti": 17,
+      "valutazione_reale": 4
+    },
+    {
+      "squadra": "OBA",
+      "giocatore": "Baldasso Tommaso",
+      "valutazione": 19,
+      "minuti": 22,
+      "valutazione_reale": 13
+    },
+    {
+      "squadra": "OBA",
+      "giocatore": "Barford Jaylen",
+      "valutazione": 16,
+      "minuti": 32,
+      "valutazione_reale": 4
+    },
+    {
+      "squadra": "OBA",
+      "giocatore": "Alviti Davide",
+      "valutazione": 21,
+      "minuti": 24,
+      "valutazione_reale": 18
+    },
+    {
+      "squadra": "OBA",
+      "giocatore": "Totè Leonardo",
+      "valutazione": 0,
+      "minuti": 0,
+      "valutazione_reale": 0
+    },
+    {
+      "squadra": "Brifax Lecce",
+      "giocatore": "Maddox Dante",
+      "valutazione": 27,
+      "minuti": 25,
+      "valutazione_reale": 27
+    },
+    {
+      "squadra": "Brifax Lecce",
+      "giocatore": "Della Valle Amedeo",
+      "valutazione": 0,
+      "minuti": 0,
+      "valutazione_reale": 0
+    },
+    {
+      "squadra": "Brifax Lecce",
+      "giocatore": "Flowers Trentyn",
+      "valutazione": 3,
+      "minuti": 5,
+      "valutazione_reale": 3
+    },
+    {
+      "squadra": "Brifax Lecce",
+      "giocatore": "Offurum Mezie",
+      "valutazione": 9,
+      "minuti": 30,
+      "valutazione_reale": 9
+    },
+    {
+      "squadra": "Brifax Lecce",
+      "giocatore": "Wiltjer Kyle",
+      "valutazione": 13,
+      "minuti": 27,
+      "valutazione_reale": 13
+    },
+    {
+      "squadra": "Brifax Lecce",
+      "giocatore": "Nevels Garrett",
+      "valutazione": 9,
+      "minuti": 32,
+      "valutazione_reale": 4
+    },
+    {
+      "squadra": "Brifax Lecce",
+      "giocatore": "Bucarelli Lorenzo",
+      "valutazione": -4,
+      "minuti": 12,
+      "valutazione_reale": -4
+    },
+    {
+      "squadra": "Brifax Lecce",
+      "giocatore": "Udom Liam",
+      "valutazione": 0,
+      "minuti": 19,
+      "valutazione_reale": 0
+    },
+    {
+      "squadra": "Brifax Lecce",
+      "giocatore": "Jakimovski Andrej",
+      "valutazione": 12,
+      "minuti": 24,
+      "valutazione_reale": 5
+    },
+    {
+      "squadra": "Brifax Lecce",
+      "giocatore": "McGlynn Nick",
+      "valutazione": 13,
+      "minuti": 21,
+      "valutazione_reale": 8
+    },
+    {
+      "squadra": "La Effe",
+      "giocatore": "Cole R.J.",
+      "valutazione": 4,
+      "minuti": 24,
+      "valutazione_reale": 4
+    },
+    {
+      "squadra": "La Effe",
+      "giocatore": "Holiday Aaron",
+      "valutazione": 9,
+      "minuti": 28,
+      "valutazione_reale": 9
+    },
+    {
+      "squadra": "La Effe",
+      "giocatore": "Alibegovic Amar",
+      "valutazione": 7,
+      "minuti": 19,
+      "valutazione_reale": 7
+    },
+    {
+      "squadra": "La Effe",
+      "giocatore": "Onyema Ze'Rik",
+      "valutazione": 17,
+      "minuti": 25,
+      "valutazione_reale": 17
+    },
+    {
+      "squadra": "La Effe",
+      "giocatore": "Olejniczak Dominik",
+      "valutazione": 17,
+      "minuti": 24,
+      "valutazione_reale": 17
+    },
+    {
+      "squadra": "La Effe",
+      "giocatore": "Thompson Darius",
+      "valutazione": 11,
+      "minuti": 18,
+      "valutazione_reale": 9
+    },
+    {
+      "squadra": "La Effe",
+      "giocatore": "Bolmaro Leandro",
+      "valutazione": 12,
+      "minuti": 25,
+      "valutazione_reale": 5
+    },
+    {
+      "squadra": "La Effe",
+      "giocatore": "Petrucelli John",
+      "valutazione": 12,
+      "minuti": 23,
+      "valutazione_reale": 10
+    },
+    {
+      "squadra": "La Effe",
+      "giocatore": "Edwards Kessler",
+      "valutazione": 17,
+      "minuti": 23,
+      "valutazione_reale": 11
+    },
+    {
+      "squadra": "La Effe",
+      "giocatore": "Anigbogu Ike",
+      "valutazione": 15,
+      "minuti": 20,
+      "valutazione_reale": 12
+    },
+    {
+      "squadra": "Efsane Ҫuko",
+      "giocatore": "Hale Hunter",
+      "valutazione": -5,
+      "minuti": 29,
+      "valutazione_reale": -5
+    },
+    {
+      "squadra": "Efsane Ҫuko",
+      "giocatore": "Valentine Denzel",
+      "valutazione": 17,
+      "minuti": 28,
+      "valutazione_reale": 17
+    },
+    {
+      "squadra": "Efsane Ҫuko",
+      "giocatore": "Strautins Arturs",
+      "valutazione": 7,
+      "minuti": 26,
+      "valutazione_reale": 7
+    },
+    {
+      "squadra": "Efsane Ҫuko",
+      "giocatore": "White Jack",
+      "valutazione": 6,
+      "minuti": 24,
+      "valutazione_reale": 6
+    },
+    {
+      "squadra": "Efsane Ҫuko",
+      "giocatore": "Kamagate Ismael",
+      "valutazione": 6,
+      "minuti": 11,
+      "valutazione_reale": 6
+    },
+    {
+      "squadra": "Efsane Ҫuko",
+      "giocatore": "Lemar Brynton",
+      "valutazione": 2,
+      "minuti": 18,
+      "valutazione_reale": 1
+    },
+    {
+      "squadra": "Efsane Ҫuko",
+      "giocatore": "Librizzi Matteo",
+      "valutazione": 8,
+      "minuti": 18,
+      "valutazione_reale": 5
+    },
+    {
+      "squadra": "Efsane Ҫuko",
+      "giocatore": "Ryan Matt",
+      "valutazione": -5,
+      "minuti": 13,
+      "valutazione_reale": -5
+    },
+    {
+      "squadra": "Efsane Ҫuko",
+      "giocatore": "Faggian Leonardo",
+      "valutazione": 3,
+      "minuti": 10,
+      "valutazione_reale": 3
+    },
+    {
+      "squadra": "Efsane Ҫuko",
+      "giocatore": "Tobey Mike",
+      "valutazione": 30,
+      "minuti": 29,
+      "valutazione_reale": 30
+    },
+    {
+      "squadra": "Spritz&Roll",
+      "giocatore": "Moore Charlie Edward",
+      "valutazione": 9,
+      "minuti": 25,
+      "valutazione_reale": 9
+    },
+    {
+      "squadra": "Spritz&Roll",
+      "giocatore": "Macura JP",
+      "valutazione": 37,
+      "minuti": 31,
+      "valutazione_reale": 37
+    },
+    {
+      "squadra": "Spritz&Roll",
+      "giocatore": "Grazulis Andrejs",
+      "valutazione": 4,
+      "minuti": 23,
+      "valutazione_reale": 4
+    },
+    {
+      "squadra": "Spritz&Roll",
+      "giocatore": "Parks Jordan",
+      "valutazione": 10,
+      "minuti": 23,
+      "valutazione_reale": 10
+    },
+    {
+      "squadra": "Spritz&Roll",
+      "giocatore": "Tessitori Amedeo",
+      "valutazione": 23,
+      "minuti": 20,
+      "valutazione_reale": 23
+    },
+    {
+      "squadra": "Spritz&Roll",
+      "giocatore": "Rossato Riccardo",
+      "valutazione": 11,
+      "minuti": 26,
+      "valutazione_reale": 6
+    },
+    {
+      "squadra": "Spritz&Roll",
+      "giocatore": "Mascolo Bruno",
+      "valutazione": 0,
+      "minuti": 23,
+      "valutazione_reale": 0
+    },
+    {
+      "squadra": "Spritz&Roll",
+      "giocatore": "Seljaas Zac",
+      "valutazione": -1,
+      "minuti": 19,
+      "valutazione_reale": -1
+    },
+    {
+      "squadra": "Spritz&Roll",
+      "giocatore": "Ricci Giampaolo",
+      "valutazione": 7,
+      "minuti": 14,
+      "valutazione_reale": 7
+    },
+    {
+      "squadra": "Spritz&Roll",
+      "giocatore": "Spencer Skylar",
+      "valutazione": 16,
+      "minuti": 19,
+      "valutazione_reale": 16
+    },
+    {
+      "squadra": "Famostrano",
+      "giocatore": "Ross Colbey",
+      "valutazione": 24,
+      "minuti": 27,
+      "valutazione_reale": 24
+    },
+    {
+      "squadra": "Famostrano",
+      "giocatore": "Mannion Niccolò",
+      "valutazione": 13,
+      "minuti": 28,
+      "valutazione_reale": 13
+    },
+    {
+      "squadra": "Famostrano",
+      "giocatore": "Burnell Jason",
+      "valutazione": 29,
+      "minuti": 26,
+      "valutazione_reale": 29
+    },
+    {
+      "squadra": "Famostrano",
+      "giocatore": "Simonovic Marko",
+      "valutazione": 21,
+      "minuti": 25,
+      "valutazione_reale": 21
+    },
+    {
+      "squadra": "Famostrano",
+      "giocatore": "Wright Moses",
+      "valutazione": 16,
+      "minuti": 22,
+      "valutazione_reale": 16
+    },
+    {
+      "squadra": "Famostrano",
+      "giocatore": "Calzavara Andrea",
+      "valutazione": 6,
+      "minuti": 17,
+      "valutazione_reale": 4
+    },
+    {
+      "squadra": "Famostrano",
+      "giocatore": "Zampini Federico",
+      "valutazione": 19,
+      "minuti": 36,
+      "valutazione_reale": 6
+    },
+    {
+      "squadra": "Famostrano",
+      "giocatore": "Samuels Jermaine",
+      "valutazione": 4,
+      "minuti": 26,
+      "valutazione_reale": 2
+    },
+    {
+      "squadra": "Famostrano",
+      "giocatore": "Bigelow Isaiah",
+      "valutazione": 14,
+      "minuti": 21,
+      "valutazione_reale": 10
+    },
+    {
+      "squadra": "Famostrano",
+      "giocatore": "Echenique Jaime",
+      "valutazione": 6,
+      "minuti": 15,
+      "valutazione_reale": 6
+    },
+    {
+      "squadra": "TT Saronno",
+      "giocatore": "Ramsey Jahmi'us",
+      "valutazione": 0,
+      "minuti": 0,
+      "valutazione_reale": 0
+    },
+    {
+      "squadra": "TT Saronno",
+      "giocatore": "Olivari Quincy",
+      "valutazione": 22,
+      "minuti": 29,
+      "valutazione_reale": 22
+    },
+    {
+      "squadra": "TT Saronno",
+      "giocatore": "Thor JT",
+      "valutazione": 9,
+      "minuti": 26,
+      "valutazione_reale": 9
+    },
+    {
+      "squadra": "TT Saronno",
+      "giocatore": "Brown John",
+      "valutazione": 15,
+      "minuti": 22,
+      "valutazione_reale": 15
+    },
+    {
+      "squadra": "TT Saronno",
+      "giocatore": "Diouf Mouhamet Rassoul",
+      "valutazione": 12,
+      "minuti": 20,
+      "valutazione_reale": 12
+    },
+    {
+      "squadra": "TT Saronno",
+      "giocatore": "Christon Semaj",
+      "valutazione": 11,
+      "minuti": 23,
+      "valutazione_reale": 11
+    },
+    {
+      "squadra": "TT Saronno",
+      "giocatore": "Galloway Langston",
+      "valutazione": 9,
+      "minuti": 30,
+      "valutazione_reale": 3
+    },
+    {
+      "squadra": "TT Saronno",
+      "giocatore": "Alibegovic Mirza",
+      "valutazione": 20,
+      "minuti": 30,
+      "valutazione_reale": 9
+    },
+    {
+      "squadra": "TT Saronno",
+      "giocatore": "Veronesi Giovanni",
+      "valutazione": -7,
+      "minuti": 12,
+      "valutazione_reale": -7
+    },
+    {
+      "squadra": "TT Saronno",
+      "giocatore": "Ogbeide Derek",
+      "valutazione": 5,
+      "minuti": 11,
+      "valutazione_reale": 5
+    },
+    {
+      "squadra": "Cag8 Team",
+      "giocatore": "Edwards Rob",
+      "valutazione": -1,
+      "minuti": 18,
+      "valutazione_reale": -1
+    },
+    {
+      "squadra": "Cag8 Team",
+      "giocatore": "Ayayi Gerald",
+      "valutazione": 24,
+      "minuti": 31,
+      "valutazione_reale": 24
+    },
+    {
+      "squadra": "Cag8 Team",
+      "giocatore": "Brown Charles",
+      "valutazione": 14,
+      "minuti": 25,
+      "valutazione_reale": 14
+    },
+    {
+      "squadra": "Cag8 Team",
+      "giocatore": "Guduric Marko",
+      "valutazione": 0,
+      "minuti": 0,
+      "valutazione_reale": 0
+    },
+    {
+      "squadra": "Cag8 Team",
+      "giocatore": "Chery Valentine",
+      "valutazione": 14,
+      "minuti": 19,
+      "valutazione_reale": 14
+    },
+    {
+      "squadra": "Cag8 Team",
+      "giocatore": "Cappelletti Alessandro",
+      "valutazione": 23,
+      "minuti": 24,
+      "valutazione_reale": 21
+    },
+    {
+      "squadra": "Cag8 Team",
+      "giocatore": "Bortolani Giordano",
+      "valutazione": 11,
+      "minuti": 18,
+      "valutazione_reale": 5
+    },
+    {
+      "squadra": "Cag8 Team",
+      "giocatore": "Alston Derrick",
+      "valutazione": 16,
+      "minuti": 21,
+      "valutazione_reale": 11
+    },
+    {
+      "squadra": "Cag8 Team",
+      "giocatore": "Jallow Karim",
+      "valutazione": 7,
+      "minuti": 23,
+      "valutazione_reale": 7
+    },
+    {
+      "squadra": "Cag8 Team",
+      "giocatore": "Bayehe Jordan",
+      "valutazione": 11,
+      "minuti": 29,
+      "valutazione_reale": 7
+    }
+  ]
+}
