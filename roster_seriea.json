@@ -176,7 +176,8 @@
         "codice": "9388/garrison-mathews",
         "crediti": 1,
         "riconfermato": false,
-        "stato": "Attivo",
+        "stato": "Ceduto",
+        "motivoCessione": "taglio fase di riparazione",
         "italiano": "no"
       },
       {
@@ -295,6 +296,15 @@
         "riconfermato": false,
         "stato": "Ceduto",
         "motivoCessione": "taglio fase di riparazione",
+        "italiano": "no"
+      },
+      {
+        "ruolo": "C",
+        "giocatore": "ANIGBOGU Ike",
+        "codice": "9042/ike-anigbogu",
+        "crediti": 16,
+        "riconfermato": false,
+        "stato": "Attivo",
         "italiano": "no"
       }
     ]
@@ -430,7 +440,8 @@
         "codice": "7428/nate-renfro",
         "crediti": 5,
         "riconfermato": false,
-        "stato": "Attivo",
+        "stato": "Ceduto",
+        "motivoCessione": "taglio fase di riparazione",
         "italiano": "no"
       },
       {
@@ -441,6 +452,15 @@
         "riconfermato": false,
         "stato": "Attivo",
         "italiano": "si"
+      },
+      {
+        "ruolo": "C",
+        "giocatore": "BRAJKOVIC Luka",
+        "codice": "",
+        "crediti": 40,
+        "riconfermato": false,
+        "stato": "Attivo",
+        "italiano": "no"
       }
     ]
   },
