@@ -43,5 +43,21 @@
         "punteggioTrasferta": ""
       }
     ]
+  },{
+    "fase": "Finali",
+    "partite": [
+      {
+        "casa": "",
+        "trasferta": "",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
+      },
+      {
+        "casa": "",
+        "trasferta": "",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
+      }
+    ]
   }
 ]
