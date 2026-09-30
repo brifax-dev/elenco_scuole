@@ -27,5 +27,21 @@
         "punteggioTrasferta": "79"
       }
     ]
+  },{
+    "fase": "Semifinali",
+    "partite": [
+      {
+        "casa": "CSKA Basket",
+        "trasferta": "Furleee",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
+      },
+      {
+        "casa": "Rasta Panthers",
+        "trasferta": "Cag8 Team",
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
+      }
+    ]
   }
 ]
