@@ -1014,7 +1014,8 @@
         "codice": "9390/lajae-jones",
         "crediti": 1,
         "riconfermato": false,
-        "stato": "Attivo",
+        "stato": "Ceduto",
+        "motivoCessione": "taglio",
         "italiano": "no"
       },
       {
@@ -1081,6 +1082,15 @@
         "stato": "Ceduto",
         "motivoCessione": "taglio fase di riparazione",
         "italiano": "si"
+      },
+      {
+        "ruolo": "G",
+        "giocatore": "SISKO Zan",
+        "codice": "9358/zan-sisko",
+        "crediti": 3,
+        "riconfermato": false,
+        "stato": "Attivo",
+        "italiano": "no"
       }
     ]
   },
