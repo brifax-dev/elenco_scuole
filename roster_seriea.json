@@ -473,7 +473,7 @@
     "recuperoCreditiTagli": 5,
     "giocatori": [
       {
-        "ruolo": "G",
+        "ruolo": "GA",
         "giocatore": "MOORE JR Wendell",
         "codice": "9370/wendell-moore",
         "crediti": 15,
