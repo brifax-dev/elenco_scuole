@@ -1,0 +1,19 @@
+# Controlla i file JSON a ogni salvataggio: se uno non è valido l'esecuzione
+# fallisce e GitHub manda una mail con il file e la riga dell'errore.
+name: Controllo JSON
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  controlla:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python .github/scripts/controlla_json.py
