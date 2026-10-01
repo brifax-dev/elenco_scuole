@@ -2,7 +2,8 @@
   {
     "nome": "FAMOSTRANO",
     "proprietario": "LorFra20",
-    "creditiRimanenti": 48,
+    "mail": "",
+    "creditiRimanenti": 48,"mail": "",
     "creditiSpesi": 302,
     "bonusMercato": 50,
     "recuperoCreditiTagli": 0,
@@ -147,6 +148,7 @@
   {
     "nome": "TT SARONNO",
     "proprietario": "AlexD12",
+    "mail": "",
     "creditiRimanenti": 90,
     "creditiSpesi": 260,
     "bonusMercato": 50,
@@ -292,6 +294,7 @@
   {
     "nome": "EFSANE ҪUKO",
     "proprietario": "KMS2171",
+    "mail": "",
     "creditiRimanenti": 118,
     "creditiSpesi": 232,
     "bonusMercato": 50,
@@ -437,6 +440,7 @@
   {
     "nome": "LA EFFE",
     "proprietario": "fabgallagher",
+    "mail": "",
     "creditiRimanenti": 163,
     "creditiSpesi": 218,
     "bonusMercato": 50,
@@ -602,6 +606,7 @@
   {
     "nome": "BRIFAX LECCE",
     "proprietario": "Brifax",
+    "mail": "",
     "creditiRimanenti": 121,
     "creditiSpesi": 229,
     "bonusMercato": 50,
@@ -747,6 +752,7 @@
   {
     "nome": "SPRITZ&ROLL",
     "proprietario": "Giuseppe",
+    "mail": "",
     "creditiRimanenti": 94,
     "creditiSpesi": 256,
     "bonusMercato": 50,
@@ -892,6 +898,7 @@
   {
     "nome": "OBA",
     "proprietario": "Tamatoa",
+    "mail": "",
     "creditiRimanenti": 19,
     "creditiSpesi": 331,
     "bonusMercato": 50,
@@ -1037,6 +1044,7 @@
   {
     "nome": "CAG-8 TEAM",
     "proprietario": "Baso23",
+    "mail": "",
     "creditiRimanenti": 199,
     "creditiSpesi": 151,
     "bonusMercato": 50,
