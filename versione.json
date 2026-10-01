@@ -1,0 +1,9 @@
+{
+  "versione": "1.0.0",
+  "note": "Prima versione di Fantabasket: formazioni con scadenza e promemoria, calendari, classifiche, roster, giocatori e statistiche.",
+  "download": {
+    "android": "https://github.com/brifax-dev/elenco_scuole/releases/download/app-v1.0.0/Fantabasket-1.0.0.apk",
+    "windows": "https://github.com/brifax-dev/elenco_scuole/releases/download/app-v1.0.0/Fantabasket-1.0.0-windows.zip",
+    "macos": "https://github.com/brifax-dev/elenco_scuole/releases/download/app-v1.0.0/Fantabasket-1.0.0-macos.dmg"
+  }
+}
