@@ -1,9 +1,9 @@
 {
-  "versione": "1.0.0",
-  "note": "Prima versione di Fantabasket: formazioni con scadenza e promemoria, calendari, classifiche, roster, giocatori e statistiche.",
+  "versione": "1.0.1",
+  "note": "Supercoppa: tabellone a coppie fisse (vincente della 1ª partita contro la vincente della 2ª, 3ª contro 4ª).",
   "download": {
-    "android": "https://github.com/brifax-dev/elenco_scuole/releases/download/app-v1.0.0/Fantabasket-1.0.0.apk",
-    "windows": "https://github.com/brifax-dev/elenco_scuole/releases/download/app-v1.0.0/Fantabasket-1.0.0-windows.zip",
-    "macos": "https://github.com/brifax-dev/elenco_scuole/releases/download/app-v1.0.0/Fantabasket-1.0.0-macos.dmg"
+    "android": "https://github.com/brifax-dev/elenco_scuole/releases/download/app-v1.0.1/Fantabasket-1.0.1.apk",
+    "windows": "https://github.com/brifax-dev/elenco_scuole/releases/download/app-v1.0.1/Fantabasket-1.0.1-windows.zip",
+    "macos": "https://github.com/brifax-dev/elenco_scuole/releases/download/app-v1.0.1/Fantabasket-1.0.1-macos.dmg"
   }
 }
