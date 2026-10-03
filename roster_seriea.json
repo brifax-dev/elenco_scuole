@@ -333,10 +333,10 @@
     "nome": "DRINK TEAM",
     "proprietario": "Alectro93",
     "mail": "",
-    "creditiRimanenti": 67,
-    "creditiSpesi": 283,
+    "creditiRimanenti": 32,
+    "creditiSpesi": 323,
     "bonusMercato": 50,
-    "recuperoCreditiTagli": 0,
+    "recuperoCreditiTagli":5,
     "giocatori": [
       {
         "ruolo": "G",
