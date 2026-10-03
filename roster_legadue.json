@@ -3,7 +3,8 @@
     "nome": "FAMOSTRANO",
     "proprietario": "LorFra20",
     "url": "https://fantabasketlive09.blogfree.net/?t=6649972",
-    "creditiRimanenti": 48,"mail": "",
+    "creditiRimanenti": 48,
+    "mail": "",
     "creditiSpesi": 302,
     "bonusMercato": 50,
     "recuperoCreditiTagli": 0,
@@ -442,9 +443,9 @@
     "proprietario": "fabgallagher",
     "url": "https://fantabasketlive09.blogfree.net/?t=6301940",
     "creditiRimanenti": 163,
-    "creditiSpesi": 218,
+    "creditiSpesi": 219,
     "bonusMercato": 50,
-    "recuperoCreditiTagli": 31,
+    "recuperoCreditiTagli": 32,
     "giocatori": [
       {
         "ruolo": "G",
@@ -470,7 +471,7 @@
         "codice": "9031/r-j-cole",
         "crediti": 3,
         "riconfermato": false,
-        "stato": "Attivo",
+        "stato": "Ceduto",
         "italiano": "no"
       },
       {
@@ -589,6 +590,15 @@
         "riconfermato": true,
         "stato": "Ceduto",
         "motivoCessione": "taglio fase di riparazione",
+        "italiano": "no"
+      },
+      {
+        "ruolo": "G",
+        "giocatore": "CARR Marcus",
+        "codice": "9368/marcus-carr",
+        "crediti": 1,
+        "riconfermato": false,
+        "stato": "Attivo",
         "italiano": "no"
       },
       {
