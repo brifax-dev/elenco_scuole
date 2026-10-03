@@ -1,9 +1,9 @@
 {
-  "versione": "1.0.1",
-  "note": "Supercoppa: tabellone a coppie fisse (vincente della 1ª partita contro la vincente della 2ª, 3ª contro 4ª).",
+  "versione": "1.0.2",
+  "note": "Tribuna facoltativa: la formazione si può inviare con 0, 1, 2 o 3 giocatori in tribuna. Dopo l'invio della formazione la home mostra subito \"Formazione inviata\".",
   "download": {
-    "android": "https://github.com/brifax-dev/elenco_scuole/releases/download/app-v1.0.1/Fantabasket-1.0.1.apk",
-    "windows": "https://github.com/brifax-dev/elenco_scuole/releases/download/app-v1.0.1/Fantabasket-1.0.1-windows.zip",
-    "macos": "https://github.com/brifax-dev/elenco_scuole/releases/download/app-v1.0.1/Fantabasket-1.0.1-macos.dmg"
+    "android": "https://github.com/brifax-dev/elenco_scuole/releases/download/app-v1.0.2/Fantabasket-1.0.2.apk",
+    "windows": "https://github.com/brifax-dev/elenco_scuole/releases/download/app-v1.0.2/Fantabasket-1.0.2-windows.zip",
+    "macos": "https://github.com/brifax-dev/elenco_scuole/releases/download/app-v1.0.2/Fantabasket-1.0.2-macos.dmg"
   }
 }
