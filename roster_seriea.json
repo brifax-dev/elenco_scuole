@@ -14,7 +14,16 @@
         "codice": "9353/speedy-smith",
         "crediti": 1,
         "riconfermato": false,
-        "stato": "Attivo",
+        "stato": "Ceduto",
+        "italiano": "no"
+      },{
+        "ruolo": "A",
+        "giocatore": "GRAZULIS Andrejs",
+        "codice": "2494/andrejs-grazulis",
+        "crediti": 1,
+        "riconfermato": false,
+        "stato": "Ceduto",
+        "motivoCessione": "scambio con G SISKO 3 di Casorzo Lakers",
         "italiano": "no"
       },
       {
@@ -139,6 +148,15 @@
         "giocatore": "MAWUGBE Selom",
         "codice": "7449/selom-mawugbe",
         "crediti": 11,
+        "riconfermato": false,
+        "stato": "Attivo",
+        "italiano": "no"
+      },
+      {
+        "ruolo": "G",
+        "giocatore": "SISKO Zan",
+        "codice": "9358/zan-sisko",
+        "crediti": 3,
         "riconfermato": false,
         "stato": "Attivo",
         "italiano": "no"
@@ -461,6 +479,15 @@
         "giocatore": "BRAJKOVIC Luka",
         "codice": "",
         "crediti": 40,
+        "riconfermato": false,
+        "stato": "Ceduto",
+        "motivoCessione": "scambio con C KAMAGATE 5 di Casorzo Lakers",
+        "italiano": "no"
+      },{
+        "ruolo": "C",
+        "giocatore": "KAMAGATE Ismaël",
+        "codice": "7014/ismael-kamagate",
+        "crediti": 5,
         "riconfermato": false,
         "stato": "Attivo",
         "italiano": "no"
@@ -1067,6 +1094,16 @@
         "codice": "7014/ismael-kamagate",
         "crediti": 5,
         "riconfermato": false,
+        "stato": "Ceduto",
+        "motivoCessione": "scambio con C BRAJKOVIC 40 di Drink Team",
+        "italiano": "no"
+      },
+      {
+        "ruolo": "C",
+        "giocatore": "BRAJKOVIC Luka",
+        "codice": "",
+        "crediti": 40,
+        "riconfermato": false,
         "stato": "Attivo",
         "italiano": "no"
       },
@@ -1095,6 +1132,15 @@
         "giocatore": "SISKO Zan",
         "codice": "9358/zan-sisko",
         "crediti": 3,
+        "riconfermato": false,
+        "stato": "Ceduto",
+        "motivoCessione": "scambio con A GRAZULIS 1 di Rasta Panthers",
+        "italiano": "no"
+      },{
+        "ruolo": "A",
+        "giocatore": "GRAZULIS Andrejs",
+        "codice": "2494/andrejs-grazulis",
+        "crediti": 1,
         "riconfermato": false,
         "stato": "Attivo",
         "italiano": "no"
