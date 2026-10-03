@@ -6,7 +6,9 @@ formazioni di tutta la competizione. Controlli:
 
 1. ogni file .json è un JSON valido (con riga e colonna dell'errore);
 2. calendario_*.json: elenco di turni con "partite", ogni partita con
-   "casa" e "trasferta";
+   "casa" e "trasferta"; oppure, per le competizioni a classifica di
+   giornata (es. Champions), turni con "classifica", ogni riga con
+   "squadra" e "punti" ("posizione" facoltativa);
 3. formazioni_*.json: "scadenza", se c'è, in un formato riconosciuto
    (2026-10-04T18:00, 2026-10-04 18:00, 04/10/2026 18:00, con fuso facoltativo);
 4. versione.json: "versione" e link https di download.
@@ -58,8 +60,11 @@ def check_calendar(data) -> list[str]:
         if name:
             where += f" ({name})"
         matches = rnd.get("partite")
+        if matches is None and isinstance(rnd.get("classifica"), list):
+            errors += check_day_ranking(where, rnd["classifica"])
+            continue
         if not isinstance(matches, list):
-            errors.append(f'{where}: manca "partite" (elenco delle partite)')
+            errors.append(f'{where}: manca "partite" (elenco delle partite) o "classifica" (classifica di giornata)')
             continue
         for j, m in enumerate(matches, 1):
             if not isinstance(m, dict):
@@ -72,6 +77,29 @@ def check_calendar(data) -> list[str]:
                 v = m.get(key)
                 if v is not None and not isinstance(v, (str, int, float)):
                     errors.append(f'{where}, partita {j}: "{key}" deve essere un numero o un testo')
+    return errors
+
+
+def check_day_ranking(where: str, rows) -> list[str]:
+    """Classifica di giornata (es. Champions): squadra, punti e posizione."""
+    errors = []
+    for j, r in enumerate(rows, 1):
+        if not isinstance(r, dict):
+            errors.append(f"{where}, riga {j} della classifica: deve essere un oggetto {{ ... }}")
+            continue
+        if not isinstance(r.get("squadra"), str) or not r["squadra"].strip():
+            errors.append(f'{where}, riga {j} della classifica: manca "squadra"')
+        punti = r.get("punti")
+        if isinstance(punti, str):
+            try:
+                float(punti.replace(",", "."))
+            except ValueError:
+                punti = None
+        if punti is None or isinstance(punti, bool) or not isinstance(punti, (int, float, str)):
+            errors.append(f'{where}, riga {j} della classifica: "punti" deve essere un numero')
+        pos = r.get("posizione")
+        if pos is not None and (isinstance(pos, bool) or not isinstance(pos, int)):
+            errors.append(f'{where}, riga {j} della classifica: "posizione" deve essere un numero intero')
     return errors
 
 
