@@ -2,7 +2,7 @@
   {
     "nome": "FAMOSTRANO",
     "proprietario": "LorFra20",
-    "mail": "",
+    "url": "https://fantabasketlive09.blogfree.net/?t=6649972",
     "creditiRimanenti": 48,"mail": "",
     "creditiSpesi": 302,
     "bonusMercato": 50,
@@ -148,7 +148,7 @@
   {
     "nome": "TT SARONNO",
     "proprietario": "AlexD12",
-    "mail": "",
+    "url": "https://fantabasketlive09.blogfree.net/?t=6649971",
     "creditiRimanenti": 90,
     "creditiSpesi": 260,
     "bonusMercato": 50,
@@ -294,7 +294,7 @@
   {
     "nome": "EFSANE ҪUKO",
     "proprietario": "KMS2171",
-    "mail": "",
+    "mail": "https://fantabasketlive09.blogfree.net/?t=6459122",
     "creditiRimanenti": 118,
     "creditiSpesi": 232,
     "bonusMercato": 50,
@@ -440,7 +440,7 @@
   {
     "nome": "LA EFFE",
     "proprietario": "fabgallagher",
-    "mail": "",
+    "url": "https://fantabasketlive09.blogfree.net/?t=6301940",
     "creditiRimanenti": 163,
     "creditiSpesi": 218,
     "bonusMercato": 50,
@@ -606,7 +606,7 @@
   {
     "nome": "BRIFAX LECCE",
     "proprietario": "Brifax",
-    "mail": "",
+    "url": "https://fantabasketlive09.blogfree.net/?t=6301939",
     "creditiRimanenti": 121,
     "creditiSpesi": 229,
     "bonusMercato": 50,
@@ -752,7 +752,7 @@
   {
     "nome": "SPRITZ&ROLL",
     "proprietario": "Giuseppe",
-    "mail": "",
+    "url": "https://fantabasketlive09.blogfree.net/?t=6301936",
     "creditiRimanenti": 94,
     "creditiSpesi": 256,
     "bonusMercato": 50,
@@ -898,7 +898,7 @@
   {
     "nome": "OBA",
     "proprietario": "Tamatoa",
-    "mail": "",
+    "url": "https://fantabasketlive09.blogfree.net/?t=6301934",
     "creditiRimanenti": 19,
     "creditiSpesi": 331,
     "bonusMercato": 50,
@@ -1044,11 +1044,11 @@
   {
     "nome": "CAG-8 TEAM",
     "proprietario": "Baso23",
-    "mail": "",
-    "creditiRimanenti": 199,
-    "creditiSpesi": 151,
+    "url": "https://fantabasketlive09.blogfree.net/?t=3692782",
+    "creditiRimanenti": 200,
+    "creditiSpesi": 152,
     "bonusMercato": 50,
-    "recuperoCreditiTagli": 0,
+    "recuperoCreditiTagli": 2,
     "giocatori": [
       {
         "ruolo": "G",
@@ -1100,6 +1100,15 @@
         "giocatore": "BROCKINGTON Izaiah",
         "codice": "9339/izaiah-brockington",
         "crediti": 5,
+        "riconfermato": false,
+        "stato": "Ceduto",
+        "italiano": "no"
+      },
+      {
+        "ruolo": "G",
+        "giocatore": "MASSINBURG Cj",
+        "codice": "616/c-j-massinburg",
+        "crediti": 1,
         "riconfermato": false,
         "stato": "Attivo",
         "italiano": "no"
