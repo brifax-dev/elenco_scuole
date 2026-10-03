@@ -498,8 +498,8 @@
     "nome": "MACCABI RUERO",
     "proprietario": "Sprizzaug",
     "mail": "",
-    "creditiRimanenti": 40,
-    "creditiSpesi": 315,
+    "creditiRimanenti": 39,
+    "creditiSpesi": 316,
     "bonusMercato": 50,
     "recuperoCreditiTagli": 5,
     "giocatori": [
@@ -534,6 +534,14 @@
         "ruolo": "GA",
         "giocatore": "BROCKINGTON Izaiah",
         "codice": "9339/izaiah-brockington",
+        "crediti": 1,
+        "riconfermato": false,
+        "stato": "Ceduto",
+        "italiano": "no"
+      },{
+        "ruolo": "G",
+        "giocatore": "BOLMARO Leandro",
+        "codice": "7405/leandro-bolmaro",
         "crediti": 1,
         "riconfermato": false,
         "stato": "Attivo",
