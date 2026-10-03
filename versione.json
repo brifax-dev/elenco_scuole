@@ -1,9 +1,9 @@
 {
-  "versione": "1.0.2",
-  "note": "Tribuna facoltativa: la formazione si può inviare con 0, 1, 2 o 3 giocatori in tribuna. Dopo l'invio della formazione la home mostra subito \"Formazione inviata\".",
+  "versione": "1.0.3",
+  "note": "Champions: classifica generale e classifiche di giornata. Inserisci ultima formazione. Roster aggiornati dal forum. Menu \"Roster squadre\". Corretta la home che poteva non mostrare le partite.",
   "download": {
-    "android": "https://github.com/brifax-dev/elenco_scuole/releases/download/app-v1.0.2/Fantabasket-1.0.2.apk",
-    "windows": "https://github.com/brifax-dev/elenco_scuole/releases/download/app-v1.0.2/Fantabasket-1.0.2-windows.zip",
-    "macos": "https://github.com/brifax-dev/elenco_scuole/releases/download/app-v1.0.2/Fantabasket-1.0.2-macos.dmg"
+    "android": "https://github.com/brifax-dev/elenco_scuole/releases/download/app-v1.0.3/Fantabasket-1.0.3.apk",
+    "windows": "https://github.com/brifax-dev/elenco_scuole/releases/download/app-v1.0.3/Fantabasket-1.0.3-windows.zip",
+    "macos": "https://github.com/brifax-dev/elenco_scuole/releases/download/app-v1.0.3/Fantabasket-1.0.3-macos.dmg"
   }
 }
