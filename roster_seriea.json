@@ -2,7 +2,7 @@
   {
     "nome": "RASTA PANTHERS",
     "proprietario": "Gabrio",
-    "mail": "",
+    "url": "https://fantabasketlive09.blogfree.net/?t=6378040",
     "creditiRimanenti": 80,
     "creditiSpesi": 270,
     "bonusMercato": 50,
@@ -166,7 +166,7 @@
   {
     "nome": "MONZA A SPICCHI",
     "proprietario": "bruno21",
-    "mail": "",
+    "url": "https://fantabasketlive09.blogfree.net/?t=6301941",
     "creditiRimanenti": 132,
     "creditiSpesi": 241,
     "bonusMercato": 50,
@@ -332,7 +332,7 @@
   {
     "nome": "DRINK TEAM",
     "proprietario": "Alectro93",
-    "mail": "",
+    "url": "https://fantabasketlive09.blogfree.net/?t=6301937",
     "creditiRimanenti": 32,
     "creditiSpesi": 323,
     "bonusMercato": 50,
@@ -497,7 +497,7 @@
   {
     "nome": "MACCABI RUERO",
     "proprietario": "Sprizzaug",
-    "mail": "",
+    "url": "https://fantabasketlive09.blogfree.net/?t=4982321",
     "creditiRimanenti": 39,
     "creditiSpesi": 316,
     "bonusMercato": 50,
@@ -661,7 +661,7 @@
   {
     "nome": "PBK DINAMO RONCO",
     "proprietario": "Libertas_FO",
-    "mail": "",
+    "url": "https://fantabasketlive09.blogfree.net/?t=4248894",
     "creditiRimanenti": 49,
     "creditiSpesi": 302,
     "bonusMercato": 50,
@@ -817,11 +817,11 @@
   {
     "nome": "CSKA BASKET",
     "proprietario": "Alphonso Ford",
-    "mail": "",
-    "creditiRimanenti": 36,
-    "creditiSpesi": 314,
+    "url": "https://fantabasketlive09.blogfree.net/?t=3692799",
+    "creditiRimanenti": 37,
+    "creditiSpesi": 315,
     "bonusMercato": 50,
-    "recuperoCreditiTagli": 0,
+    "recuperoCreditiTagli": 2,
     "giocatori": [
       {
         "ruolo": "G",
@@ -855,6 +855,14 @@
         "giocatore": "COLE RJ",
         "codice": "9031/r-j-cole",
         "crediti": 5,
+        "riconfermato": false,
+        "stato": "Ceduto",
+        "italiano": "no"
+      },{
+        "ruolo": "C",
+        "giocatore": "RENFRO Nate",
+        "codice": "7428/nate-renfro",
+        "crediti": 1,
         "riconfermato": false,
         "stato": "Attivo",
         "italiano": "no"
@@ -963,9 +971,9 @@
   {
     "nome": "CASORZO LAKERS",
     "proprietario": "pazzoide198",
-    "mail": "",
-    "creditiRimanenti": 88,
-    "creditiSpesi": 272,
+    "url": "https://fantabasketlive09.blogfree.net/?t=3692765",
+    "creditiRimanenti": 85,
+    "creditiSpesi": 275,
     "bonusMercato": 50,
     "recuperoCreditiTagli": 10,
     "giocatori": [
@@ -1158,7 +1166,7 @@
   {
     "nome": "FURLEEE",
     "proprietario": "Filo-Gallo95",
-    "mail": "",
+    "url": "https://fantabasketlive09.blogfree.net/?t=3692756",
     "creditiRimanenti": 36,
     "creditiSpesi": 314,
     "bonusMercato": 50,
