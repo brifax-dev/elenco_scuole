@@ -167,10 +167,10 @@
     "nome": "MONZA A SPICCHI",
     "proprietario": "bruno21",
     "mail": "",
-    "creditiRimanenti": 147,
-    "creditiSpesi": 225,
+    "creditiRimanenti": 132,
+    "creditiSpesi": 241,
     "bonusMercato": 50,
-    "recuperoCreditiTagli": 22,
+    "recuperoCreditiTagli": 23,
     "giocatori": [
       {
         "ruolo": "G",
