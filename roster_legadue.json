@@ -600,16 +600,6 @@
         "riconfermato": false,
         "stato": "Attivo",
         "italiano": "no"
-      },
-      {
-        "ruolo": "G",
-        "giocatore": "CARR Marcus",
-        "codice": "9368/marcus-carr",
-        "crediti": 1,
-        "riconfermato": false,
-        "stato": "Ceduto",
-        "motivoCessione": "taglio fase di riparazione",
-        "italiano": "no"
       }
     ]
   },
