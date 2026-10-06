@@ -1,9 +1,9 @@
 {
-  "versione": "1.0.3",
-  "note": "Champions: classifica generale e classifiche di giornata. Inserisci ultima formazione. Roster aggiornati dal forum. Menu \"Roster squadre\". Corretta la home che poteva non mostrare le partite.",
+  "versione": "1.0.4",
+  "note": "Classifica realizzatori della Supercoppa: ora conta anche le semifinali. Giocatori con il codice sbagliato nel roster non più mostrati come svincolati.",
   "download": {
-    "android": "https://github.com/brifax-dev/elenco_scuole/releases/download/app-v1.0.3/Fantabasket-1.0.3.apk",
-    "windows": "https://github.com/brifax-dev/elenco_scuole/releases/download/app-v1.0.3/Fantabasket-1.0.3-windows.zip",
-    "macos": "https://github.com/brifax-dev/elenco_scuole/releases/download/app-v1.0.3/Fantabasket-1.0.3-macos.dmg"
+    "android": "https://github.com/brifax-dev/elenco_scuole/releases/download/app-v1.0.4/Fantabasket-1.0.4.apk",
+    "windows": "https://github.com/brifax-dev/elenco_scuole/releases/download/app-v1.0.4/Fantabasket-1.0.4-windows.zip",
+    "macos": "https://github.com/brifax-dev/elenco_scuole/releases/download/app-v1.0.4/Fantabasket-1.0.4-macos.dmg"
   }
 }
