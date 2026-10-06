@@ -1,0 +1,286 @@
+{
+  "turno": "Semifinali",
+  "serie": "Supercoppa",
+  "giocatori": [
+    {
+      "squadra": "CSKA Basket",
+      "giocatore": "Mannion Niccolò",
+      "valutazione": 34,
+      "minuti": 24,
+      "valutazione_reale": 34
+    },
+    {
+      "squadra": "CSKA Basket",
+      "giocatore": "Holiday Aaron",
+      "valutazione": 7,
+      "minuti": 21,
+      "valutazione_reale": 7
+    },
+    {
+      "squadra": "CSKA Basket",
+      "giocatore": "Edwards Kessler",
+      "valutazione": 8,
+      "minuti": 20,
+      "valutazione_reale": 8
+    },
+    {
+      "squadra": "CSKA Basket",
+      "giocatore": "Tessitori Amedeo",
+      "valutazione": 9,
+      "minuti": 18,
+      "valutazione_reale": 9
+    },
+    {
+      "squadra": "CSKA Basket",
+      "giocatore": "Bilan Miro",
+      "valutazione": 7,
+      "minuti": 19,
+      "valutazione_reale": 7
+    },
+    {
+      "squadra": "CSKA Basket",
+      "giocatore": "Thompson Darius",
+      "valutazione": 4,
+      "minuti": 21,
+      "valutazione_reale": 3
+    },
+    {
+      "squadra": "CSKA Basket",
+      "giocatore": "Moon Xavier",
+      "valutazione": 15,
+      "minuti": 28,
+      "valutazione_reale": 10
+    },
+    {
+      "squadra": "CSKA Basket",
+      "giocatore": "Samuels Jermaine",
+      "valutazione": 9,
+      "minuti": 18,
+      "valutazione_reale": 9
+    },
+    {
+      "squadra": "CSKA Basket",
+      "giocatore": "Gorham Justin",
+      "valutazione": 12,
+      "minuti": 25,
+      "valutazione_reale": 10
+    },
+    {
+      "squadra": "CSKA Basket",
+      "giocatore": "Onyema Ze'Rik",
+      "valutazione": 14,
+      "minuti": 22,
+      "valutazione_reale": 13
+    },
+    {
+      "squadra": "Cag8 Team",
+      "giocatore": "Massinburg C.J.",
+      "valutazione": 11,
+      "minuti": 29,
+      "valutazione_reale": 11
+    },
+    {
+      "squadra": "Cag8 Team",
+      "giocatore": "Ayayi Gerald",
+      "valutazione": 5,
+      "minuti": 22,
+      "valutazione_reale": 5
+    },
+    {
+      "squadra": "Cag8 Team",
+      "giocatore": "Brown Charles",
+      "valutazione": 0,
+      "minuti": 22,
+      "valutazione_reale": 0
+    },
+    {
+      "squadra": "Cag8 Team",
+      "giocatore": "Guduric Marko",
+      "valutazione": 12,
+      "minuti": 27,
+      "valutazione_reale": 12
+    },
+    {
+      "squadra": "Cag8 Team",
+      "giocatore": "Chery Valentine",
+      "valutazione": 10,
+      "minuti": 23,
+      "valutazione_reale": 10
+    },
+    {
+      "squadra": "Cag8 Team",
+      "giocatore": "Bortolani Giordano",
+      "valutazione": -3,
+      "minuti": 13,
+      "valutazione_reale": -3
+    },
+    {
+      "squadra": "Cag8 Team",
+      "giocatore": "Cappelletti Alessandro",
+      "valutazione": 22,
+      "minuti": 27,
+      "valutazione_reale": 14
+    },
+    {
+      "squadra": "Cag8 Team",
+      "giocatore": "Jallow Karim",
+      "valutazione": 8,
+      "minuti": 22,
+      "valutazione_reale": 6
+    },
+    {
+      "squadra": "Cag8 Team",
+      "giocatore": "Hall Devon",
+      "valutazione": 4,
+      "minuti": 25,
+      "valutazione_reale": 2
+    },
+    {
+      "squadra": "Cag8 Team",
+      "giocatore": "Bayehe Jordan",
+      "valutazione": 3,
+      "minuti": 25,
+      "valutazione_reale": 2
+    },
+    {
+      "squadra": "Rasta Panthers",
+      "giocatore": "Barford Jaylen",
+      "valutazione": 7,
+      "minuti": 26,
+      "valutazione_reale": 7
+    },
+    {
+      "squadra": "Rasta Panthers",
+      "giocatore": "Cappelletti Alessandro",
+      "valutazione": 22,
+      "minuti": 27,
+      "valutazione_reale": 22
+    },
+    {
+      "squadra": "Rasta Panthers",
+      "giocatore": "Burnell Jason",
+      "valutazione": -5,
+      "minuti": 13,
+      "valutazione_reale": -5
+    },
+    {
+      "squadra": "Rasta Panthers",
+      "giocatore": "Jakimovski Andrej",
+      "valutazione": 15,
+      "minuti": 29,
+      "valutazione_reale": 15
+    },
+    {
+      "squadra": "Rasta Panthers",
+      "giocatore": "McGlynn Nick",
+      "valutazione": 18,
+      "minuti": 21,
+      "valutazione_reale": 18
+    },
+    {
+      "squadra": "Rasta Panthers",
+      "giocatore": "Sisko Zan",
+      "valutazione": 10,
+      "minuti": 24,
+      "valutazione_reale": 5
+    },
+    {
+      "squadra": "Rasta Panthers",
+      "giocatore": "Durham Aljami",
+      "valutazione": 6,
+      "minuti": 15,
+      "valutazione_reale": 5
+    },
+    {
+      "squadra": "Rasta Panthers",
+      "giocatore": "Pecchia Andrea",
+      "valutazione": 7,
+      "minuti": 19,
+      "valutazione_reale": 7
+    },
+    {
+      "squadra": "Rasta Panthers",
+      "giocatore": "Thor JT",
+      "valutazione": 4,
+      "minuti": 17,
+      "valutazione_reale": 2
+    },
+    {
+      "squadra": "Rasta Panthers",
+      "giocatore": "Spencer Skylar",
+      "valutazione": 5,
+      "minuti": 24,
+      "valutazione_reale": 3
+    },
+    {
+      "squadra": "Furleee",
+      "giocatore": "Dowtin Jeff",
+      "valutazione": 27,
+      "minuti": 28,
+      "valutazione_reale": 27
+    },
+    {
+      "squadra": "Furleee",
+      "giocatore": "Brown Markel",
+      "valutazione": 24,
+      "minuti": 22,
+      "valutazione_reale": 24
+    },
+    {
+      "squadra": "Furleee",
+      "giocatore": "Jallow Karim",
+      "valutazione": 8,
+      "minuti": 22,
+      "valutazione_reale": 8
+    },
+    {
+      "squadra": "Furleee",
+      "giocatore": "Guduric Marko",
+      "valutazione": 12,
+      "minuti": 27,
+      "valutazione_reale": 12
+    },
+    {
+      "squadra": "Furleee",
+      "giocatore": "Diouf Mouhamet Rassoul",
+      "valutazione": 15,
+      "minuti": 16,
+      "valutazione_reale": 15
+    },
+    {
+      "squadra": "Furleee",
+      "giocatore": "Spissu Marco",
+      "valutazione": 9,
+      "minuti": 18,
+      "valutazione_reale": 6
+    },
+    {
+      "squadra": "Furleee",
+      "giocatore": "Edwards Rob",
+      "valutazione": 14,
+      "minuti": 32,
+      "valutazione_reale": 7
+    },
+    {
+      "squadra": "Furleee",
+      "giocatore": "Alibegovic Amar",
+      "valutazione": 3,
+      "minuti": 20,
+      "valutazione_reale": 2
+    },
+    {
+      "squadra": "Furleee",
+      "giocatore": "Hall Devon",
+      "valutazione": 4,
+      "minuti": 25,
+      "valutazione_reale": 2
+    },
+    {
+      "squadra": "Furleee",
+      "giocatore": "Wiltjer Kyle",
+      "valutazione": 4,
+      "minuti": 21,
+      "valutazione_reale": 4
+    }
+  ]
+}
