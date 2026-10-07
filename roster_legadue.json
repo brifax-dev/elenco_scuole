@@ -627,7 +627,7 @@
         "codice": "9366/rasheed-bello",
         "crediti": 1,
         "riconfermato": false,
-        "stato": "Attivo",
+        "stato": "Ceduto",
         "italiano": "no"
       },
       {
@@ -654,7 +654,7 @@
         "codice": "821/lorenzo-bucarelli",
         "crediti": 1,
         "riconfermato": false,
-        "stato": "Attivo",
+        "stato": "Ceduto",
         "italiano": "si"
       },
       {
@@ -663,7 +663,7 @@
         "codice": "5660/liam-udom",
         "crediti": 5,
         "riconfermato": false,
-        "stato": "Attivo",
+        "stato": "Ceduto",
         "italiano": "si"
       },
       {
@@ -726,7 +726,7 @@
         "codice": "9360/enoch-boakye",
         "crediti": 5,
         "riconfermato": false,
-        "stato": "Attivo",
+        "stato": "Ceduto",
         "italiano": "no"
       },
       {
@@ -743,6 +743,42 @@
         "giocatore": "DIARRA Aliou",
         "codice": "9043/aliou-diarra",
         "crediti": 30,
+        "riconfermato": false,
+        "stato": "Attivo",
+        "italiano": "no"
+      },
+      {
+        "ruolo": "G",
+        "giocatore": "BROWN Markel",
+        "codice": "6605/markel-brown",
+        "crediti": 1,
+        "riconfermato": false,
+        "stato": "Attivo",
+        "italiano": "no"
+      },
+      {
+        "ruolo": "G",
+        "giocatore": "HACKETT Daniel",
+        "codice": "2608/daniel-hackett",
+        "crediti": 1,
+        "riconfermato": false,
+        "stato": "Attivo",
+        "italiano": "si"
+      },
+      {
+        "ruolo": "G",
+        "giocatore": "RUZZIER Michele",
+        "codice": "4890/michele-ruzzier",
+        "crediti": 1,
+        "riconfermato": false,
+        "stato": "Attivo",
+        "italiano": "si"
+      },
+      {
+        "ruolo": "A",
+        "giocatore": "JONES Lajae",
+        "codice": "9390/lajae-jonesr",
+        "crediti": 1,
         "riconfermato": false,
         "stato": "Attivo",
         "italiano": "no"
