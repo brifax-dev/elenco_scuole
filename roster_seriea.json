@@ -498,8 +498,8 @@
     "nome": "MACCABI RUERO",
     "proprietario": "Sprizzaug",
     "url": "https://fantabasketlive09.blogfree.net/?t=4982321",
-    "creditiRimanenti": 39,
-    "creditiSpesi": 316,
+    "creditiRimanenti": 38,
+    "creditiSpesi": 317,
     "bonusMercato": 50,
     "recuperoCreditiTagli": 5,
     "giocatori": [
@@ -605,6 +605,14 @@
         "ruolo": "AC",
         "giocatore": "LEVER Alessandro",
         "codice": "3200/alessandro-lever",
+        "crediti": 1,
+        "riconfermato": false,
+        "stato": "Ceduto",
+        "italiano": "si"
+      },{
+        "ruolo": "G",
+        "giocatore": "CANDI Leonardo",
+        "codice": "954/leonardo-candi",
         "crediti": 1,
         "riconfermato": false,
         "stato": "Attivo",
