@@ -25,5 +25,14 @@
     "dataInserimento": "2026-10-09T15:56:25.423Z",
     "dataAcquisto": "",
     "compratore": ""
+  },
+  {
+    "id": "950d0e8d-c8da-4d0d-a135-87998bc957be",
+    "prodotto": "Lenticchie",
+    "quantita": 1,
+    "richiedente": "Fabrizio",
+    "dataInserimento": "2026-10-09T15:56:32.722Z",
+    "dataAcquisto": "",
+    "compratore": ""
   }
 ]
