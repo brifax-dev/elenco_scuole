@@ -61,5 +61,14 @@
     "dataInserimento": "2026-10-09T16:03:24.630Z",
     "dataAcquisto": "2026-10-09T16:18:43.880Z",
     "compratore": "Fabrizio"
+  },
+  {
+    "id": "74a1ec63-9c0b-4c40-bdc8-cb6e4e10d09c",
+    "prodotto": "Sushiiiiiiiiiiiiiiiiiiiiii",
+    "quantita": 67,
+    "richiedente": "Eleonora",
+    "dataInserimento": "2026-10-09T19:33:10.880Z",
+    "dataAcquisto": "",
+    "compratore": ""
   }
 ]
