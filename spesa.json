@@ -34,5 +34,14 @@
     "dataInserimento": "2026-10-09T15:56:32.722Z",
     "dataAcquisto": "",
     "compratore": ""
+  },
+  {
+    "id": "8246b055-b1b4-4a4b-97ef-6236f5417aeb",
+    "prodotto": "Coca cola",
+    "quantita": 1,
+    "richiedente": "Fabrizio",
+    "dataInserimento": "2026-10-09T15:56:39.278Z",
+    "dataAcquisto": "",
+    "compratore": ""
   }
 ]
