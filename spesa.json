@@ -1,7 +1,8 @@
 [{
   "prodotto": "",
   "quantita":1,
-  "utente": "",
+  "richiedente": "",
+  "compratore": "",
   "dataInserimento":"",
   "dataAcquisto":""
 }]
