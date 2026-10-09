@@ -371,8 +371,17 @@
         "codice": "9342/hassani-gravett",
         "crediti": 1,
         "riconfermato": false,
-        "stato": "Attivo",
+        "stato": "Ceduto",
         "italiano": "no"
+      },
+      {
+        "ruolo": "G",
+        "giocatore": "RUZZIER Michele",
+        "codice": "4890/michele-ruzzier",
+        "crediti": 1,
+        "riconfermato": false,
+        "stato": "Attivo",
+        "italiano": "si"
       },
       {
         "ruolo": "G",
