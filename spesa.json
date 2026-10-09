@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "id": "c5be2ac4-f31a-43eb-bf96-d7012e414c48",
+    "prodotto": "Latte",
+    "quantita": 1,
+    "richiedente": "Fabrizio",
+    "dataInserimento": "2026-10-09T15:56:10.327Z",
+    "dataAcquisto": "",
+    "compratore": ""
+  }
+]
