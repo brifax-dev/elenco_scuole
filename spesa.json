@@ -61,14 +61,5 @@
     "dataInserimento": "2026-10-09T16:03:24.630Z",
     "dataAcquisto": "2026-10-09T16:18:43.880Z",
     "compratore": "Fabrizio"
-  },
-  {
-    "id": "95c2ba67-7892-4d3f-b7f2-3d3847698eb7",
-    "prodotto": "Patatine fritte",
-    "quantita": 1,
-    "richiedente": "Eleonora",
-    "dataInserimento": "2026-10-09T19:31:18.800Z",
-    "dataAcquisto": "2026-10-09T19:32:10.965Z",
-    "compratore": "Fabrizio"
   }
 ]
