@@ -61,5 +61,14 @@
     "dataInserimento": "2026-10-09T16:03:24.630Z",
     "dataAcquisto": "2026-10-09T16:18:43.880Z",
     "compratore": "Fabrizio"
+  },
+  {
+    "id": "9f5666e5-8cfb-4357-b5c3-f9d3167979cc",
+    "prodotto": "Patate",
+    "quantita": 1,
+    "richiedente": "Fabrizio",
+    "dataInserimento": "2026-10-09T18:14:37.767Z",
+    "dataAcquisto": "",
+    "compratore": ""
   }
 ]
