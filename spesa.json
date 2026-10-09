@@ -61,5 +61,14 @@
     "dataInserimento": "2026-10-09T16:03:24.630Z",
     "dataAcquisto": "2026-10-09T16:18:43.880Z",
     "compratore": "Fabrizio"
+  },
+  {
+    "id": "cc85c9ed-bd93-4ded-adc0-5c4a4a54c5e4",
+    "prodotto": "Sushi",
+    "quantita": 1,
+    "richiedente": "Eleonora",
+    "dataInserimento": "2026-10-09T19:32:33.860Z",
+    "dataAcquisto": "",
+    "compratore": ""
   }
 ]
