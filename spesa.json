@@ -7,14 +7,5 @@
     "dataInserimento": "2026-10-09T15:17:43.208Z",
     "dataAcquisto": "2026-10-09T15:17:48.287Z",
     "compratore": "Fabrizio"
-  },
-  {
-    "id": "bebab5be-607d-4b01-97c5-fb8bb6025075",
-    "prodotto": "Carne capicollo",
-    "quantita": 1,
-    "richiedente": "Fabrizio",
-    "dataInserimento": "2026-10-09T15:18:03.577Z",
-    "dataAcquisto": "",
-    "compratore": ""
   }
 ]
