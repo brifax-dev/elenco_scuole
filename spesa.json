@@ -16,5 +16,14 @@
     "dataInserimento": "2026-10-09T15:56:17.989Z",
     "dataAcquisto": "",
     "compratore": ""
+  },
+  {
+    "id": "35300d14-2f2c-41bf-b4da-0878e77d26db",
+    "prodotto": "Zucchero",
+    "quantita": 1,
+    "richiedente": "Fabrizio",
+    "dataInserimento": "2026-10-09T15:56:25.423Z",
+    "dataAcquisto": "",
+    "compratore": ""
   }
 ]
