@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "id": "135ffb7b-d92b-4ed1-8cd2-6838de76ad99",
+    "prodotto": "Carne capicollo",
+    "quantita": 2,
+    "richiedente": "Fabrizio",
+    "dataInserimento": "2026-10-09T15:17:43.208Z",
+    "dataAcquisto": "",
+    "compratore": ""
+  }
+]
