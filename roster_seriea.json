@@ -989,8 +989,8 @@
     "nome": "CASORZO LAKERS",
     "proprietario": "pazzoide198",
     "url": "https://fantabasketlive09.blogfree.net/?t=3692765",
-    "creditiRimanenti": 85,
-    "creditiSpesi": 275,
+    "creditiRimanenti": 49,
+    "creditiSpesi": 311,
     "bonusMercato": 50,
     "recuperoCreditiTagli": 10,
     "giocatori": [
@@ -1174,6 +1174,14 @@
         "giocatore": "GRAZULIS Andrejs",
         "codice": "2494/andrejs-grazulis",
         "crediti": 1,
+        "riconfermato": false,
+        "stato": "Ceduto",
+        "italiano": "no"
+      },{
+        "ruolo": "A",
+        "giocatore": "JONES Lajae",
+        "codice": "9390/lajae-jones",
+        "crediti": 36,
         "riconfermato": false,
         "stato": "Attivo",
         "italiano": "no"
