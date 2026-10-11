@@ -16,7 +16,8 @@
         "riconfermato": false,
         "stato": "Ceduto",
         "italiano": "no"
-      },{
+      },
+      {
         "ruolo": "A",
         "giocatore": "GRAZULIS Andrejs",
         "codice": "2494/andrejs-grazulis",
@@ -336,7 +337,7 @@
     "creditiRimanenti": 32,
     "creditiSpesi": 323,
     "bonusMercato": 50,
-    "recuperoCreditiTagli":5,
+    "recuperoCreditiTagli": 5,
     "giocatori": [
       {
         "ruolo": "G",
@@ -492,7 +493,8 @@
         "stato": "Ceduto",
         "motivoCessione": "scambio con C KAMAGATE 5 di Casorzo Lakers",
         "italiano": "no"
-      },{
+      },
+      {
         "ruolo": "C",
         "giocatore": "KAMAGATE Ismaël",
         "codice": "7014/ismael-kamagate",
@@ -547,7 +549,8 @@
         "riconfermato": false,
         "stato": "Ceduto",
         "italiano": "no"
-      },{
+      },
+      {
         "ruolo": "G",
         "giocatore": "BOLMARO Leandro",
         "codice": "7405/leandro-bolmaro",
@@ -618,7 +621,8 @@
         "riconfermato": false,
         "stato": "Ceduto",
         "italiano": "si"
-      },{
+      },
+      {
         "ruolo": "G",
         "giocatore": "CANDI Leonardo",
         "codice": "954/leonardo-candi",
@@ -679,10 +683,10 @@
     "nome": "PBK DINAMO RONCO",
     "proprietario": "Libertas_FO",
     "url": "https://fantabasketlive09.blogfree.net/?t=4248894",
-    "creditiRimanenti": 49,
-    "creditiSpesi": 302,
+    "creditiRimanenti": 50,
+    "creditiSpesi": 303,
     "bonusMercato": 50,
-    "recuperoCreditiTagli": 1,
+    "recuperoCreditiTagli": 3,
     "giocatori": [
       {
         "ruolo": "G",
@@ -708,7 +712,7 @@
         "codice": "1205/semaj-christon",
         "crediti": 5,
         "riconfermato": false,
-        "stato": "Attivo",
+        "stato": "Ceduto",
         "italiano": "no"
       },
       {
@@ -828,6 +832,15 @@
         "stato": "Ceduto",
         "motivoCessione": "taglio fase di riparazione",
         "italiano": "no"
+      },
+      {
+        "ruolo": "C",
+        "giocatore": "CANDUSSI Francesco",
+        "codice": "949/francesco-candussi",
+        "crediti": 1,
+        "riconfermato": false,
+        "stato": "Attivo",
+        "italiano": "si"
       }
     ]
   },
@@ -875,7 +888,8 @@
         "riconfermato": false,
         "stato": "Ceduto",
         "italiano": "no"
-      },{
+      },
+      {
         "ruolo": "C",
         "giocatore": "RENFRO Nate",
         "codice": "7428/nate-renfro",
@@ -1169,7 +1183,8 @@
         "stato": "Ceduto",
         "motivoCessione": "scambio con A GRAZULIS 1 di Rasta Panthers",
         "italiano": "no"
-      },{
+      },
+      {
         "ruolo": "A",
         "giocatore": "GRAZULIS Andrejs",
         "codice": "2494/andrejs-grazulis",
@@ -1177,7 +1192,8 @@
         "riconfermato": false,
         "stato": "Ceduto",
         "italiano": "no"
-      },{
+      },
+      {
         "ruolo": "A",
         "giocatore": "JONES Lajae",
         "codice": "9390/lajae-jones",
