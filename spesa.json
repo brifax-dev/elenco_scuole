@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "id": "cf3108f4-5221-493c-b08c-82f03a6c395a",
+    "prodotto": "Cose di halloween",
+    "quantita": 1,
+    "richiedente": "Giulia",
+    "dataInserimento": "2026-10-11T10:16:33.892Z",
+    "dataAcquisto": "",
+    "compratore": ""
+  }
+]
