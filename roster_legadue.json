@@ -1081,8 +1081,8 @@
     "nome": "CAG-8 TEAM",
     "proprietario": "Baso23",
     "url": "https://fantabasketlive09.blogfree.net/?t=3692782",
-    "creditiRimanenti": 200,
-    "creditiSpesi": 152,
+    "creditiRimanenti": 120,
+    "creditiSpesi": 232,
     "bonusMercato": 50,
     "recuperoCreditiTagli": 2,
     "giocatori": [
@@ -1101,7 +1101,7 @@
         "codice": "9380/gerald-ayayi",
         "crediti": 1,
         "riconfermato": false,
-        "stato": "Attivo",
+        "stato": "Ceduto",
         "italiano": "no"
       },
       {
@@ -1229,6 +1229,15 @@
         "riconfermato": false,
         "stato": "Attivo",
         "italiano": "si"
+      },
+      {
+        "ruolo": "C",
+        "giocatore": "OLYNYK",
+        "codice": "",
+        "crediti": 80,
+        "riconfermato": false,
+        "stato": "Attivo",
+        "italiano": "no"
       }
     ]
   }
