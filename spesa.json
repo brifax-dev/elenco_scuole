@@ -9,15 +9,6 @@
     "compratore": ""
   },
   {
-    "id": "aebb7fd9-4158-4dd9-9015-ecc9e05898dc",
-    "prodotto": "Tovaglioli",
-    "quantita": 1,
-    "richiedente": "Fabrizio",
-    "dataInserimento": "2026-10-12T05:01:30.047Z",
-    "dataAcquisto": "2026-10-12T18:09:20.333Z",
-    "compratore": "Fabrizio"
-  },
-  {
     "id": "13842f78-60dc-4ca6-9404-7bde6245a602",
     "prodotto": "Nuggets",
     "quantita": 1,
