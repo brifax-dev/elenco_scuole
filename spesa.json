@@ -18,15 +18,6 @@
     "compratore": ""
   },
   {
-    "id": "8de74728-76b2-4804-b717-67efdf9337b4",
-    "prodotto": "Panini normali e al burro",
-    "quantita": 1,
-    "richiedente": "Fabrizio",
-    "dataInserimento": "2026-10-12T20:03:50.705Z",
-    "dataAcquisto": "2026-10-13T17:50:44.860Z",
-    "compratore": "Fabrizio"
-  },
-  {
     "id": "48ddfc4f-19d0-42a0-9cfe-2a54d70a12b6",
     "prodotto": "Panini",
     "quantita": 1,
