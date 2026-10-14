@@ -34,5 +34,14 @@
     "dataInserimento": "2026-10-13T17:51:11.150Z",
     "dataAcquisto": "2026-10-14T13:19:37.433Z",
     "compratore": "Fabrizio"
+  },
+  {
+    "id": "e6db2a61-d916-40ab-9722-d475ea9c205a",
+    "prodotto": "Bottigliette d'acqua",
+    "quantita": 1,
+    "richiedente": "Giulia",
+    "dataInserimento": "2026-10-14T17:04:38.968Z",
+    "dataAcquisto": "",
+    "compratore": ""
   }
 ]
