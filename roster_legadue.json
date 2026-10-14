@@ -442,8 +442,8 @@
     "nome": "LA EFFE",
     "proprietario": "fabgallagher",
     "url": "https://fantabasketlive09.blogfree.net/?t=6301940",
-    "creditiRimanenti": 163,
-    "creditiSpesi": 219,
+    "creditiRimanenti": 162,
+    "creditiSpesi": 220,
     "bonusMercato": 50,
     "recuperoCreditiTagli": 32,
     "giocatori": [
@@ -516,7 +516,7 @@
         "codice": "9335/isaiah-roby",
         "crediti": 1,
         "riconfermato": false,
-        "stato": "Attivo",
+        "stato": "Ceduto",
         "italiano": "no"
       },
       {
@@ -599,6 +599,25 @@
         "crediti": 1,
         "riconfermato": false,
         "stato": "Attivo",
+        "italiano": "no"
+      },
+      {
+        "ruolo": "A",
+        "giocatore": "KLINTMAN Bobi",
+        "codice": "9372/bo-klintman",
+        "crediti": 1,
+        "riconfermato": false,
+        "stato": "Attivo",
+        "italiano": "no"
+      },
+      {
+        "ruolo": "G",
+        "giocatore": "CARR Marcus",
+        "codice": "9368/marcus-carr",
+        "crediti": 1,
+        "riconfermato": false,
+        "stato": "Ceduto",
+        "motivoCessione": "taglio fase di riparazione",
         "italiano": "no"
       }
     ]
@@ -1081,10 +1100,10 @@
     "nome": "CAG-8 TEAM",
     "proprietario": "Baso23",
     "url": "https://fantabasketlive09.blogfree.net/?t=3692782",
-    "creditiRimanenti": 120,
-    "creditiSpesi": 232,
+    "creditiRimanenti": 124,
+    "creditiSpesi": 233,
     "bonusMercato": 50,
-    "recuperoCreditiTagli": 2,
+    "recuperoCreditiTagli": 7,
     "giocatori": [
       {
         "ruolo": "G",
@@ -1092,7 +1111,7 @@
         "codice": "9352/rob-edwards",
         "crediti": 10,
         "riconfermato": false,
-        "stato": "Attivo",
+        "stato": "Ceduto",
         "italiano": "no"
       },
       {
@@ -1235,6 +1254,15 @@
         "giocatore": "OLYNYK",
         "codice": "",
         "crediti": 80,
+        "riconfermato": false,
+        "stato": "Attivo",
+        "italiano": "no"
+      },
+      {
+        "ruolo": "G",
+        "giocatore": "SISKO Zan",
+        "codice": "9358/zan-sisko",
+        "crediti": 1,
         "riconfermato": false,
         "stato": "Attivo",
         "italiano": "no"
