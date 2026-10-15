@@ -34,5 +34,14 @@
     "dataInserimento": "2026-10-14T17:04:53.613Z",
     "dataAcquisto": "2026-10-14T18:50:56.369Z",
     "compratore": "Fabrizio"
+  },
+  {
+    "id": "aeea8f5b-6448-405e-8429-5bd19a97e93b",
+    "prodotto": "Succhi alla pera",
+    "quantita": 1,
+    "richiedente": "Eleonora",
+    "dataInserimento": "2026-10-15T14:17:59.787Z",
+    "dataAcquisto": "",
+    "compratore": ""
   }
 ]
