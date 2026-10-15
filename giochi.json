@@ -1,121 +1,62 @@
-[{ "gioco" : "Cluedo",
-    "giocatori" : "6"
-},{ "gioco" : "Monopoly",
-    "giocatori" : "6"
-},{ "gioco" : "Takenoko",
-    "giocatori" : "4"
-},{ "gioco" : "Brivido II",
-    "giocatori" : "8"
-},{ "gioco" : "Brivido I",
-    "giocatori" : "4"
-},{ "gioco" : "Crack",
-    "giocatori" : "4"
-},{ "gioco" : "SkualAttack",
-    "giocatori" : "4"
-},{ "gioco" : "Risiko",
-    "giocatori" : "6"
-},{ "gioco" : "HeroQuest",
-    "giocatori" : "5"
-},{ "gioco" : "L'isola di fuoco",
-    "giocatori" : "4"
-},{ "gioco" : "Villains",
-    "giocatori" : "6"
-},{ "gioco" : "Talisman",
-    "giocatori" : "6"
-},{ "gioco" : "Cocco Dentista",
-    "giocatori" : "100"
-},{ "gioco" : "Otto il maialotto",
-    "giocatori" : "100"
-},{ "gioco" : "Occhio alla nonna",
-    "giocatori" : "100"
-},{ "gioco" : "Non svegliare papà",
-    "giocatori" : "4"
-},{ "gioco" : "Dixit",
-    "giocatori" : "8"
-},{ "gioco" : "Vu dù",
-    "giocatori" : "6"
-},{ "gioco" : "Tzulan Quest",
-    "giocatori" : "5"
-},{ "gioco" : "Scacchi",
-    "giocatori" : "2"
-},{ "gioco" : "Dama",
-    "giocatori" : "2"
-},{ "gioco" : "Tria",
-    "giocatori" : "2"
-},{ "gioco" : "Memory Animali",
-    "giocatori" : "2"
-},{ "gioco" : "Memory Ambiente",
-    "giocatori" : "2"
-},{ "gioco" : "Forza 4",
-    "giocatori" : "2"
-},{ "gioco" : "Indovina chi è",
-    "giocatori" : "2"
-},{ "gioco" : "Hotel",
-    "giocatori" : "4"
-},{ "gioco" : "Power Hungry Pets",
-    "giocatori" : "6"
-},{ "gioco" : "Exploding Kittens",
-    "giocatori" : "5"
-},{ "gioco" : "Exploding Kittens il gioco",
-    "giocatori" : "5"
-},{ "gioco" : "Neko in",
-    "giocatori" : "6"
-},{ "gioco" : "Canvas",
-    "giocatori" : "5"
-},{ "gioco" : "Ciccio Pasticcio",
-    "giocatori" : "100"
-},{ "gioco" : "Taco Gatto Capra Cacio Pizza",
-    "giocatori" : "8"
-},{ "gioco" : "Beccato",
-    "giocatori" : "9"
-},{ "gioco" : "Little Secret",
-    "giocatori" : "9"
-},{ "gioco" : "Sfida lo Squalo",
-    "giocatori" : "4"
-},{ "gioco" : "Gastone Testone",
-    "giocatori" : "4"
-},{ "gioco" : "W il corpo umano",
-    "giocatori" : "4"
-},{ "gioco" : "Tabelline e problemini",
-    "giocatori" : "4"
-},{ "gioco" : "Uno contro uno",
-    "giocatori" : "2"
-},{ "gioco" : "Cosmopoli",
-    "giocatori" : "6"
-},{ "gioco" : "Il gioco della vita",
-    "giocatori" : "4"
-},{ "gioco" : "Labirinto",
-    "giocatori" : "4"
-},{ "gioco" : "La mummia",
-    "giocatori" : "5"
-},{ "gioco" : "Harry Potter Wizarding world",
-    "giocatori" : "4"
-},{ "gioco" : "L'allegro chirurgo",
-    "giocatori" : "10"
-},{ "gioco" : "Bicchieri sprint",
-    "giocatori" : "4"
-},{ "gioco" : "Scarabeo",
-    "giocatori" : "4"
-},{ "gioco" : "Tantasma Blitz",
-    "giocatori" : "8"
-},{ "gioco" : "Genitori contro figli",
-    "giocatori" : "4"
-},{ "gioco" : "Trivial pursuit",
-    "giocatori" : "6"
-},{ "gioco" : "Trivial pursuit Nazionale",
-    "giocatori" : "6"
-},{ "gioco" : "Jenga",
-    "giocatori" : "10"
-},{ "gioco" : "Twister",
-    "giocatori" : "4"
-},{ "gioco" : "Monopoly Junior",
-    "giocatori" : "4"
-},{ "gioco" : "Dobble",
-    "giocatori" : "4"
-},{ "gioco" : "Pirata Barbanera",
-    "giocatori" : "4"
-},{ "gioco" : "Harry Potter",
-    "giocatori" : "4"
-},{ "gioco" : "Frozen",
-    "giocatori" : "6"
-}]
+[
+  {"gioco": "Cluedo", "giocatori": "6", "tempo_medio": "45"},
+  {"gioco": "Monopoly", "giocatori": "6", "tempo_medio": "120"},
+  {"gioco": "Takenoko", "giocatori": "4", "tempo_medio": "45"},
+  {"gioco": "Brivido II", "giocatori": "8", "tempo_medio": "45"},
+  {"gioco": "Brivido I", "giocatori": "4", "tempo_medio": "45"},
+  {"gioco": "Crack", "giocatori": "4", "tempo_medio": "45"},
+  {"gioco": "SkualAttack", "giocatori": "4", "tempo_medio": "20"},
+  {"gioco": "Risiko", "giocatori": "6", "tempo_medio": "120"},
+  {"gioco": "HeroQuest", "giocatori": "5", "tempo_medio": "45"},
+  {"gioco": "L'isola di fuoco", "giocatori": "4", "tempo_medio": "30"},
+  {"gioco": "Villains", "giocatori": "6", "tempo_medio": "60"},
+  {"gioco": "Talisman", "giocatori": "6", "tempo_medio": "120"},
+  {"gioco": "Cocco Dentista", "giocatori": "100", "tempo_medio": "10"},
+  {"gioco": "Otto il maialotto", "giocatori": "100", "tempo_medio": "10"},
+  {"gioco": "Occhio alla nonna", "giocatori": "100", "tempo_medio": "15"},
+  {"gioco": "Non svegliare papà", "giocatori": "4", "tempo_medio": "15"},
+  {"gioco": "Dixit", "giocatori": "8", "tempo_medio": "30"},
+  {"gioco": "Vu dù", "giocatori": "6", "tempo_medio": "30"},
+  {"gioco": "Tzulan Quest", "giocatori": "5", "tempo_medio": "30"},
+  {"gioco": "Scacchi", "giocatori": "2", "tempo_medio": "60"},
+  {"gioco": "Dama", "giocatori": "2", "tempo_medio": "20"},
+  {"gioco": "Tria", "giocatori": "2", "tempo_medio": "10"},
+  {"gioco": "Memory Animali", "giocatori": "2", "tempo_medio": "15"},
+  {"gioco": "Memory Ambiente", "giocatori": "2", "tempo_medio": "15"},
+  {"gioco": "Forza 4", "giocatori": "2", "tempo_medio": "10"},
+  {"gioco": "Indovina chi è", "giocatori": "2", "tempo_medio": "15"},
+  {"gioco": "Hotel", "giocatori": "4", "tempo_medio": "60"},
+  {"gioco": "Power Hungry Pets", "giocatori": "6", "tempo_medio": "20"},
+  {"gioco": "Exploding Kittens", "giocatori": "5", "tempo_medio": "15"},
+  {"gioco": "Exploding Kittens il gioco", "giocatori": "5", "tempo_medio": "15"},
+  {"gioco": "Neko in", "giocatori": "6", "tempo_medio": "20"},
+  {"gioco": "Canvas", "giocatori": "5", "tempo_medio": "30"},
+  {"gioco": "Ciccio Pasticcio", "giocatori": "100", "tempo_medio": "15"},
+  {"gioco": "Taco Gatto Capra Cacio Pizza", "giocatori": "8", "tempo_medio": "15"},
+  {"gioco": "Beccato", "giocatori": "9", "tempo_medio": "15"},
+  {"gioco": "Little Secret", "giocatori": "9", "tempo_medio": "20"},
+  {"gioco": "Sfida lo Squalo", "giocatori": "4", "tempo_medio": "15"},
+  {"gioco": "Gastone Testone", "giocatori": "4", "tempo_medio": "30"},
+  {"gioco": "W il corpo umano", "giocatori": "4", "tempo_medio": "20"},
+  {"gioco": "Tabelline e problemini", "giocatori": "4", "tempo_medio": "20"},
+  {"gioco": "Uno contro uno", "giocatori": "2", "tempo_medio": "20"},
+  {"gioco": "Cosmopoli", "giocatori": "6", "tempo_medio": "60"},
+  {"gioco": "Il gioco della vita", "giocatori": "4", "tempo_medio": "60"},
+  {"gioco": "Labirinto", "giocatori": "4", "tempo_medio": "20"},
+  {"gioco": "La mummia", "giocatori": "5", "tempo_medio": "30"},
+  {"gioco": "Harry Potter Wizarding world", "giocatori": "4", "tempo_medio": "45"},
+  {"gioco": "L'allegro chirurgo", "giocatori": "10", "tempo_medio": "15"},
+  {"gioco": "Bicchieri sprint", "giocatori": "4", "tempo_medio": "15"},
+  {"gioco": "Scarabeo", "giocatori": "4", "tempo_medio": "60"},
+  {"gioco": "Tantasma Blitz", "giocatori": "8", "tempo_medio": "15"},
+  {"gioco": "Genitori contro figli", "giocatori": "4", "tempo_medio": "30"},
+  {"gioco": "Trivial pursuit", "giocatori": "6", "tempo_medio": "60"},
+  {"gioco": "Trivial pursuit Nazionale", "giocatori": "6", "tempo_medio": "60"},
+  {"gioco": "Jenga", "giocatori": "10", "tempo_medio": "20"},
+  {"gioco": "Twister", "giocatori": "4", "tempo_medio": "15"},
+  {"gioco": "Monopoly Junior", "giocatori": "4", "tempo_medio": "30"},
+  {"gioco": "Dobble", "giocatori": "4", "tempo_medio": "15"},
+  {"gioco": "Pirata Barbanera", "giocatori": "4", "tempo_medio": "10"},
+  {"gioco": "Harry Potter", "giocatori": "4", "tempo_medio": "30"},
+  {"gioco": "Frozen", "giocatori": "6", "tempo_medio": "20"}
+]
