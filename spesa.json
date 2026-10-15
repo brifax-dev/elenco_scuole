@@ -43,5 +43,14 @@
     "dataInserimento": "2026-10-15T14:17:59.787Z",
     "dataAcquisto": "",
     "compratore": ""
+  },
+  {
+    "id": "89a16679-effd-4fae-af32-6f25f2e1508f",
+    "prodotto": "Prosciutto",
+    "quantita": 1,
+    "richiedente": "Eleonora",
+    "dataInserimento": "2026-10-15T14:21:05.587Z",
+    "dataAcquisto": "",
+    "compratore": ""
   }
 ]
