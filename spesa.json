@@ -18,15 +18,6 @@
     "compratore": "Fabrizio"
   },
   {
-    "id": "48ddfc4f-19d0-42a0-9cfe-2a54d70a12b6",
-    "prodotto": "Panini",
-    "quantita": 1,
-    "richiedente": "Fabrizio",
-    "dataInserimento": "2026-10-13T17:51:11.150Z",
-    "dataAcquisto": "2026-10-14T13:19:37.433Z",
-    "compratore": "Fabrizio"
-  },
-  {
     "id": "e6db2a61-d916-40ab-9722-d475ea9c205a",
     "prodotto": "Bottigliette d'acqua",
     "quantita": 1,
