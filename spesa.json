@@ -43,5 +43,14 @@
     "dataInserimento": "2026-10-16T05:35:13.041Z",
     "dataAcquisto": "",
     "compratore": ""
+  },
+  {
+    "id": "74e9a36d-28ab-488d-91ec-ebd13818189b",
+    "prodotto": "Ammorbidente",
+    "quantita": 1,
+    "richiedente": "Fabrizio",
+    "dataInserimento": "2026-10-16T06:05:37.450Z",
+    "dataAcquisto": "",
+    "compratore": ""
   }
 ]
