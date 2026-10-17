@@ -168,10 +168,10 @@
     "nome": "MONZA A SPICCHI",
     "proprietario": "bruno21",
     "url": "https://fantabasketlive09.blogfree.net/?t=6301941",
-    "creditiRimanenti": 132,
-    "creditiSpesi": 241,
+    "creditiRimanenti": 57,
+    "creditiSpesi": 324,
     "bonusMercato": 50,
-    "recuperoCreditiTagli": 23,
+    "recuperoCreditiTagli": 31,
     "giocatori": [
       {
         "ruolo": "G",
@@ -279,7 +279,7 @@
         "codice": "9365/isaiah-miles",
         "crediti": 1,
         "riconfermato": false,
-        "stato": "Attivo",
+        "stato": "Ceduto",
         "italiano": "no"
       },
       {
@@ -288,8 +288,9 @@
         "codice": "9343/chad-brown",
         "crediti": 31,
         "riconfermato": false,
-        "stato": "Attivo",
-        "italiano": "no"
+        "stato": "Ceduto",
+        "italiano": "no",
+        "motivoCessione": "scambio con C RENFRO 1 di CSKA Basket"
       },
       {
         "ruolo": "C",
@@ -324,6 +325,33 @@
         "giocatore": "ANIGBOGU Ike",
         "codice": "9042/ike-anigbogu",
         "crediti": 16,
+        "riconfermato": false,
+        "stato": "Ceduto",
+        "italiano": "no"
+      },
+      {
+        "ruolo": "A",
+        "giocatore": "OLISEVICIUS Osvaldas",
+        "codice": "6133/osvaldas-olisevicius",
+        "crediti": 3,
+        "riconfermato": false,
+        "stato": "Attivo",
+        "italiano": "no"
+      },
+      {
+        "ruolo": "C",
+        "giocatore": "RENFRO Nate",
+        "codice": "7428/nate-renfro",
+        "crediti": 1,
+        "riconfermato": false,
+        "stato": "Attivo",
+        "italiano": "no"
+      },
+      {
+        "ruolo": "C",
+        "giocatore": "OLYNYK",
+        "codice": "",
+        "crediti": 80,
         "riconfermato": false,
         "stato": "Attivo",
         "italiano": "no"
@@ -895,8 +923,9 @@
         "codice": "7428/nate-renfro",
         "crediti": 1,
         "riconfermato": false,
-        "stato": "Attivo",
-        "italiano": "no"
+        "stato": "Ceduto",
+        "italiano": "no",
+        "motivoCessione": "scambio con C BROWN Chad 31 di Monza a Spicchi"
       },
       {
         "ruolo": "G",
@@ -996,6 +1025,15 @@
         "riconfermato": false,
         "stato": "Attivo",
         "italiano": "si"
+      },
+      {
+        "ruolo": "C",
+        "giocatore": "BROWN Chad",
+        "codice": "9343/chad-brown",
+        "crediti": 31,
+        "riconfermato": false,
+        "stato": "Attivo",
+        "italiano": "no"
       }
     ]
   },
