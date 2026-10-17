@@ -1100,8 +1100,8 @@
     "nome": "CAG-8 TEAM",
     "proprietario": "Baso23",
     "url": "https://fantabasketlive09.blogfree.net/?t=3692782",
-    "creditiRimanenti": 124,
-    "creditiSpesi": 233,
+    "creditiRimanenti": 123,
+    "creditiSpesi": 234,
     "bonusMercato": 50,
     "recuperoCreditiTagli": 7,
     "giocatori": [
@@ -1174,7 +1174,7 @@
         "codice": "6156/devon-hall",
         "crediti": 1,
         "riconfermato": false,
-        "stato": "Attivo",
+        "stato": "Ceduto",
         "italiano": "no"
       },
       {
@@ -1262,6 +1262,15 @@
         "ruolo": "G",
         "giocatore": "SISKO Zan",
         "codice": "9358/zan-sisko",
+        "crediti": 1,
+        "riconfermato": false,
+        "stato": "Attivo",
+        "italiano": "no"
+      },
+      {
+        "ruolo": "A",
+        "giocatore": "OLISEVICIUS Osvaldas",
+        "codice": "6133/osvaldas-olisevicius",
         "crediti": 1,
         "riconfermato": false,
         "stato": "Attivo",
