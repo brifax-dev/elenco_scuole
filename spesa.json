@@ -1,14 +1,5 @@
 [
   {
-    "id": "cf3108f4-5221-493c-b08c-82f03a6c395a",
-    "prodotto": "Cose di halloween",
-    "quantita": 1,
-    "richiedente": "Giulia",
-    "dataInserimento": "2026-10-11T10:16:33.892Z",
-    "dataAcquisto": "2026-10-17T15:40:40.638Z",
-    "compratore": "Fabrizio"
-  },
-  {
     "id": "aeea8f5b-6448-405e-8429-5bd19a97e93b",
     "prodotto": "Succhi alla pera",
     "quantita": 1,
@@ -33,33 +24,6 @@
     "richiedente": "Fabrizio",
     "dataInserimento": "2026-10-16T05:35:13.041Z",
     "dataAcquisto": "2026-10-17T21:59:17.990Z",
-    "compratore": "Fabrizio"
-  },
-  {
-    "id": "74e9a36d-28ab-488d-91ec-ebd13818189b",
-    "prodotto": "Ammorbidente",
-    "quantita": 1,
-    "richiedente": "Fabrizio",
-    "dataInserimento": "2026-10-16T06:05:37.450Z",
-    "dataAcquisto": "2026-10-17T15:41:39.085Z",
-    "compratore": "Fabrizio"
-  },
-  {
-    "id": "99466c06-0881-4bbc-bcb5-8658a9a2651e",
-    "prodotto": "Acchiappacolore",
-    "quantita": 1,
-    "richiedente": "Fabrizio",
-    "dataInserimento": "2026-10-16T06:05:52.383Z",
-    "dataAcquisto": "2026-10-17T15:40:36.655Z",
-    "compratore": "Fabrizio"
-  },
-  {
-    "id": "fb5bb63b-8b2e-4be2-93ce-1fb1f74f8209",
-    "prodotto": "Pile ministilo",
-    "quantita": 1,
-    "richiedente": "Fabrizio",
-    "dataInserimento": "2026-10-16T06:06:10.581Z",
-    "dataAcquisto": "2026-10-17T15:38:55.835Z",
     "compratore": "Fabrizio"
   }
 ]
