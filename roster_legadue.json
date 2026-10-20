@@ -626,8 +626,8 @@
     "nome": "BRIFAX LECCE",
     "proprietario": "Brifax",
     "url": "https://fantabasketlive09.blogfree.net/?t=6301939",
-    "creditiRimanenti": 121,
-    "creditiSpesi": 233,
+    "creditiRimanenti": 120,
+    "creditiSpesi": 234,
     "bonusMercato": 50,
     "recuperoCreditiTagli": 4,
     "giocatori": [
@@ -727,7 +727,7 @@
         "codice": "439/alessandro-bertini",
         "crediti": 1,
         "riconfermato": false,
-        "stato": "Attivo",
+        "stato": "Ceduto",
         "italiano": "si"
       },
       {
@@ -801,6 +801,15 @@
         "riconfermato": false,
         "stato": "Attivo",
         "italiano": "no"
+      },
+      {
+        "ruolo": "A",
+        "giocatore": "DEANGELI Lodovico",
+        "codice": "1592/lodovico-deangeli",
+        "crediti": 1,
+        "riconfermato": false,
+        "stato": "Attivo",
+        "italiano": "si"
       }
     ]
   },
