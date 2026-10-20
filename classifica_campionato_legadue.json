@@ -3,113 +3,113 @@
     {
       "posizione": 1,
       "squadra": "Famostrano",
-      "punti": 6,
-      "giornate": 3,
-      "vinte": 3,
+      "punti": 8,
+      "giornate": 4,
+      "vinte": 4,
       "perse": 0,
-      "puntiFatti": 409,
-      "puntiSubiti": 283,
-      "differenza": 126,
-      "mediaPuntiFatti": 136.3,
-      "mediaPuntiSubiti": 94.3,
+      "puntiFatti": 511,
+      "puntiSubiti": 343,
+      "differenza": 168,
+      "mediaPuntiFatti": 127.8,
+      "mediaPuntiSubiti": 85.8,
       "trend": "="
     },
     {
       "posizione": 2,
-      "squadra": "TT Saronno",
+      "squadra": "La Effe",
       "punti": 4,
-      "giornate": 3,
+      "giornate": 4,
       "vinte": 2,
-      "perse": 1,
-      "puntiFatti": 282,
-      "puntiSubiti": 259,
-      "differenza": 23,
-      "mediaPuntiFatti": 94.0,
-      "mediaPuntiSubiti": 86.3,
+      "perse": 2,
+      "puntiFatti": 401,
+      "puntiSubiti": 353,
+      "differenza": 48,
+      "mediaPuntiFatti": 100.3,
+      "mediaPuntiSubiti": 88.3,
       "trend": "▲"
     },
     {
       "posizione": 3,
-      "squadra": "La Effe",
-      "punti": 4,
-      "giornate": 3,
-      "vinte": 2,
-      "perse": 1,
-      "puntiFatti": 277,
-      "puntiSubiti": 223,
-      "differenza": 54,
-      "mediaPuntiFatti": 92.3,
-      "mediaPuntiSubiti": 74.3,
-      "trend": "▲"
-    },
-    {
-      "posizione": 4,
-      "squadra": "OBA",
-      "punti": 2,
-      "giornate": 3,
-      "vinte": 1,
-      "perse": 2,
-      "puntiFatti": 289,
-      "puntiSubiti": 286,
-      "differenza": 3,
-      "mediaPuntiFatti": 96.3,
-      "mediaPuntiSubiti": 95.3,
-      "trend": "▼"
-    },
-    {
-      "posizione": 5,
-      "squadra": "Spritz&Roll",
-      "punti": 2,
-      "giornate": 3,
-      "vinte": 1,
-      "perse": 2,
-      "puntiFatti": 285,
-      "puntiSubiti": 325,
-      "differenza": -40,
-      "mediaPuntiFatti": 95.0,
-      "mediaPuntiSubiti": 108.3,
-      "trend": "▼"
-    },
-    {
-      "posizione": 6,
       "squadra": "Efsane Ҫuko",
-      "punti": 2,
-      "giornate": 3,
-      "vinte": 1,
+      "punti": 4,
+      "giornate": 4,
+      "vinte": 2,
       "perse": 2,
-      "puntiFatti": 256,
-      "puntiSubiti": 334,
-      "differenza": -78,
-      "mediaPuntiFatti": 85.3,
-      "mediaPuntiSubiti": 111.3,
-      "trend": "▲"
-    },
-    {
-      "posizione": 7,
-      "squadra": "Brifax Lecce",
-      "punti": 2,
-      "giornate": 3,
-      "vinte": 1,
-      "perse": 2,
-      "puntiFatti": 253,
-      "puntiSubiti": 307,
-      "differenza": -54,
-      "mediaPuntiFatti": 84.3,
+      "puntiFatti": 365,
+      "puntiSubiti": 409,
+      "differenza": -44,
+      "mediaPuntiFatti": 91.3,
       "mediaPuntiSubiti": 102.3,
       "trend": "▲"
     },
     {
-      "posizione": 8,
-      "squadra": "Cag8 Team",
-      "punti": 2,
-      "giornate": 3,
-      "vinte": 1,
+      "posizione": 4,
+      "squadra": "TT Saronno",
+      "punti": 4,
+      "giornate": 4,
+      "vinte": 2,
       "perse": 2,
-      "puntiFatti": 227,
-      "puntiSubiti": 261,
-      "differenza": -34,
-      "mediaPuntiFatti": 75.7,
-      "mediaPuntiSubiti": 87.0,
+      "puntiFatti": 342,
+      "puntiSubiti": 361,
+      "differenza": -19,
+      "mediaPuntiFatti": 85.5,
+      "mediaPuntiSubiti": 90.3,
+      "trend": "▼"
+    },
+    {
+      "posizione": 5,
+      "squadra": "Cag8 Team",
+      "punti": 4,
+      "giornate": 4,
+      "vinte": 2,
+      "perse": 2,
+      "puntiFatti": 329,
+      "puntiSubiti": 323,
+      "differenza": 6,
+      "mediaPuntiFatti": 82.3,
+      "mediaPuntiSubiti": 80.8,
+      "trend": "▲"
+    },
+    {
+      "posizione": 6,
+      "squadra": "Brifax Lecce",
+      "punti": 4,
+      "giornate": 4,
+      "vinte": 2,
+      "perse": 2,
+      "puntiFatti": 383,
+      "puntiSubiti": 431,
+      "differenza": -48,
+      "mediaPuntiFatti": 95.8,
+      "mediaPuntiSubiti": 107.8,
+      "trend": "▲"
+    },
+    {
+      "posizione": 7,
+      "squadra": "Spritz&Roll",
+      "punti": 2,
+      "giornate": 4,
+      "vinte": 1,
+      "perse": 3,
+      "puntiFatti": 360,
+      "puntiSubiti": 434,
+      "differenza": -74,
+      "mediaPuntiFatti": 90.0,
+      "mediaPuntiSubiti": 108.5,
+      "trend": "▼"
+    },
+    {
+      "posizione": 8,
+      "squadra": "OBA",
+      "punti": 2,
+      "giornate": 4,
+      "vinte": 1,
+      "perse": 3,
+      "puntiFatti": 351,
+      "puntiSubiti": 388,
+      "differenza": -37,
+      "mediaPuntiFatti": 87.8,
+      "mediaPuntiSubiti": 97.0,
       "trend": "▼"
     }
   ],
@@ -117,38 +117,38 @@
     {
       "statistica": "MIGLIOR ATTACCO",
       "squadra": "Famostrano",
-      "punti": 409,
-      "media": 136.3
+      "punti": 511,
+      "media": 127.8
     },
     {
       "statistica": "MIGLIOR DIFESA",
-      "squadra": "La Effe",
-      "punti": 223,
-      "media": 74.3
+      "squadra": "Cag8 Team",
+      "punti": 323,
+      "media": 80.8
     },
     {
       "statistica": "MIGLIOR DIFFERENZA CANESTRI",
       "squadra": "Famostrano",
-      "punti": 126,
+      "punti": 168,
       "media": 42.0
     },
     {
       "statistica": "PEGGIOR ATTACCO",
       "squadra": "Cag8 Team",
-      "punti": 227,
-      "media": 75.7
+      "punti": 329,
+      "media": 82.3
     },
     {
       "statistica": "PEGGIOR DIFESA",
-      "squadra": "Efsane Ҫuko",
-      "punti": 334,
-      "media": 111.3
+      "squadra": "Spritz&Roll",
+      "punti": 434,
+      "media": 108.5
     },
     {
       "statistica": "PEGGIOR DIFFERENZA CANESTRI",
-      "squadra": "Efsane Ҫuko",
-      "punti": -78,
-      "media": -26.0
+      "squadra": "Spritz&Roll",
+      "punti": -74,
+      "media": -18.5
     }
   ],
   "classificaMarcatori": {
@@ -156,10 +156,35 @@
     "giocatori": []
   },
   "miglioreQuintettoStagionale": [
-    { "ruolo": "", "giocatore": "", "squadra": "", "premio": "" },
-    { "ruolo": "", "giocatore": "", "squadra": "", "premio": "" },
-    { "ruolo": "", "giocatore": "", "squadra": "", "premio": "" },
-    { "ruolo": "", "giocatore": "", "squadra": "", "premio": "" },
-    { "ruolo": "", "giocatore": "", "squadra": "", "premio": "" }
+    {
+      "ruolo": "",
+      "giocatore": "",
+      "squadra": "",
+      "premio": ""
+    },
+    {
+      "ruolo": "",
+      "giocatore": "",
+      "squadra": "",
+      "premio": ""
+    },
+    {
+      "ruolo": "",
+      "giocatore": "",
+      "squadra": "",
+      "premio": ""
+    },
+    {
+      "ruolo": "",
+      "giocatore": "",
+      "squadra": "",
+      "premio": ""
+    },
+    {
+      "ruolo": "",
+      "giocatore": "",
+      "squadra": "",
+      "premio": ""
+    }
   ]
 }
