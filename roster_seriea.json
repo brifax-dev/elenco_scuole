@@ -3,8 +3,8 @@
     "nome": "RASTA PANTHERS",
     "proprietario": "Gabrio",
     "url": "https://fantabasketlive09.blogfree.net/?t=6378040",
-    "creditiRimanenti": 80,
-    "creditiSpesi": 270,
+    "creditiRimanenti": 79,
+    "creditiSpesi": 271,
     "bonusMercato": 50,
     "recuperoCreditiTagli": 0,
     "giocatori": [
@@ -96,7 +96,7 @@
         "codice": "9362/louis-olinde",
         "crediti": 1,
         "riconfermato": false,
-        "stato": "Attivo",
+        "stato": "Ceduto",
         "italiano": "no"
       },
       {
@@ -158,6 +158,15 @@
         "giocatore": "SISKO Zan",
         "codice": "9358/zan-sisko",
         "crediti": 3,
+        "riconfermato": false,
+        "stato": "Attivo",
+        "italiano": "no"
+      },
+      {
+        "ruolo": "G",
+        "giocatore": "DAVIS Corey",
+        "codice": "6258/corey-davis",
+        "crediti": 1,
         "riconfermato": false,
         "stato": "Attivo",
         "italiano": "no"
