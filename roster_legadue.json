@@ -817,10 +817,10 @@
     "nome": "SPRITZ&ROLL",
     "proprietario": "Giuseppe",
     "url": "https://fantabasketlive09.blogfree.net/?t=6301936",
-    "creditiRimanenti": 94,
-    "creditiSpesi": 256,
+    "creditiRimanenti": 95,
+    "creditiSpesi": 257,
     "bonusMercato": 50,
-    "recuperoCreditiTagli": 0,
+    "recuperoCreditiTagli": 2,
     "giocatori": [
       {
         "ruolo": "G",
@@ -956,6 +956,15 @@
         "riconfermato": false,
         "stato": "Attivo",
         "italiano": "si"
+      },
+      {
+        "ruolo": "G",
+        "giocatore": "DAVIS Corey",
+        "codice": "6258/corey-davis",
+        "crediti": 1,
+        "riconfermato": false,
+        "stato": "Attivo",
+        "italiano": "no"
       }
     ]
   },
