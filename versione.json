@@ -1,9 +1,9 @@
 {
-  "versione": "1.0.5",
-  "note": "Classifica realizzatori: entra chi ha giocato i due terzi delle giornate (es. 2 su 3). Formazioni: link del forum per Serie A e Legadue.",
+  "versione": "1.0.6",
+  "note": "Admin: nuova funzione Calcola risultati: legge dal forum i risultati della giornata e aggiorna calendario, punteggi, classifica, Champions e formazioni del turno successivo.",
   "download": {
-    "android": "https://github.com/brifax-dev/elenco_scuole/releases/download/app-v1.0.5/Fantabasket-1.0.5.apk",
-    "windows": "https://github.com/brifax-dev/elenco_scuole/releases/download/app-v1.0.5/Fantabasket-1.0.5-windows.zip",
-    "macos": "https://github.com/brifax-dev/elenco_scuole/releases/download/app-v1.0.5/Fantabasket-1.0.5-macos.dmg"
+    "android": "https://github.com/brifax-dev/elenco_scuole/releases/download/app-v1.0.6/Fantabasket-1.0.6.apk",
+    "windows": "https://github.com/brifax-dev/elenco_scuole/releases/download/app-v1.0.6/Fantabasket-1.0.6-windows.zip",
+    "macos": "https://github.com/brifax-dev/elenco_scuole/releases/download/app-v1.0.6/Fantabasket-1.0.6-macos.dmg"
   }
 }
