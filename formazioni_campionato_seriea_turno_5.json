@@ -21,7 +21,7 @@
 	"nomeSquadra2": "CSKA Basket",
 	"bonusSquadra2": "0",
 	"classificaSquadra2": "1,8,4,4,0,491,389",
-	"squadra8": "",
+	"squadra8": "G:9351/dante-maddox,G:9380/gerald-ayayi,A:6191/jp-macura,A:6133/osvaldas-olisevicius,C:9436/kelly-olynyk,G:6993/langston-galloway,G:274/tommaso-baldasso,A:76/mirza-alibegovic,A:4214/jordan-parks,C:378/jordan-bayehe,G:3880/riccardo-moraschini,A:5823/riccardo-visconti,C:6186/guglielmo-caruso",
 	"nomeSquadra8": "Monza a Spicchi",
 	"bonusSquadra8": "0",
 	"squadra7": "G:9330/darius-brown,A:9327/isaiah-bigelow,A:9390/lajae-jones,C:9349/mike-tobey,C:9036/jaime-echenique,G:656/giordano-bortolani,G:3855/davide-moretti,A:4034/stefan-nikolic,A:9355/zac-seljaas,C:7034/derek-ogbeide,G:7048/prentiss-hubb,A:6142/john-petrucelli,C:7420/luka-brajkovic",
@@ -39,5 +39,6 @@
 	"squadra4": "",
 	"nomeSquadra4": "PBK Dinamo Ronco",
 	"bonusSquadra4": "0",
-	"classificaSquadra4": "8,0,4,0,4,321,383"
+	"classificaSquadra4": "8,0,4,0,4,321,383",
+	"classificaSquadra8": "6,2,4,1,3,376,456"
 }
