@@ -1118,8 +1118,8 @@
     "nome": "CAG-8 TEAM",
     "proprietario": "Baso23",
     "url": "https://fantabasketlive09.blogfree.net/?t=3692782",
-    "creditiRimanenti": 123,
-    "creditiSpesi": 234,
+    "creditiRimanenti": 122,
+    "creditiSpesi": 235,
     "bonusMercato": 50,
     "recuperoCreditiTagli": 7,
     "giocatori": [
@@ -1183,7 +1183,7 @@
         "codice": "6616/c-j-massinburg",
         "crediti": 1,
         "riconfermato": false,
-        "stato": "Attivo",
+        "stato": "Ceduto",
         "italiano": "no"
       },
       {
@@ -1289,6 +1289,15 @@
         "ruolo": "A",
         "giocatore": "OLISEVICIUS Osvaldas",
         "codice": "6133/osvaldas-olisevicius",
+        "crediti": 1,
+        "riconfermato": false,
+        "stato": "Attivo",
+        "italiano": "no"
+      },
+      {
+        "ruolo": "G",
+        "giocatore": "STEVENSON Erik",
+        "codice": "9384/erik-stevenson",
         "crediti": 1,
         "riconfermato": false,
         "stato": "Attivo",
