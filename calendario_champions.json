@@ -4,16 +4,56 @@
     "url": "https://fantabasketlive09.blogfree.net/?t=6652461",
     "serie": "Champions",
     "classifica": [
-      { "posizione": 1, "squadra": "CSKA Basket", "punti": 142 },
-      { "posizione": 2, "squadra": "Monza a Spicchi", "punti": 139 },
-      { "posizione": 2, "squadra": "OBA", "punti": 139 },
-      { "posizione": 4, "squadra": "Famostrano", "punti": 131 },
-      { "posizione": 5, "squadra": "Rasta Panthers", "punti": 122 },
-      { "posizione": 6, "squadra": "Spritz n Roll", "punti": 111 },
-      { "posizione": 7, "squadra": "Cag8 Team", "punti": 102 },
-      { "posizione": 8, "squadra": "La Effe", "punti": 101 },
-      { "posizione": 9, "squadra": "Maccabi Ruero", "punti": 100 },
-      { "posizione": 10, "squadra": "PBK Dinamo Ronco", "punti": 93 }
+      {
+        "posizione": 1,
+        "squadra": "CSKA Basket",
+        "punti": 142
+      },
+      {
+        "posizione": 2,
+        "squadra": "Monza a Spicchi",
+        "punti": 139
+      },
+      {
+        "posizione": 2,
+        "squadra": "OBA",
+        "punti": 139
+      },
+      {
+        "posizione": 4,
+        "squadra": "Famostrano",
+        "punti": 131
+      },
+      {
+        "posizione": 5,
+        "squadra": "Rasta Panthers",
+        "punti": 122
+      },
+      {
+        "posizione": 6,
+        "squadra": "Spritz n Roll",
+        "punti": 111
+      },
+      {
+        "posizione": 7,
+        "squadra": "Cag8 Team",
+        "punti": 102
+      },
+      {
+        "posizione": 8,
+        "squadra": "La Effe",
+        "punti": 101
+      },
+      {
+        "posizione": 9,
+        "squadra": "Maccabi Ruero",
+        "punti": 100
+      },
+      {
+        "posizione": 10,
+        "squadra": "PBK Dinamo Ronco",
+        "punti": 93
+      }
     ]
   },
   {
@@ -21,16 +61,56 @@
     "url": "https://fantabasketlive09.blogfree.net/?t=6654953",
     "serie": "Champions",
     "classifica": [
-      { "posizione": 1, "squadra": "Drink Team", "punti": 113 },
-      { "posizione": 2, "squadra": "CSKA Basket", "punti": 110 },
-      { "posizione": 3, "squadra": "Famostrano", "punti": 109 },
-      { "posizione": 4, "squadra": "Furleee", "punti": 107 },
-      { "posizione": 5, "squadra": "Maccabi Ruero", "punti": 96 },
-      { "posizione": 6, "squadra": "Spritz n Roll", "punti": 92 },
-      { "posizione": 7, "squadra": "TT Saronno", "punti": 91 },
-      { "posizione": 7, "squadra": "Efsane Ҫuko", "punti": 91 },
-      { "posizione": 9, "squadra": "Casorzo Lakers", "punti": 89 },
-      { "posizione": 10, "squadra": "La Effe", "punti": 85 }
+      {
+        "posizione": 1,
+        "squadra": "Drink Team",
+        "punti": 113
+      },
+      {
+        "posizione": 2,
+        "squadra": "CSKA Basket",
+        "punti": 110
+      },
+      {
+        "posizione": 3,
+        "squadra": "Famostrano",
+        "punti": 109
+      },
+      {
+        "posizione": 4,
+        "squadra": "Furleee",
+        "punti": 107
+      },
+      {
+        "posizione": 5,
+        "squadra": "Maccabi Ruero",
+        "punti": 96
+      },
+      {
+        "posizione": 6,
+        "squadra": "Spritz n Roll",
+        "punti": 92
+      },
+      {
+        "posizione": 7,
+        "squadra": "TT Saronno",
+        "punti": 91
+      },
+      {
+        "posizione": 7,
+        "squadra": "Efsane Ҫuko",
+        "punti": 91
+      },
+      {
+        "posizione": 9,
+        "squadra": "Casorzo Lakers",
+        "punti": 89
+      },
+      {
+        "posizione": 10,
+        "squadra": "La Effe",
+        "punti": 85
+      }
     ]
   },
   {
@@ -38,16 +118,56 @@
     "url": "https://fantabasketlive09.blogfree.net/?t=6654958",
     "serie": "Champions",
     "classifica": [
-      { "posizione": 1, "squadra": "Famostrano", "punti": 164 },
-      { "posizione": 2, "squadra": "Casorzo Lakers", "punti": 137 },
-      { "posizione": 3, "squadra": "Maccabi Ruero", "punti": 134 },
-      { "posizione": 4, "squadra": "CSKA Basket", "punti": 114 },
-      { "posizione": 5, "squadra": "Brifax Lecce", "punti": 104 },
-      { "posizione": 6, "squadra": "TT Saronno", "punti": 102 },
-      { "posizione": 7, "squadra": "Furleee", "punti": 100 },
-      { "posizione": 8, "squadra": "Efsane Ҫuko", "punti": 95 },
-      { "posizione": 9, "squadra": "La Effe", "punti": 86 },
-      { "posizione": 10, "squadra": "Drink Team", "punti": 79 }
+      {
+        "posizione": 1,
+        "squadra": "Famostrano",
+        "punti": 164
+      },
+      {
+        "posizione": 2,
+        "squadra": "Casorzo Lakers",
+        "punti": 137
+      },
+      {
+        "posizione": 3,
+        "squadra": "Maccabi Ruero",
+        "punti": 134
+      },
+      {
+        "posizione": 4,
+        "squadra": "CSKA Basket",
+        "punti": 114
+      },
+      {
+        "posizione": 5,
+        "squadra": "Brifax Lecce",
+        "punti": 104
+      },
+      {
+        "posizione": 6,
+        "squadra": "TT Saronno",
+        "punti": 102
+      },
+      {
+        "posizione": 7,
+        "squadra": "Furleee",
+        "punti": 100
+      },
+      {
+        "posizione": 8,
+        "squadra": "Efsane Ҫuko",
+        "punti": 95
+      },
+      {
+        "posizione": 9,
+        "squadra": "La Effe",
+        "punti": 86
+      },
+      {
+        "posizione": 10,
+        "squadra": "Drink Team",
+        "punti": 79
+      }
     ]
   },
   {
@@ -55,16 +175,113 @@
     "url": "https://fantabasketlive09.blogfree.net/?t=6656250",
     "serie": "Champions",
     "classifica": [
-      { "posizione": 1, "squadra": "Brifax Lecce", "punti": 122 },
-      { "posizione": 2, "squadra": "Furleee", "punti": 118 },
-      { "posizione": 3, "squadra": "La Effe", "punti": 117 },
-      { "posizione": 4, "squadra": "CSKA Basket", "punti": 115 },
-      { "posizione": 5, "squadra": "Drink Team", "punti": 110 },
-      { "posizione": 6, "squadra": "Efsane Ҫuko", "punti": 104 },
-      { "posizione": 7, "squadra": "Cag8 Team", "punti": 102 },
-      { "posizione": 8, "squadra": "Famostrano", "punti": 97 },
-      { "posizione": 9, "squadra": "Casorzo Lakers", "punti": 93 },
-      { "posizione": 10, "squadra": "Monza a Spicchi", "punti": 88 }
+      {
+        "posizione": 1,
+        "squadra": "Brifax Lecce",
+        "punti": 122
+      },
+      {
+        "posizione": 2,
+        "squadra": "Furleee",
+        "punti": 118
+      },
+      {
+        "posizione": 3,
+        "squadra": "La Effe",
+        "punti": 117
+      },
+      {
+        "posizione": 4,
+        "squadra": "CSKA Basket",
+        "punti": 115
+      },
+      {
+        "posizione": 5,
+        "squadra": "Drink Team",
+        "punti": 110
+      },
+      {
+        "posizione": 6,
+        "squadra": "Efsane Ҫuko",
+        "punti": 104
+      },
+      {
+        "posizione": 7,
+        "squadra": "Cag8 Team",
+        "punti": 102
+      },
+      {
+        "posizione": 8,
+        "squadra": "Famostrano",
+        "punti": 97
+      },
+      {
+        "posizione": 9,
+        "squadra": "Casorzo Lakers",
+        "punti": 93
+      },
+      {
+        "posizione": 10,
+        "squadra": "Monza a Spicchi",
+        "punti": 88
+      }
+    ]
+  },
+  {
+    "turno": 5,
+    "url": "",
+    "serie": "Champions",
+    "classifica": [
+      {
+        "posizione": 1,
+        "squadra": "Cag8 Team",
+        "punti": 155
+      },
+      {
+        "posizione": 2,
+        "squadra": "Maccabi Ruero",
+        "punti": 121
+      },
+      {
+        "posizione": 3,
+        "squadra": "Furleee",
+        "punti": 115
+      },
+      {
+        "posizione": 4,
+        "squadra": "Monza a Spicchi",
+        "punti": 110
+      },
+      {
+        "posizione": 5,
+        "squadra": "Famostrano",
+        "punti": 95
+      },
+      {
+        "posizione": 6,
+        "squadra": "Brifax Lecce",
+        "punti": 94
+      },
+      {
+        "posizione": 7,
+        "squadra": "Rasta Panthers",
+        "punti": 93
+      },
+      {
+        "posizione": 8,
+        "squadra": "OBA",
+        "punti": 88
+      },
+      {
+        "posizione": 9,
+        "squadra": "Casorzo Lakers",
+        "punti": 86
+      },
+      {
+        "posizione": 10,
+        "squadra": "CSKA Basket",
+        "punti": 85
+      }
     ]
   }
 ]
