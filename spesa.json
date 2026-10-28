@@ -43,5 +43,14 @@
     "dataInserimento": "2026-10-28T13:16:25.447Z",
     "dataAcquisto": "",
     "compratore": ""
+  },
+  {
+    "id": "369e7f32-44ed-4f54-8db1-7dd79a06e6b7",
+    "prodotto": "Uova",
+    "quantita": 1,
+    "richiedente": "Fabrizio",
+    "dataInserimento": "2026-10-28T13:16:33.575Z",
+    "dataAcquisto": "",
+    "compratore": ""
   }
 ]
