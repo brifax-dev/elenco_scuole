@@ -34,5 +34,14 @@
     "dataInserimento": "2026-10-28T13:16:09.210Z",
     "dataAcquisto": "",
     "compratore": ""
+  },
+  {
+    "id": "610ec9e6-057e-47ef-8acb-450ec67c6ad6",
+    "prodotto": "Pancetta",
+    "quantita": 1,
+    "richiedente": "Fabrizio",
+    "dataInserimento": "2026-10-28T13:16:25.447Z",
+    "dataAcquisto": "",
+    "compratore": ""
   }
 ]
