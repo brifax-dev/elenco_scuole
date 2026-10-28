@@ -88,5 +88,14 @@
     "dataInserimento": "2026-10-28T15:29:51.443Z",
     "dataAcquisto": "",
     "compratore": ""
+  },
+  {
+    "id": "c70ed2a3-b619-4638-b259-948ae3922c7b",
+    "prodotto": "Oreo",
+    "quantita": 1,
+    "richiedente": "Giulia",
+    "dataInserimento": "2026-10-28T15:30:16.774Z",
+    "dataAcquisto": "",
+    "compratore": ""
   }
 ]
