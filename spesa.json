@@ -61,5 +61,14 @@
     "dataInserimento": "2026-10-28T13:16:48.674Z",
     "dataAcquisto": "",
     "compratore": ""
+  },
+  {
+    "id": "02383fd8-bdd8-4ded-92ed-7e193634280f",
+    "prodotto": "Patatine",
+    "quantita": 1,
+    "richiedente": "Fabrizio",
+    "dataInserimento": "2026-10-28T13:16:56.132Z",
+    "dataAcquisto": "",
+    "compratore": ""
   }
 ]
