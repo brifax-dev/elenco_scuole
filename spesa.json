@@ -7,5 +7,14 @@
     "dataInserimento": "2026-10-28T13:15:33.623Z",
     "dataAcquisto": "",
     "compratore": ""
+  },
+  {
+    "id": "da26e88f-0450-483a-a98f-617da3e029ad",
+    "prodotto": "Passata",
+    "quantita": 1,
+    "richiedente": "Fabrizio",
+    "dataInserimento": "2026-10-28T13:15:40.292Z",
+    "dataAcquisto": "",
+    "compratore": ""
   }
 ]
