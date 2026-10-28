@@ -1118,10 +1118,10 @@
     "nome": "CAG-8 TEAM",
     "proprietario": "Baso23",
     "url": "https://fantabasketlive09.blogfree.net/?t=3692782",
-    "creditiRimanenti": 122,
-    "creditiSpesi": 235,
+    "creditiRimanenti": 126,
+    "creditiSpesi": 236,
     "bonusMercato": 50,
-    "recuperoCreditiTagli": 7,
+    "recuperoCreditiTagli": 12,
     "giocatori": [
       {
         "ruolo": "G",
@@ -1219,7 +1219,7 @@
         "codice": "9004/derrick-alston",
         "crediti": 10,
         "riconfermato": false,
-        "stato": "Attivo",
+        "stato": "Ceduto",
         "italiano": "no"
       },
       {
@@ -1298,6 +1298,15 @@
         "ruolo": "G",
         "giocatore": "STEVENSON Erik",
         "codice": "9384/erik-stevenson",
+        "crediti": 1,
+        "riconfermato": false,
+        "stato": "Attivo",
+        "italiano": "no"
+      },
+      {
+        "ruolo": "A",
+        "giocatore": "CHAPMAN Brekkett",
+        "codice": "9041/brekkott-chapman",
         "crediti": 1,
         "riconfermato": false,
         "stato": "Attivo",
