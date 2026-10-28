@@ -79,5 +79,14 @@
     "dataInserimento": "2026-10-28T13:17:04.459Z",
     "dataAcquisto": "",
     "compratore": ""
+  },
+  {
+    "id": "2499e4b7-6ff1-448f-a4be-35e5b361b072",
+    "prodotto": "Sakebon al pollo per venerdì",
+    "quantita": 1,
+    "richiedente": "Giulia",
+    "dataInserimento": "2026-10-28T15:29:51.443Z",
+    "dataAcquisto": "",
+    "compratore": ""
   }
 ]
