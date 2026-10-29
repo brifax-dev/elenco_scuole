@@ -1,32 +1,5 @@
 [
   {
-    "id": "cb5465ed-bdd2-469a-b8ec-628fee050e4a",
-    "prodotto": "Lenticchie",
-    "quantita": 1,
-    "richiedente": "Fabrizio",
-    "dataInserimento": "2026-10-28T13:15:33.623Z",
-    "dataAcquisto": "2026-10-28T18:07:22.115Z",
-    "compratore": "Fabrizio"
-  },
-  {
-    "id": "4210f3b4-28ab-4a58-b6a0-615b36eced9f",
-    "prodotto": "Lievito",
-    "quantita": 1,
-    "richiedente": "Fabrizio",
-    "dataInserimento": "2026-10-28T13:16:09.210Z",
-    "dataAcquisto": "2026-10-28T18:06:13.522Z",
-    "compratore": "Fabrizio"
-  },
-  {
-    "id": "369e7f32-44ed-4f54-8db1-7dd79a06e6b7",
-    "prodotto": "Uova",
-    "quantita": 1,
-    "richiedente": "Fabrizio",
-    "dataInserimento": "2026-10-28T13:16:33.575Z",
-    "dataAcquisto": "2026-10-28T18:07:19.723Z",
-    "compratore": "Fabrizio"
-  },
-  {
     "id": "de1da8a2-11bb-4d1f-9f8e-582ef82b4ec7",
     "prodotto": "Popcorn",
     "quantita": 1,
@@ -34,23 +7,5 @@
     "dataInserimento": "2026-10-28T13:16:48.674Z",
     "dataAcquisto": "",
     "compratore": ""
-  },
-  {
-    "id": "2499e4b7-6ff1-448f-a4be-35e5b361b072",
-    "prodotto": "Sakebon al pollo per venerdì",
-    "quantita": 1,
-    "richiedente": "Giulia",
-    "dataInserimento": "2026-10-28T15:29:51.443Z",
-    "dataAcquisto": "2026-10-28T18:08:25.426Z",
-    "compratore": "Fabrizio"
-  },
-  {
-    "id": "c70ed2a3-b619-4638-b259-948ae3922c7b",
-    "prodotto": "Oreo",
-    "quantita": 1,
-    "richiedente": "Giulia",
-    "dataInserimento": "2026-10-28T15:30:16.774Z",
-    "dataAcquisto": "2026-10-28T18:04:44.946Z",
-    "compratore": "Fabrizio"
   }
 ]
