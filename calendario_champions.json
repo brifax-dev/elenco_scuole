@@ -283,5 +283,62 @@
         "punti": 85
       }
     ]
+  },
+  {
+    "turno": 6,
+    "url": "",
+    "serie": "Champions",
+    "classifica": [
+      {
+        "posizione": 1,
+        "squadra": "Monza a Spicchi",
+        "punti": 123
+      },
+      {
+        "posizione": 2,
+        "squadra": "CSKA Basket",
+        "punti": 114
+      },
+      {
+        "posizione": 3,
+        "squadra": "TT Saronno",
+        "punti": 109
+      },
+      {
+        "posizione": 4,
+        "squadra": "Casorzo Lakers",
+        "punti": 107
+      },
+      {
+        "posizione": 5,
+        "squadra": "Cag8 Team",
+        "punti": 106
+      },
+      {
+        "posizione": 6,
+        "squadra": "Spritz n Roll",
+        "punti": 105
+      },
+      {
+        "posizione": 7,
+        "squadra": "La Effe",
+        "punti": 101
+      },
+      {
+        "posizione": 8,
+        "squadra": "Drink Team",
+        "punti": 98
+      },
+      {
+        "posizione": 9,
+        "squadra": "Efsane Ҫuko",
+        "punti": 97
+      },
+      {
+        "posizione": 10,
+        "squadra": "Famostrano",
+        "punti": 95
+      }
+    ]
   }
 ]
