@@ -156,26 +156,26 @@
       {
         "casa": "Rasta Panthers",
         "trasferta": "Monza a Spicchi",
-        "punteggioCasa": "",
-        "punteggioTrasferta": ""
+        "punteggioCasa": "79",
+        "punteggioTrasferta": "123"
       },
       {
         "casa": "CSKA Basket",
         "trasferta": "Casorzo Lakers",
-        "punteggioCasa": "",
-        "punteggioTrasferta": ""
+        "punteggioCasa": "119",
+        "punteggioTrasferta": "107"
       },
       {
         "casa": "Furleee",
         "trasferta": "Maccabi Ruero",
-        "punteggioCasa": "",
-        "punteggioTrasferta": ""
+        "punteggioCasa": "55",
+        "punteggioTrasferta": "84"
       },
       {
         "casa": "PBK Dinamo Ronco",
         "trasferta": "Drink Team",
-        "punteggioCasa": "",
-        "punteggioTrasferta": ""
+        "punteggioCasa": "93",
+        "punteggioTrasferta": "98"
       }
     ]
   },
