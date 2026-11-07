@@ -3,10 +3,10 @@
     "nome": "RASTA PANTHERS",
     "proprietario": "Gabrio",
     "url": "https://fantabasketlive09.blogfree.net/?t=6378040",
-    "creditiRimanenti": 79,
-    "creditiSpesi": 271,
+    "creditiRimanenti": 29,
+    "creditiSpesi": 342,
     "bonusMercato": 50,
-    "recuperoCreditiTagli": 0,
+    "recuperoCreditiTagli": 21,
     "giocatori": [
       {
         "ruolo": "G",
@@ -123,7 +123,7 @@
         "codice": "9139/jt-thor",
         "crediti": 43,
         "riconfermato": false,
-        "stato": "Attivo",
+        "stato": "Ceduto",
         "italiano": "no"
       },
       {
@@ -170,6 +170,15 @@
         "riconfermato": false,
         "stato": "Attivo",
         "italiano": "no"
+      },
+      {
+        "ruolo": "G",
+        "giocatore": "CAUPAIN",
+        "codice": "",
+        "crediti": 71,
+        "riconfermato": false,
+        "stato": "Attivo",
+        "italiano": "no"
       }
     ]
   },
@@ -177,8 +186,8 @@
     "nome": "MONZA A SPICCHI",
     "proprietario": "bruno21",
     "url": "https://fantabasketlive09.blogfree.net/?t=6301941",
-    "creditiRimanenti": 57,
-    "creditiSpesi": 324,
+    "creditiRimanenti": 56,
+    "creditiSpesi": 325,
     "bonusMercato": 50,
     "recuperoCreditiTagli": 31,
     "giocatori": [
@@ -225,7 +234,7 @@
         "codice": "274/tommaso-baldasso",
         "crediti": 1,
         "riconfermato": false,
-        "stato": "Attivo",
+        "stato": "Ceduto",
         "italiano": "si"
       },
       {
@@ -361,6 +370,15 @@
         "giocatore": "OLYNYK Kelly",
         "codice": "9436/kelly-olynyk",
         "crediti": 80,
+        "riconfermato": false,
+        "stato": "Attivo",
+        "italiano": "no"
+      },
+      {
+        "ruolo": "G",
+        "giocatore": "COLE RJ",
+        "codice": "9031/r-j-cole",
+        "crediti": 1,
         "riconfermato": false,
         "stato": "Attivo",
         "italiano": "no"
@@ -546,8 +564,8 @@
     "nome": "MACCABI RUERO",
     "proprietario": "Sprizzaug",
     "url": "https://fantabasketlive09.blogfree.net/?t=4982321",
-    "creditiRimanenti": 38,
-    "creditiSpesi": 317,
+    "creditiRimanenti": 33,
+    "creditiSpesi": 322,
     "bonusMercato": 50,
     "recuperoCreditiTagli": 5,
     "giocatori": [
@@ -611,7 +629,7 @@
         "codice": "9391/hunter-tyson",
         "crediti": 1,
         "riconfermato": false,
-        "stato": "Attivo",
+        "stato": "Ceduto",
         "italiano": "no"
       },
       {
@@ -713,6 +731,15 @@
         "stato": "Ceduto",
         "motivoCessione": "taglio fase di riparazione",
         "italiano": "no"
+      },
+      {
+        "ruolo": "G",
+        "giocatore": "STEVENSON Erik",
+        "codice": "9384/erik-stevenson",
+        "crediti": 5,
+        "riconfermato": false,
+        "stato": "Attivo",
+        "italiano": "no"
       }
     ]
   },
@@ -720,10 +747,10 @@
     "nome": "PBK DINAMO RONCO",
     "proprietario": "Libertas_FO",
     "url": "https://fantabasketlive09.blogfree.net/?t=4248894",
-    "creditiRimanenti": 50,
-    "creditiSpesi": 303,
+    "creditiRimanenti": 76,
+    "creditiSpesi": 309,
     "bonusMercato": 50,
-    "recuperoCreditiTagli": 3,
+    "recuperoCreditiTagli": 35,
     "giocatori": [
       {
         "ruolo": "G",
@@ -803,7 +830,7 @@
         "codice": "9381/trentyn-flowers",
         "crediti": 29,
         "riconfermato": false,
-        "stato": "Attivo",
+        "stato": "Ceduto",
         "italiano": "no"
       },
       {
@@ -839,7 +866,7 @@
         "codice": "5433/kaleb-tarczewski",
         "crediti": 39,
         "riconfermato": false,
-        "stato": "Attivo",
+        "stato": "Ceduto",
         "italiano": "no"
       },
       {
@@ -878,6 +905,24 @@
         "riconfermato": false,
         "stato": "Attivo",
         "italiano": "si"
+      },
+      {
+        "ruolo": "A",
+        "giocatore": "McDERMOTT Sean",
+        "codice": "7007/sean-mcdermott",
+        "crediti": 5,
+        "riconfermato": false,
+        "stato": "Attivo",
+        "italiano": "no"
+      },
+      {
+        "ruolo": "C",
+        "giocatore": "ANIGBOGU Ike",
+        "codice": "9042/ike-anigbogu",
+        "crediti": 1,
+        "riconfermato": false,
+        "stato": "Attivo",
+        "italiano": "no"
       }
     ]
   },
@@ -1050,10 +1095,10 @@
     "nome": "CASORZO LAKERS",
     "proprietario": "pazzoide198",
     "url": "https://fantabasketlive09.blogfree.net/?t=3692765",
-    "creditiRimanenti": 29,
-    "creditiSpesi": 333,
+    "creditiRimanenti": 48,
+    "creditiSpesi": 334,
     "bonusMercato": 50,
-    "recuperoCreditiTagli": 12,
+    "recuperoCreditiTagli": 32,
     "giocatori": [
       {
         "ruolo": "G",
@@ -1198,7 +1243,7 @@
         "codice": "7420/luka-brajkovic",
         "crediti": 40,
         "riconfermato": false,
-        "stato": "Attivo",
+        "stato": "Ceduto",
         "italiano": "no"
       },
       {
@@ -1254,6 +1299,15 @@
         "giocatore": "CHAPMAN Brekkett",
         "codice": "9041/brekkott-chapman",
         "crediti": 22,
+        "riconfermato": false,
+        "stato": "Attivo",
+        "italiano": "no"
+      },
+      {
+        "ruolo": "G",
+        "giocatore": "GREEN Erick",
+        "codice": "2534/erick-green",
+        "crediti": 1,
         "riconfermato": false,
         "stato": "Attivo",
         "italiano": "no"
