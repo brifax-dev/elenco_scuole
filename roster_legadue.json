@@ -150,10 +150,10 @@
     "nome": "TT SARONNO",
     "proprietario": "AlexD12",
     "url": "https://fantabasketlive09.blogfree.net/?t=6649971",
-    "creditiRimanenti": 90,
-    "creditiSpesi": 260,
+    "creditiRimanenti": 60,
+    "creditiSpesi": 301,
     "bonusMercato": 50,
-    "recuperoCreditiTagli": 0,
+    "recuperoCreditiTagli": 11,
     "giocatori": [
       {
         "ruolo": "G",
@@ -161,8 +161,9 @@
         "codice": "1205/semaj-christon",
         "crediti": 11,
         "riconfermato": false,
-        "stato": "Attivo",
-        "italiano": "no"
+        "stato": "Ceduto",
+        "italiano": "no",
+        "motivoCessione": "rescissione contrattuale"
       },
       {
         "ruolo": "G",
@@ -289,6 +290,15 @@
         "riconfermato": false,
         "stato": "Attivo",
         "italiano": "si"
+      },
+      {
+        "ruolo": "G",
+        "giocatore": "CAUPAIN",
+        "codice": "",
+        "crediti": 41,
+        "riconfermato": false,
+        "stato": "Attivo",
+        "italiano": "no"
       }
     ]
   },
@@ -626,8 +636,8 @@
     "nome": "BRIFAX LECCE",
     "proprietario": "Brifax",
     "url": "https://fantabasketlive09.blogfree.net/?t=6301939",
-    "creditiRimanenti": 120,
-    "creditiSpesi": 234,
+    "creditiRimanenti": 119,
+    "creditiSpesi": 235,
     "bonusMercato": 50,
     "recuperoCreditiTagli": 4,
     "giocatori": [
@@ -655,7 +665,7 @@
         "codice": "2293/garrett-nevels",
         "crediti": 1,
         "riconfermato": false,
-        "stato": "Attivo",
+        "stato": "Ceduto",
         "italiano": "no"
       },
       {
@@ -810,6 +820,15 @@
         "riconfermato": false,
         "stato": "Attivo",
         "italiano": "si"
+      },
+      {
+        "ruolo": "G",
+        "giocatore": "COLE RJ",
+        "codice": "9031/r-j-cole",
+        "crediti": 1,
+        "riconfermato": false,
+        "stato": "Attivo",
+        "italiano": "no"
       }
     ]
   },
