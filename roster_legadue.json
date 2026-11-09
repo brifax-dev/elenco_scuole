@@ -1137,10 +1137,10 @@
     "nome": "CAG-8 TEAM",
     "proprietario": "Baso23",
     "url": "https://fantabasketlive09.blogfree.net/?t=3692782",
-    "creditiRimanenti": 126,
-    "creditiSpesi": 236,
+    "creditiRimanenti": 86,
+    "creditiSpesi": 291,
     "bonusMercato": 50,
-    "recuperoCreditiTagli": 12,
+    "recuperoCreditiTagli": 27,
     "giocatori": [
       {
         "ruolo": "G",
@@ -1220,7 +1220,7 @@
         "codice": "9008/marko-guduric",
         "crediti": 30,
         "riconfermato": false,
-        "stato": "Attivo",
+        "stato": "Ceduto",
         "italiano": "no"
       },
       {
@@ -1327,6 +1327,15 @@
         "giocatore": "CHAPMAN Brekkett",
         "codice": "9041/brekkott-chapman",
         "crediti": 1,
+        "riconfermato": false,
+        "stato": "Attivo",
+        "italiano": "no"
+      },
+      {
+        "ruolo": "G",
+        "giocatore": "VITAL Christian",
+        "codice": "",
+        "crediti": 55,
         "riconfermato": false,
         "stato": "Attivo",
         "italiano": "no"
