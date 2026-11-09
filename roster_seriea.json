@@ -389,10 +389,10 @@
     "nome": "DRINK TEAM",
     "proprietario": "Alectro93",
     "url": "https://fantabasketlive09.blogfree.net/?t=6301937",
-    "creditiRimanenti": 32,
-    "creditiSpesi": 323,
+    "creditiRimanenti": 2,
+    "creditiSpesi": 354,
     "bonusMercato": 50,
-    "recuperoCreditiTagli": 5,
+    "recuperoCreditiTagli": 6,
     "giocatori": [
       {
         "ruolo": "G",
@@ -499,7 +499,7 @@
         "codice": "3714/federico-miaschi",
         "crediti": 2,
         "riconfermato": false,
-        "stato": "Attivo",
+        "stato": "Ceduto",
         "italiano": "si"
       },
       {
@@ -554,6 +554,15 @@
         "giocatore": "KAMAGATE Ismaël",
         "codice": "7014/ismael-kamagate",
         "crediti": 5,
+        "riconfermato": false,
+        "stato": "Attivo",
+        "italiano": "no"
+      },
+      {
+        "ruolo": "G",
+        "giocatore": "RICE Sir Jabari",
+        "codice": "9359/sir-jabari-rice",
+        "crediti": 30,
         "riconfermato": false,
         "stato": "Attivo",
         "italiano": "no"
@@ -747,10 +756,10 @@
     "nome": "PBK DINAMO RONCO",
     "proprietario": "Libertas_FO",
     "url": "https://fantabasketlive09.blogfree.net/?t=4248894",
-    "creditiRimanenti": 76,
-    "creditiSpesi": 309,
+    "creditiRimanenti": 47,
+    "creditiSpesi": 340,
     "bonusMercato": 50,
-    "recuperoCreditiTagli": 35,
+    "recuperoCreditiTagli": 37,
     "giocatori": [
       {
         "ruolo": "G",
@@ -839,7 +848,7 @@
         "codice": "9372/bo-klintman",
         "crediti": 4,
         "riconfermato": false,
-        "stato": "Attivo",
+        "stato": "Ceduto",
         "italiano": "no"
       },
       {
@@ -920,6 +929,15 @@
         "giocatore": "ANIGBOGU Ike",
         "codice": "9042/ike-anigbogu",
         "crediti": 1,
+        "riconfermato": false,
+        "stato": "Attivo",
+        "italiano": "no"
+      },
+      {
+        "ruolo": "G",
+        "giocatore": "VITAL",
+        "codice": "",
+        "crediti": 31,
         "riconfermato": false,
         "stato": "Attivo",
         "italiano": "no"
