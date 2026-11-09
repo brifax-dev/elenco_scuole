@@ -340,5 +340,62 @@
         "punti": 95
       }
     ]
+  },
+  {
+    "turno": 7,
+    "url": "",
+    "serie": "Champions",
+    "classifica": [
+      {
+        "posizione": 1,
+        "squadra": "OBA",
+        "punti": 141
+      },
+      {
+        "posizione": 2,
+        "squadra": "CSKA Basket",
+        "punti": 137
+      },
+      {
+        "posizione": 3,
+        "squadra": "PBK Dinamo Ronco",
+        "punti": 126
+      },
+      {
+        "posizione": 4,
+        "squadra": "Brifax Lecce",
+        "punti": 119
+      },
+      {
+        "posizione": 5,
+        "squadra": "Maccabi Ruero",
+        "punti": 117
+      },
+      {
+        "posizione": 6,
+        "squadra": "Famostrano",
+        "punti": 105
+      },
+      {
+        "posizione": 7,
+        "squadra": "TT Saronno",
+        "punti": 102
+      },
+      {
+        "posizione": 8,
+        "squadra": "Furleee",
+        "punti": 100
+      },
+      {
+        "posizione": 9,
+        "squadra": "Casorzo Lakers",
+        "punti": 98
+      },
+      {
+        "posizione": 10,
+        "squadra": "Rasta Panthers",
+        "punti": 97
+      }
+    ]
   }
 ]
