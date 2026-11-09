@@ -1,0 +1,566 @@
+{
+  "turno": 7,
+  "serie": "Serie A",
+  "giocatori": [
+    {
+      "squadra": "Rasta Panthers",
+      "giocatore": "Sisko Zan",
+      "valutazione": 3,
+      "minuti": 9,
+      "valutazione_reale": 3
+    },
+    {
+      "squadra": "Rasta Panthers",
+      "giocatore": "Caupain Troy",
+      "valutazione": 12,
+      "minuti": 26,
+      "valutazione_reale": 12
+    },
+    {
+      "squadra": "Rasta Panthers",
+      "giocatore": "Cappelletti Alessandro",
+      "valutazione": 7,
+      "minuti": 27,
+      "valutazione_reale": 7
+    },
+    {
+      "squadra": "Rasta Panthers",
+      "giocatore": "Burnell Jason",
+      "valutazione": 12,
+      "minuti": 18,
+      "valutazione_reale": 12
+    },
+    {
+      "squadra": "Rasta Panthers",
+      "giocatore": "McGlynn Nick",
+      "valutazione": 6,
+      "minuti": 12,
+      "valutazione_reale": 6
+    },
+    {
+      "squadra": "Rasta Panthers",
+      "giocatore": "Bucarelli Lorenzo",
+      "valutazione": 6,
+      "minuti": 15,
+      "valutazione_reale": 6
+    },
+    {
+      "squadra": "Rasta Panthers",
+      "giocatore": "Davis Corey",
+      "valutazione": 11,
+      "minuti": 24,
+      "valutazione_reale": 6
+    },
+    {
+      "squadra": "Rasta Panthers",
+      "giocatore": "Pecchia Andrea",
+      "valutazione": 21,
+      "minuti": 24,
+      "valutazione_reale": 11
+    },
+    {
+      "squadra": "Rasta Panthers",
+      "giocatore": "Barford Jaylen",
+      "valutazione": 23,
+      "minuti": 28,
+      "valutazione_reale": 18
+    },
+    {
+      "squadra": "Rasta Panthers",
+      "giocatore": "Spencer Skylar",
+      "valutazione": 16,
+      "minuti": 26,
+      "valutazione_reale": 16
+    },
+    {
+      "squadra": "Furleee",
+      "giocatore": "Dowtin Jeff",
+      "valutazione": 16,
+      "minuti": 30,
+      "valutazione_reale": 16
+    },
+    {
+      "squadra": "Furleee",
+      "giocatore": "Frazier Trent",
+      "valutazione": 14,
+      "minuti": 28,
+      "valutazione_reale": 14
+    },
+    {
+      "squadra": "Furleee",
+      "giocatore": "Jallow Karim",
+      "valutazione": 11,
+      "minuti": 20,
+      "valutazione_reale": 11
+    },
+    {
+      "squadra": "Furleee",
+      "giocatore": "Hall Devon",
+      "valutazione": 16,
+      "minuti": 23,
+      "valutazione_reale": 16
+    },
+    {
+      "squadra": "Furleee",
+      "giocatore": "Diouf Mouhamet Rassoul",
+      "valutazione": 12,
+      "minuti": 17,
+      "valutazione_reale": 12
+    },
+    {
+      "squadra": "Furleee",
+      "giocatore": "Spissu Marco",
+      "valutazione": 15,
+      "minuti": 31,
+      "valutazione_reale": 4
+    },
+    {
+      "squadra": "Furleee",
+      "giocatore": "Andrews Andrew",
+      "valutazione": 10,
+      "minuti": 28,
+      "valutazione_reale": 4
+    },
+    {
+      "squadra": "Furleee",
+      "giocatore": "Alibegovic Amar",
+      "valutazione": 4,
+      "minuti": 13,
+      "valutazione_reale": 4
+    },
+    {
+      "squadra": "Furleee",
+      "giocatore": "Melendez RJ",
+      "valutazione": 10,
+      "minuti": 18,
+      "valutazione_reale": 9
+    },
+    {
+      "squadra": "Furleee",
+      "giocatore": "Wiltjer Kyle",
+      "valutazione": 13,
+      "minuti": 28,
+      "valutazione_reale": 10
+    },
+    {
+      "squadra": "CSKA Basket",
+      "giocatore": "Mannion Niccolò",
+      "valutazione": 26,
+      "minuti": 34,
+      "valutazione_reale": 26
+    },
+    {
+      "squadra": "CSKA Basket",
+      "giocatore": "Holiday Aaron",
+      "valutazione": 11,
+      "minuti": 23,
+      "valutazione_reale": 11
+    },
+    {
+      "squadra": "CSKA Basket",
+      "giocatore": "Edwards Kessler",
+      "valutazione": 4,
+      "minuti": 17,
+      "valutazione_reale": 4
+    },
+    {
+      "squadra": "CSKA Basket",
+      "giocatore": "Tessitori Amedeo",
+      "valutazione": 14,
+      "minuti": 16,
+      "valutazione_reale": 14
+    },
+    {
+      "squadra": "CSKA Basket",
+      "giocatore": "Bilan Miro",
+      "valutazione": 35,
+      "minuti": 28,
+      "valutazione_reale": 35
+    },
+    {
+      "squadra": "CSKA Basket",
+      "giocatore": "Thompson Darius",
+      "valutazione": 10,
+      "minuti": 19,
+      "valutazione_reale": 3
+    },
+    {
+      "squadra": "CSKA Basket",
+      "giocatore": "Moon Xavier",
+      "valutazione": 27,
+      "minuti": 30,
+      "valutazione_reale": 15
+    },
+    {
+      "squadra": "CSKA Basket",
+      "giocatore": "Samuels Jermaine",
+      "valutazione": 17,
+      "minuti": 32,
+      "valutazione_reale": 12
+    },
+    {
+      "squadra": "CSKA Basket",
+      "giocatore": "Gorham Justin",
+      "valutazione": 15,
+      "minuti": 25,
+      "valutazione_reale": 14
+    },
+    {
+      "squadra": "CSKA Basket",
+      "giocatore": "Onyema Ze'Rik",
+      "valutazione": 6,
+      "minuti": 24,
+      "valutazione_reale": 3
+    },
+    {
+      "squadra": "Maccabi Ruero",
+      "giocatore": "Ross Colbey",
+      "valutazione": 22,
+      "minuti": 26,
+      "valutazione_reale": 22
+    },
+    {
+      "squadra": "Maccabi Ruero",
+      "giocatore": "Moore Wendell",
+      "valutazione": 24,
+      "minuti": 25,
+      "valutazione_reale": 24
+    },
+    {
+      "squadra": "Maccabi Ruero",
+      "giocatore": "Brown John",
+      "valutazione": -1,
+      "minuti": 12,
+      "valutazione_reale": -1
+    },
+    {
+      "squadra": "Maccabi Ruero",
+      "giocatore": "Diop Ousmane",
+      "valutazione": 17,
+      "minuti": 17,
+      "valutazione_reale": 17
+    },
+    {
+      "squadra": "Maccabi Ruero",
+      "giocatore": "Diarra Aliou",
+      "valutazione": 10,
+      "minuti": 16,
+      "valutazione_reale": 10
+    },
+    {
+      "squadra": "Maccabi Ruero",
+      "giocatore": "Zampini Federico",
+      "valutazione": 10,
+      "minuti": 27,
+      "valutazione_reale": 5
+    },
+    {
+      "squadra": "Maccabi Ruero",
+      "giocatore": "Stevenson Erik",
+      "valutazione": 13,
+      "minuti": 28,
+      "valutazione_reale": 6
+    },
+    {
+      "squadra": "Maccabi Ruero",
+      "giocatore": "Chery Valentine",
+      "valutazione": 20,
+      "minuti": 18,
+      "valutazione_reale": 20
+    },
+    {
+      "squadra": "Maccabi Ruero",
+      "giocatore": "Simonovic Marko",
+      "valutazione": 8,
+      "minuti": 17,
+      "valutazione_reale": 8
+    },
+    {
+      "squadra": "Maccabi Ruero",
+      "giocatore": "Wright Moses",
+      "valutazione": 6,
+      "minuti": 14,
+      "valutazione_reale": 6
+    },
+    {
+      "squadra": "Monza a Spicchi",
+      "giocatore": "Maddox Dante",
+      "valutazione": 10,
+      "minuti": 22,
+      "valutazione_reale": 10
+    },
+    {
+      "squadra": "Monza a Spicchi",
+      "giocatore": "Galloway Langston",
+      "valutazione": 19,
+      "minuti": 31,
+      "valutazione_reale": 19
+    },
+    {
+      "squadra": "Monza a Spicchi",
+      "giocatore": "Macura JP",
+      "valutazione": 1,
+      "minuti": 24,
+      "valutazione_reale": 1
+    },
+    {
+      "squadra": "Monza a Spicchi",
+      "giocatore": "Olisevicius Osvaldas",
+      "valutazione": 10,
+      "minuti": 30,
+      "valutazione_reale": 10
+    },
+    {
+      "squadra": "Monza a Spicchi",
+      "giocatore": "Olynyk Kelly",
+      "valutazione": -3,
+      "minuti": 17,
+      "valutazione_reale": -3
+    },
+    {
+      "squadra": "Monza a Spicchi",
+      "giocatore": "Cole R.J.",
+      "valutazione": 8,
+      "minuti": 21,
+      "valutazione_reale": 6
+    },
+    {
+      "squadra": "Monza a Spicchi",
+      "giocatore": "Visconti Riccardo",
+      "valutazione": -1,
+      "minuti": 21,
+      "valutazione_reale": -1
+    },
+    {
+      "squadra": "Monza a Spicchi",
+      "giocatore": "Alibegovic Mirza",
+      "valutazione": 9,
+      "minuti": 21,
+      "valutazione_reale": 6
+    },
+    {
+      "squadra": "Monza a Spicchi",
+      "giocatore": "Parks Jordan",
+      "valutazione": 6,
+      "minuti": 24,
+      "valutazione_reale": 2
+    },
+    {
+      "squadra": "Monza a Spicchi",
+      "giocatore": "Bayehe Jordan",
+      "valutazione": 18,
+      "minuti": 23,
+      "valutazione_reale": 18
+    },
+    {
+      "squadra": "Drink Team",
+      "giocatore": "Russell DeWayne",
+      "valutazione": 11,
+      "minuti": 33,
+      "valutazione_reale": 11
+    },
+    {
+      "squadra": "Drink Team",
+      "giocatore": "Hale Hunter",
+      "valutazione": 11,
+      "minuti": 34,
+      "valutazione_reale": 11
+    },
+    {
+      "squadra": "Drink Team",
+      "giocatore": "Watson Glynn",
+      "valutazione": 9,
+      "minuti": 28,
+      "valutazione_reale": 9
+    },
+    {
+      "squadra": "Drink Team",
+      "giocatore": "White Jack",
+      "valutazione": 23,
+      "minuti": 28,
+      "valutazione_reale": 23
+    },
+    {
+      "squadra": "Drink Team",
+      "giocatore": "Olejniczak Dominik",
+      "valutazione": 7,
+      "minuti": 22,
+      "valutazione_reale": 7
+    },
+    {
+      "squadra": "Drink Team",
+      "giocatore": "Mascolo Bruno",
+      "valutazione": 6,
+      "minuti": 28,
+      "valutazione_reale": 1
+    },
+    {
+      "squadra": "Drink Team",
+      "giocatore": "Valentine Denzel",
+      "valutazione": 15,
+      "minuti": 34,
+      "valutazione_reale": 2
+    },
+    {
+      "squadra": "Drink Team",
+      "giocatore": "Veronesi Giovanni",
+      "valutazione": 1,
+      "minuti": 24,
+      "valutazione_reale": 0
+    },
+    {
+      "squadra": "Drink Team",
+      "giocatore": "Offurum Mezie",
+      "valutazione": 11,
+      "minuti": 27,
+      "valutazione_reale": 4
+    },
+    {
+      "squadra": "Drink Team",
+      "giocatore": "Eboua Paul",
+      "valutazione": 16,
+      "minuti": 16,
+      "valutazione_reale": 16
+    },
+    {
+      "squadra": "Casorzo Lakers",
+      "giocatore": "Brown Darius",
+      "valutazione": 7,
+      "minuti": 23,
+      "valutazione_reale": 7
+    },
+    {
+      "squadra": "Casorzo Lakers",
+      "giocatore": "Jones Lajae",
+      "valutazione": 46,
+      "minuti": 35,
+      "valutazione_reale": 46
+    },
+    {
+      "squadra": "Casorzo Lakers",
+      "giocatore": "Chapman Brekkott",
+      "valutazione": 16,
+      "minuti": 27,
+      "valutazione_reale": 16
+    },
+    {
+      "squadra": "Casorzo Lakers",
+      "giocatore": "Tobey Mike",
+      "valutazione": 13,
+      "minuti": 22,
+      "valutazione_reale": 13
+    },
+    {
+      "squadra": "Casorzo Lakers",
+      "giocatore": "Echenique Jaime",
+      "valutazione": 3,
+      "minuti": 6,
+      "valutazione_reale": 3
+    },
+    {
+      "squadra": "Casorzo Lakers",
+      "giocatore": "Bortolani Giordano",
+      "valutazione": -2,
+      "minuti": 16,
+      "valutazione_reale": -2
+    },
+    {
+      "squadra": "Casorzo Lakers",
+      "giocatore": "Moretti Davide",
+      "valutazione": 4,
+      "minuti": 23,
+      "valutazione_reale": 0
+    },
+    {
+      "squadra": "Casorzo Lakers",
+      "giocatore": "Seljaas Zac",
+      "valutazione": 6,
+      "minuti": 33,
+      "valutazione_reale": 2
+    },
+    {
+      "squadra": "Casorzo Lakers",
+      "giocatore": "Nikolic Stefan",
+      "valutazione": 5,
+      "minuti": 20,
+      "valutazione_reale": 4
+    },
+    {
+      "squadra": "Casorzo Lakers",
+      "giocatore": "Ogbeide Derek",
+      "valutazione": 9,
+      "minuti": 16,
+      "valutazione_reale": 9
+    },
+    {
+      "squadra": "PBK Dinamo Ronco",
+      "giocatore": "Olivari Quincy",
+      "valutazione": 26,
+      "minuti": 34,
+      "valutazione_reale": 26
+    },
+    {
+      "squadra": "PBK Dinamo Ronco",
+      "giocatore": "Carr Marcus",
+      "valutazione": 7,
+      "minuti": 19,
+      "valutazione_reale": 7
+    },
+    {
+      "squadra": "PBK Dinamo Ronco",
+      "giocatore": "Ramsey Jahmi'us",
+      "valutazione": 24,
+      "minuti": 30,
+      "valutazione_reale": 24
+    },
+    {
+      "squadra": "PBK Dinamo Ronco",
+      "giocatore": "Flagg Savion",
+      "valutazione": 20,
+      "minuti": 34,
+      "valutazione_reale": 20
+    },
+    {
+      "squadra": "PBK Dinamo Ronco",
+      "giocatore": "Anigbogu Ike",
+      "valutazione": 10,
+      "minuti": 14,
+      "valutazione_reale": 10
+    },
+    {
+      "squadra": "PBK Dinamo Ronco",
+      "giocatore": "Battle Raequan",
+      "valutazione": 14,
+      "minuti": 27,
+      "valutazione_reale": 3
+    },
+    {
+      "squadra": "PBK Dinamo Ronco",
+      "giocatore": "Calzavara Andrea",
+      "valutazione": 26,
+      "minuti": 25,
+      "valutazione_reale": 21
+    },
+    {
+      "squadra": "PBK Dinamo Ronco",
+      "giocatore": "McDermott Sean",
+      "valutazione": 23,
+      "minuti": 33,
+      "valutazione_reale": 6
+    },
+    {
+      "squadra": "PBK Dinamo Ronco",
+      "giocatore": "Alviti Davide",
+      "valutazione": 13,
+      "minuti": 28,
+      "valutazione_reale": 2
+    },
+    {
+      "squadra": "PBK Dinamo Ronco",
+      "giocatore": "Candussi Francesco",
+      "valutazione": 7,
+      "minuti": 17,
+      "valutazione_reale": 7
+    }
+  ]
+}
