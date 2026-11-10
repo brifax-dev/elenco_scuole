@@ -142,5 +142,14 @@
     "dataInserimento": "2026-11-10T06:37:45.901Z",
     "dataAcquisto": "",
     "compratore": ""
+  },
+  {
+    "id": "d4645479-090e-4891-b43a-ad72365c7f2b",
+    "prodotto": "Nutella",
+    "quantita": 1,
+    "richiedente": "Fabrizio",
+    "dataInserimento": "2026-11-10T06:37:54.421Z",
+    "dataAcquisto": "",
+    "compratore": ""
   }
 ]
