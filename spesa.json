@@ -79,5 +79,14 @@
     "dataInserimento": "2026-11-10T06:35:49.912Z",
     "dataAcquisto": "",
     "compratore": ""
+  },
+  {
+    "id": "386eb9a5-84f5-4700-aaaa-74a40fcf167a",
+    "prodotto": "Wurstel",
+    "quantita": 1,
+    "richiedente": "Fabrizio",
+    "dataInserimento": "2026-11-10T06:35:59.099Z",
+    "dataAcquisto": "",
+    "compratore": ""
   }
 ]
