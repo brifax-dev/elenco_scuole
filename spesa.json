@@ -196,5 +196,14 @@
     "dataInserimento": "2026-11-10T06:40:57.797Z",
     "dataAcquisto": "",
     "compratore": ""
+  },
+  {
+    "id": "a385c117-fd3f-4966-8119-8375cbc1348e",
+    "prodotto": "Pan goccioli",
+    "quantita": 1,
+    "richiedente": "Fabrizio",
+    "dataInserimento": "2026-11-10T06:41:09.592Z",
+    "dataAcquisto": "",
+    "compratore": ""
   }
 ]
