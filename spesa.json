@@ -178,5 +178,14 @@
     "dataInserimento": "2026-11-10T06:39:57.338Z",
     "dataAcquisto": "",
     "compratore": ""
+  },
+  {
+    "id": "3a3ef6bf-87b9-4dc2-934d-700c9c9fd26d",
+    "prodotto": "Acqua frizzante",
+    "quantita": 1,
+    "richiedente": "Fabrizio",
+    "dataInserimento": "2026-11-10T06:40:06.898Z",
+    "dataAcquisto": "",
+    "compratore": ""
   }
 ]
