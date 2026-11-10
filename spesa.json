@@ -169,5 +169,14 @@
     "dataInserimento": "2026-11-10T06:39:02.498Z",
     "dataAcquisto": "",
     "compratore": ""
+  },
+  {
+    "id": "2c346765-9992-433e-bde3-0e713f33e167",
+    "prodotto": "Acqua naturale",
+    "quantita": 1,
+    "richiedente": "Fabrizio",
+    "dataInserimento": "2026-11-10T06:39:57.338Z",
+    "dataAcquisto": "",
+    "compratore": ""
   }
 ]
