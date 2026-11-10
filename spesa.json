@@ -106,5 +106,14 @@
     "dataInserimento": "2026-11-10T06:36:28.397Z",
     "dataAcquisto": "",
     "compratore": ""
+  },
+  {
+    "id": "ef4ec151-0b9f-481b-a5bd-2e90fab294e3",
+    "prodotto": "Tonno",
+    "quantita": 1,
+    "richiedente": "Fabrizio",
+    "dataInserimento": "2026-11-10T06:36:34.313Z",
+    "dataAcquisto": "",
+    "compratore": ""
   }
 ]
