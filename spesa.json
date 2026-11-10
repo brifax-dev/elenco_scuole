@@ -160,5 +160,14 @@
     "dataInserimento": "2026-11-10T06:38:09.442Z",
     "dataAcquisto": "",
     "compratore": ""
+  },
+  {
+    "id": "b44e4af8-f83c-4acc-b9e0-e1a8f2327105",
+    "prodotto": "Affettato",
+    "quantita": 1,
+    "richiedente": "Fabrizio",
+    "dataInserimento": "2026-11-10T06:39:02.498Z",
+    "dataAcquisto": "",
+    "compratore": ""
   }
 ]
