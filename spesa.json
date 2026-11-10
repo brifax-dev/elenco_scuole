@@ -223,5 +223,14 @@
     "dataInserimento": "2026-11-10T06:42:00.167Z",
     "dataAcquisto": "",
     "compratore": ""
+  },
+  {
+    "id": "6c1dadc9-c988-4551-b289-27fd432bddd6",
+    "prodotto": "Acchiappacolore",
+    "quantita": 1,
+    "richiedente": "Fabrizio",
+    "dataInserimento": "2026-11-10T06:42:09.991Z",
+    "dataAcquisto": "",
+    "compratore": ""
   }
 ]
