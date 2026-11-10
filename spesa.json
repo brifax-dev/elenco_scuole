@@ -214,5 +214,14 @@
     "dataInserimento": "2026-11-10T06:41:48.065Z",
     "dataAcquisto": "",
     "compratore": ""
+  },
+  {
+    "id": "e421b5e5-b7c9-45ee-88a5-4ab553c25d3b",
+    "prodotto": "Smacchiatore",
+    "quantita": 1,
+    "richiedente": "Fabrizio",
+    "dataInserimento": "2026-11-10T06:42:00.167Z",
+    "dataAcquisto": "",
+    "compratore": ""
   }
 ]
