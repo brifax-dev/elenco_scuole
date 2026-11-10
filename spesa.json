@@ -187,5 +187,14 @@
     "dataInserimento": "2026-11-10T06:40:06.898Z",
     "dataAcquisto": "",
     "compratore": ""
+  },
+  {
+    "id": "d0c980d6-413a-44f7-b6ee-d619ecd6856e",
+    "prodotto": "Passara",
+    "quantita": 1,
+    "richiedente": "Fabrizio",
+    "dataInserimento": "2026-11-10T06:40:57.797Z",
+    "dataAcquisto": "",
+    "compratore": ""
   }
 ]
