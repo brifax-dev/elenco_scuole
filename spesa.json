@@ -151,5 +151,14 @@
     "dataInserimento": "2026-11-10T06:37:54.421Z",
     "dataAcquisto": "",
     "compratore": ""
+  },
+  {
+    "id": "9d2a887d-1f4e-4acf-8274-5127b2b315c8",
+    "prodotto": "Panini",
+    "quantita": 1,
+    "richiedente": "Fabrizio",
+    "dataInserimento": "2026-11-10T06:38:09.442Z",
+    "dataAcquisto": "",
+    "compratore": ""
   }
 ]
