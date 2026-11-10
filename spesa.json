@@ -250,5 +250,14 @@
     "dataInserimento": "2026-11-10T12:53:56.267Z",
     "dataAcquisto": "",
     "compratore": ""
+  },
+  {
+    "id": "b39353d6-3e1f-455c-8fa1-109980049eff",
+    "prodotto": "Red bull o frutti di bosco o pesca",
+    "quantita": 1,
+    "richiedente": "Giulia",
+    "dataInserimento": "2026-11-10T23:17:50.421Z",
+    "dataAcquisto": "",
+    "compratore": ""
   }
 ]
