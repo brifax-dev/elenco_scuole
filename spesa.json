@@ -43,5 +43,14 @@
     "dataInserimento": "2026-11-10T06:35:17.946Z",
     "dataAcquisto": "",
     "compratore": ""
+  },
+  {
+    "id": "06c70aaa-d28a-467c-82cb-1e48fad7f094",
+    "prodotto": "Carta igienica",
+    "quantita": 1,
+    "richiedente": "Fabrizio",
+    "dataInserimento": "2026-11-10T06:35:26.351Z",
+    "dataAcquisto": "",
+    "compratore": ""
   }
 ]
