@@ -124,5 +124,14 @@
     "dataInserimento": "2026-11-10T06:36:41.801Z",
     "dataAcquisto": "",
     "compratore": ""
+  },
+  {
+    "id": "de3655c7-807e-44ee-b6aa-6a80e6a0ee63",
+    "prodotto": "Dadi",
+    "quantita": 1,
+    "richiedente": "Fabrizio",
+    "dataInserimento": "2026-11-10T06:37:29.242Z",
+    "dataAcquisto": "",
+    "compratore": ""
   }
 ]
