@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "id": "7e44e03d-4db5-443b-a844-28fa6adcac6d",
+    "prodotto": "Lenticchie",
+    "quantita": 1,
+    "richiedente": "Fabrizio",
+    "dataInserimento": "2026-11-10T06:34:34.597Z",
+    "dataAcquisto": "",
+    "compratore": ""
+  }
+]
