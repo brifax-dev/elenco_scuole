@@ -61,5 +61,14 @@
     "dataInserimento": "2026-11-10T06:35:32.914Z",
     "dataAcquisto": "",
     "compratore": ""
+  },
+  {
+    "id": "e32e0542-42c9-4d56-be15-2b34d3151310",
+    "prodotto": "Lievito",
+    "quantita": 1,
+    "richiedente": "Fabrizio",
+    "dataInserimento": "2026-11-10T06:35:39.595Z",
+    "dataAcquisto": "",
+    "compratore": ""
   }
 ]
