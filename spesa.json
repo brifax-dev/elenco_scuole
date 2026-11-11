@@ -9,66 +9,12 @@
     "compratore": "Fabrizio"
   },
   {
-    "id": "0c936b73-d9a7-42c7-870b-47197ea97c8c",
-    "prodotto": "Balsamo",
-    "quantita": 2,
-    "richiedente": "Fabrizio",
-    "dataInserimento": "2026-11-10T06:34:43.563Z",
-    "dataAcquisto": "2026-11-10T07:29:31.283Z",
-    "compratore": "Fabrizio"
-  },
-  {
-    "id": "106315c8-d5f3-4342-bdff-17050f09d981",
-    "prodotto": "Shampoo",
-    "quantita": 1,
-    "richiedente": "Fabrizio",
-    "dataInserimento": "2026-11-10T06:34:56.577Z",
-    "dataAcquisto": "2026-11-10T07:30:03.948Z",
-    "compratore": "Fabrizio"
-  },
-  {
-    "id": "cea0ad8b-278c-47aa-9c4b-e6757469e6fb",
-    "prodotto": "Bagno schiuma",
-    "quantita": 1,
-    "richiedente": "Fabrizio",
-    "dataInserimento": "2026-11-10T06:35:07.014Z",
-    "dataAcquisto": "2026-11-10T07:31:38.542Z",
-    "compratore": "Fabrizio"
-  },
-  {
-    "id": "5ea17032-1b4f-4d99-a248-0e16c6b5f64e",
-    "prodotto": "Dentifricio blu",
-    "quantita": 1,
-    "richiedente": "Fabrizio",
-    "dataInserimento": "2026-11-10T06:35:17.946Z",
-    "dataAcquisto": "2026-11-10T07:30:49.490Z",
-    "compratore": "Fabrizio"
-  },
-  {
-    "id": "06c70aaa-d28a-467c-82cb-1e48fad7f094",
-    "prodotto": "Carta igienica",
-    "quantita": 1,
-    "richiedente": "Fabrizio",
-    "dataInserimento": "2026-11-10T06:35:26.351Z",
-    "dataAcquisto": "2026-11-10T07:34:08.519Z",
-    "compratore": "Fabrizio"
-  },
-  {
     "id": "5d1f386a-a7ec-4cc8-868c-304eb7ce273e",
     "prodotto": "Farina",
     "quantita": 1,
     "richiedente": "Fabrizio",
     "dataInserimento": "2026-11-10T06:35:32.914Z",
     "dataAcquisto": "2026-11-10T12:20:11.591Z",
-    "compratore": "Fabrizio"
-  },
-  {
-    "id": "e32e0542-42c9-4d56-be15-2b34d3151310",
-    "prodotto": "Lievito",
-    "quantita": 1,
-    "richiedente": "Fabrizio",
-    "dataInserimento": "2026-11-10T06:35:39.595Z",
-    "dataAcquisto": "2026-11-10T07:58:31.307Z",
     "compratore": "Fabrizio"
   },
   {
@@ -108,15 +54,6 @@
     "compratore": "Fabrizio"
   },
   {
-    "id": "ef4ec151-0b9f-481b-a5bd-2e90fab294e3",
-    "prodotto": "Tonno",
-    "quantita": 1,
-    "richiedente": "Fabrizio",
-    "dataInserimento": "2026-11-10T06:36:34.313Z",
-    "dataAcquisto": "2026-11-10T07:54:00.473Z",
-    "compratore": "Fabrizio"
-  },
-  {
     "id": "2e635f3b-61e0-4984-a2fa-fea6a981638f",
     "prodotto": "Mozzarelle",
     "quantita": 1,
@@ -126,30 +63,12 @@
     "compratore": "Fabrizio"
   },
   {
-    "id": "de3655c7-807e-44ee-b6aa-6a80e6a0ee63",
-    "prodotto": "Dadi",
-    "quantita": 1,
-    "richiedente": "Fabrizio",
-    "dataInserimento": "2026-11-10T06:37:29.242Z",
-    "dataAcquisto": "2026-11-10T07:55:54.911Z",
-    "compratore": "Fabrizio"
-  },
-  {
     "id": "744ac3da-87a6-4230-8ede-86e943369be0",
     "prodotto": "Insalata",
     "quantita": 1,
     "richiedente": "Fabrizio",
     "dataInserimento": "2026-11-10T06:37:45.901Z",
     "dataAcquisto": "2026-11-10T12:14:25.141Z",
-    "compratore": "Fabrizio"
-  },
-  {
-    "id": "d4645479-090e-4891-b43a-ad72365c7f2b",
-    "prodotto": "Nutella",
-    "quantita": 1,
-    "richiedente": "Fabrizio",
-    "dataInserimento": "2026-11-10T06:37:54.421Z",
-    "dataAcquisto": "2026-11-10T07:55:22.635Z",
     "compratore": "Fabrizio"
   },
   {
@@ -171,66 +90,12 @@
     "compratore": "Fabrizio"
   },
   {
-    "id": "2c346765-9992-433e-bde3-0e713f33e167",
-    "prodotto": "Acqua naturale",
-    "quantita": 1,
-    "richiedente": "Fabrizio",
-    "dataInserimento": "2026-11-10T06:39:57.338Z",
-    "dataAcquisto": "2026-11-10T07:53:26.761Z",
-    "compratore": "Fabrizio"
-  },
-  {
-    "id": "3a3ef6bf-87b9-4dc2-934d-700c9c9fd26d",
-    "prodotto": "Acqua frizzante",
-    "quantita": 1,
-    "richiedente": "Fabrizio",
-    "dataInserimento": "2026-11-10T06:40:06.898Z",
-    "dataAcquisto": "2026-11-10T07:53:30.452Z",
-    "compratore": "Fabrizio"
-  },
-  {
     "id": "d0c980d6-413a-44f7-b6ee-d619ecd6856e",
     "prodotto": "Passara",
     "quantita": 1,
     "richiedente": "Fabrizio",
     "dataInserimento": "2026-11-10T06:40:57.797Z",
     "dataAcquisto": "2026-11-10T12:22:23.554Z",
-    "compratore": "Fabrizio"
-  },
-  {
-    "id": "a385c117-fd3f-4966-8119-8375cbc1348e",
-    "prodotto": "Pan goccioli",
-    "quantita": 1,
-    "richiedente": "Fabrizio",
-    "dataInserimento": "2026-11-10T06:41:09.592Z",
-    "dataAcquisto": "2026-11-10T07:57:07.197Z",
-    "compratore": "Fabrizio"
-  },
-  {
-    "id": "a08079f5-09c7-4054-b093-baca3e1661b3",
-    "prodotto": "Gel",
-    "quantita": 1,
-    "richiedente": "Fabrizio",
-    "dataInserimento": "2026-11-10T06:41:48.065Z",
-    "dataAcquisto": "2026-11-10T07:36:32.687Z",
-    "compratore": "Fabrizio"
-  },
-  {
-    "id": "e421b5e5-b7c9-45ee-88a5-4ab553c25d3b",
-    "prodotto": "Smacchiatore",
-    "quantita": 1,
-    "richiedente": "Fabrizio",
-    "dataInserimento": "2026-11-10T06:42:00.167Z",
-    "dataAcquisto": "2026-11-10T07:32:19.141Z",
-    "compratore": "Fabrizio"
-  },
-  {
-    "id": "6c1dadc9-c988-4551-b289-27fd432bddd6",
-    "prodotto": "Acchiappacolore",
-    "quantita": 1,
-    "richiedente": "Fabrizio",
-    "dataInserimento": "2026-11-10T06:42:09.991Z",
-    "dataAcquisto": "2026-11-10T07:57:21.806Z",
     "compratore": "Fabrizio"
   },
   {
