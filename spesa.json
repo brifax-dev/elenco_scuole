@@ -99,15 +99,6 @@
     "compratore": "Fabrizio"
   },
   {
-    "id": "3d8211bf-94c6-41a5-b896-b0ef4e189843",
-    "prodotto": "Kinder cars",
-    "quantita": 1,
-    "richiedente": "Fabrizio",
-    "dataInserimento": "2026-11-10T06:42:38.583Z",
-    "dataAcquisto": "2026-11-10T08:00:11.498Z",
-    "compratore": "Fabrizio"
-  },
-  {
     "id": "9d3b4f68-8013-4e9a-b6c7-78639e878073",
     "prodotto": "Formaggio grattugiato",
     "quantita": 1,
