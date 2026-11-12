@@ -1113,10 +1113,10 @@
     "nome": "CASORZO LAKERS",
     "proprietario": "pazzoide198",
     "url": "https://fantabasketlive09.blogfree.net/?t=3692765",
-    "creditiRimanenti": 48,
-    "creditiSpesi": 334,
+    "creditiRimanenti": 49,
+    "creditiSpesi": 335,
     "bonusMercato": 50,
-    "recuperoCreditiTagli": 32,
+    "recuperoCreditiTagli": 34,
     "giocatori": [
       {
         "ruolo": "G",
@@ -1133,7 +1133,7 @@
         "codice": "7048/prentiss-hubb",
         "crediti": 5,
         "riconfermato": false,
-        "stato": "Attivo",
+        "stato": "Ceduto",
         "italiano": "no"
       },
       {
@@ -1259,9 +1259,9 @@
         "ruolo": "C",
         "giocatore": "BRAJKOVIC Luka",
         "codice": "7420/luka-brajkovic",
-        "crediti": 40,
+        "crediti": 1,
         "riconfermato": false,
-        "stato": "Ceduto",
+        "stato": "Attivo",
         "italiano": "no"
       },
       {
@@ -1328,6 +1328,15 @@
         "crediti": 1,
         "riconfermato": false,
         "stato": "Attivo",
+        "italiano": "no"
+      },
+      {
+        "ruolo": "C",
+        "giocatore": "BRAJKOVIC Luka",
+        "codice": "7420/luka-brajkovic",
+        "crediti": 40,
+        "riconfermato": false,
+        "stato": "Ceduto",
         "italiano": "no"
       }
     ]
