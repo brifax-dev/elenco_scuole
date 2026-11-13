@@ -1,9 +1,9 @@
 {
-  "versione": "1.0.6",
-  "note": "Admin: nuova funzione Calcola risultati: legge dal forum i risultati della giornata e aggiorna calendario, punteggi, classifica, Champions e formazioni del turno successivo.",
+  "versione": "1.0.7",
+  "note": "Supercoppa e coppe a scontro diretto: finale e finale 3° posto nel tabellone, finali in evidenza, classifica finale con il vincitore. Formazioni: il pulsante aggiorna legge subito i dati aggiornati.",
   "download": {
-    "android": "https://github.com/brifax-dev/elenco_scuole/releases/download/app-v1.0.6/Fantabasket-1.0.6.apk",
-    "windows": "https://github.com/brifax-dev/elenco_scuole/releases/download/app-v1.0.6/Fantabasket-1.0.6-windows.zip",
-    "macos": "https://github.com/brifax-dev/elenco_scuole/releases/download/app-v1.0.6/Fantabasket-1.0.6-macos.dmg"
+    "android": "https://github.com/brifax-dev/elenco_scuole/releases/download/app-v1.0.7/Fantabasket-1.0.7.apk",
+    "windows": "https://github.com/brifax-dev/elenco_scuole/releases/download/app-v1.0.7/Fantabasket-1.0.7-windows.zip",
+    "macos": "https://github.com/brifax-dev/elenco_scuole/releases/download/app-v1.0.7/Fantabasket-1.0.7-macos.dmg"
   }
 }
