@@ -79,5 +79,14 @@
     "dataInserimento": "2026-11-13T16:44:46.728Z",
     "dataAcquisto": "",
     "compratore": ""
+  },
+  {
+    "id": "f9980dc0-ce94-420b-91bb-5acc55107211",
+    "prodotto": "Pan carré",
+    "quantita": 1,
+    "richiedente": "Fabrizio",
+    "dataInserimento": "2026-11-13T17:11:23.599Z",
+    "dataAcquisto": "",
+    "compratore": ""
   }
 ]
