@@ -34,5 +34,14 @@
     "dataInserimento": "2026-11-13T11:25:13.203Z",
     "dataAcquisto": "",
     "compratore": ""
+  },
+  {
+    "id": "d50db8dc-82af-4e40-a10f-c56a32f715a2",
+    "prodotto": "Carne macinata",
+    "quantita": 1,
+    "richiedente": "Fabrizio",
+    "dataInserimento": "2026-11-13T11:25:22.931Z",
+    "dataAcquisto": "",
+    "compratore": ""
   }
 ]
