@@ -16,5 +16,14 @@
     "dataInserimento": "2026-11-10T23:17:50.421Z",
     "dataAcquisto": "",
     "compratore": ""
+  },
+  {
+    "id": "4d927deb-4bc0-4cc8-9b09-ff66373e9f49",
+    "prodotto": "Lasahne",
+    "quantita": 1,
+    "richiedente": "Fabrizio",
+    "dataInserimento": "2026-11-13T11:25:04.225Z",
+    "dataAcquisto": "",
+    "compratore": ""
   }
 ]
