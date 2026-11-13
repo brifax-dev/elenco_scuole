@@ -25,5 +25,14 @@
     "dataInserimento": "2026-11-13T11:25:04.225Z",
     "dataAcquisto": "",
     "compratore": ""
+  },
+  {
+    "id": "1319b854-c06f-404c-aa85-8978bc659037",
+    "prodotto": "Prosciutto cotto",
+    "quantita": 1,
+    "richiedente": "Fabrizio",
+    "dataInserimento": "2026-11-13T11:25:13.203Z",
+    "dataAcquisto": "",
+    "compratore": ""
   }
 ]
