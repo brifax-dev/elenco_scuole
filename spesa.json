@@ -1,59 +1,5 @@
 [
   {
-    "id": "9d3b4f68-8013-4e9a-b6c7-78639e878073",
-    "prodotto": "Formaggio grattugiato",
-    "quantita": 1,
-    "richiedente": "Fabrizio",
-    "dataInserimento": "2026-11-10T12:53:56.267Z",
-    "dataAcquisto": "2026-11-13T17:26:13.023Z",
-    "compratore": "Fabrizio"
-  },
-  {
-    "id": "b39353d6-3e1f-455c-8fa1-109980049eff",
-    "prodotto": "Red bull o frutti di bosco o pesca",
-    "quantita": 1,
-    "richiedente": "Giulia",
-    "dataInserimento": "2026-11-10T23:17:50.421Z",
-    "dataAcquisto": "2026-11-13T17:33:26.891Z",
-    "compratore": "Fabrizio"
-  },
-  {
-    "id": "4d927deb-4bc0-4cc8-9b09-ff66373e9f49",
-    "prodotto": "Lasahne",
-    "quantita": 1,
-    "richiedente": "Fabrizio",
-    "dataInserimento": "2026-11-13T11:25:04.225Z",
-    "dataAcquisto": "2026-11-13T17:25:13.402Z",
-    "compratore": "Fabrizio"
-  },
-  {
-    "id": "d50db8dc-82af-4e40-a10f-c56a32f715a2",
-    "prodotto": "Carne macinata",
-    "quantita": 1,
-    "richiedente": "Fabrizio",
-    "dataInserimento": "2026-11-13T11:25:22.931Z",
-    "dataAcquisto": "2026-11-13T17:47:23.840Z",
-    "compratore": "Fabrizio"
-  },
-  {
-    "id": "b221e7f4-5081-4da4-a26e-02460d198622",
-    "prodotto": "Patatine",
-    "quantita": 1,
-    "richiedente": "Fabrizio",
-    "dataInserimento": "2026-11-13T16:38:01.456Z",
-    "dataAcquisto": "2026-11-13T17:23:51.613Z",
-    "compratore": "Fabrizio"
-  },
-  {
-    "id": "328e25f0-87a3-4423-a653-0d372c9f6e69",
-    "prodotto": "Detersivo",
-    "quantita": 1,
-    "richiedente": "Fabrizio",
-    "dataInserimento": "2026-11-13T16:38:14.800Z",
-    "dataAcquisto": "2026-11-13T17:39:21.292Z",
-    "compratore": "Fabrizio"
-  },
-  {
     "id": "085d24c3-bce7-4461-88f9-202a31457888",
     "prodotto": "Cialde",
     "quantita": 1,
@@ -61,32 +7,5 @@
     "dataInserimento": "2026-11-13T16:38:24.165Z",
     "dataAcquisto": "",
     "compratore": ""
-  },
-  {
-    "id": "070d734b-55d8-47b2-9d99-451e9e71e092",
-    "prodotto": "Vassoi",
-    "quantita": 1,
-    "richiedente": "Fabrizio",
-    "dataInserimento": "2026-11-13T16:44:46.728Z",
-    "dataAcquisto": "2026-11-13T17:53:32.670Z",
-    "compratore": "Fabrizio"
-  },
-  {
-    "id": "f9980dc0-ce94-420b-91bb-5acc55107211",
-    "prodotto": "Pan carré",
-    "quantita": 1,
-    "richiedente": "Fabrizio",
-    "dataInserimento": "2026-11-13T17:11:23.599Z",
-    "dataAcquisto": "2026-11-13T17:17:59.552Z",
-    "compratore": "Fabrizio"
-  },
-  {
-    "id": "7d762554-e9b5-4a20-8173-737ff9fc24f3",
-    "prodotto": "Prosciutto cotto",
-    "quantita": 1,
-    "richiedente": "Fabrizio",
-    "dataInserimento": "2026-11-13T17:11:34.683Z",
-    "dataAcquisto": "2026-11-13T17:29:20.436Z",
-    "compratore": "Fabrizio"
   }
 ]
