@@ -144,7 +144,8 @@
         "stato": "Attivo",
         "italiano": "no"
       }
-    ]
+    ],
+    "forumLetto": "2026-09-21T21:22:00.000Z"
   },
   {
     "nome": "TT SARONNO",
@@ -300,7 +301,8 @@
         "stato": "Attivo",
         "italiano": "no"
       }
-    ]
+    ],
+    "forumLetto": "2026-11-07T12:48:00.000Z"
   },
   {
     "nome": "EFSANE ҪUKO",
@@ -446,14 +448,15 @@
         "stato": "Attivo",
         "italiano": "si"
       }
-    ]
+    ],
+    "forumLetto": "2026-09-21T07:17:00.000Z"
   },
   {
     "nome": "LA EFFE",
     "proprietario": "fabgallagher",
     "url": "https://fantabasketlive09.blogfree.net/?t=6301940",
-    "creditiRimanenti": 162,
-    "creditiSpesi": 220,
+    "creditiRimanenti": 160,
+    "creditiSpesi": 222,
     "bonusMercato": 50,
     "recuperoCreditiTagli": 32,
     "giocatori": [
@@ -472,7 +475,7 @@
         "codice": "9009/aljami-durham",
         "crediti": 1,
         "riconfermato": false,
-        "stato": "Attivo",
+        "stato": "Ceduto",
         "italiano": "no"
       },
       {
@@ -589,7 +592,7 @@
         "codice": "5433/kaleb-tarczewski",
         "crediti": 1,
         "riconfermato": false,
-        "stato": "Attivo",
+        "stato": "Ceduto",
         "italiano": "no"
       },
       {
@@ -629,8 +632,27 @@
         "stato": "Ceduto",
         "motivoCessione": "taglio fase di riparazione",
         "italiano": "no"
+      },
+      {
+        "ruolo": "G",
+        "giocatore": "MOORE Charlie",
+        "codice": "7030/charlie-edward-moore",
+        "crediti": 1,
+        "riconfermato": false,
+        "stato": "Attivo",
+        "italiano": "no"
+      },
+      {
+        "ruolo": "C",
+        "giocatore": "BRAJKOVIC Luka",
+        "codice": "7420/luka-brajkovic",
+        "crediti": 1,
+        "riconfermato": false,
+        "stato": "Attivo",
+        "italiano": "no"
       }
-    ]
+    ],
+    "forumLetto": "2026-11-12T15:25:00.000Z"
   },
   {
     "nome": "BRIFAX LECCE",
@@ -830,7 +852,8 @@
         "stato": "Attivo",
         "italiano": "no"
       }
-    ]
+    ],
+    "forumLetto": "2026-11-07T12:50:00.000Z"
   },
   {
     "nome": "SPRITZ&ROLL",
@@ -985,7 +1008,8 @@
         "stato": "Attivo",
         "italiano": "no"
       }
-    ]
+    ],
+    "forumLetto": "2026-10-22T07:53:00.000Z"
   },
   {
     "nome": "OBA",
@@ -1131,7 +1155,8 @@
         "stato": "Attivo",
         "italiano": "si"
       }
-    ]
+    ],
+    "forumLetto": "2026-09-21T21:23:00.000Z"
   },
   {
     "nome": "CAG-8 TEAM",
@@ -1340,6 +1365,7 @@
         "stato": "Attivo",
         "italiano": "no"
       }
-    ]
+    ],
+    "forumLetto": "2026-11-09T08:26:00.000Z"
   }
 ]
