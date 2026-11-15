@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "id": "50f647d7-8022-4a03-8412-d408fbdf6d4f",
+    "prodotto": "Kinder pane cioc",
+    "quantita": 4,
+    "richiedente": "Fabrizio",
+    "dataInserimento": "2026-11-15T12:24:05.197Z",
+    "dataAcquisto": "",
+    "compratore": ""
+  }
+]
