@@ -5,29 +5,30 @@
       {
         "casa": "Famostrano",
         "trasferta": "Spritz n Roll",
-        "punteggioCasa": "",
-        "punteggioTrasferta": ""
+        "punteggioCasa": "119",
+        "punteggioTrasferta": "111"
       },
       {
         "casa": "Cag8 Team",
         "trasferta": "OBA",
-        "punteggioCasa": "",
-        "punteggioTrasferta": ""
+        "punteggioCasa": "123",
+        "punteggioTrasferta": "126"
       },
       {
         "casa": "La Effe",
         "trasferta": "Brifax Lecce",
-        "punteggioCasa": "",
-        "punteggioTrasferta": ""
+        "punteggioCasa": "121",
+        "punteggioTrasferta": "87"
       },
       {
         "casa": "Efsane Cuko",
         "trasferta": "TT Saronno",
-        "punteggioCasa": "",
-        "punteggioTrasferta": ""
+        "punteggioCasa": "139",
+        "punteggioTrasferta": "125"
       }
     ]
-  },{
+  },
+  {
     "fase": "Semifinali",
     "partite": [
       {
@@ -43,7 +44,8 @@
         "punteggioTrasferta": ""
       }
     ]
-  },{
+  },
+  {
     "fase": "Finali",
     "partite": [
       {
