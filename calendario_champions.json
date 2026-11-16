@@ -397,5 +397,62 @@
         "punti": 97
       }
     ]
+  },
+  {
+    "turno": 8,
+    "url": "",
+    "serie": "Champions",
+    "classifica": [
+      {
+        "posizione": 1,
+        "squadra": "Drink Team",
+        "punti": 122
+      },
+      {
+        "posizione": 1,
+        "squadra": "Monza a Spicchi",
+        "punti": 122
+      },
+      {
+        "posizione": 3,
+        "squadra": "Casorzo Lakers",
+        "punti": 117
+      },
+      {
+        "posizione": 4,
+        "squadra": "CSKA Basket",
+        "punti": 115
+      },
+      {
+        "posizione": 5,
+        "squadra": "PBK Dinamo Ronco",
+        "punti": 112
+      },
+      {
+        "posizione": 6,
+        "squadra": "OBA",
+        "punti": 107
+      },
+      {
+        "posizione": 6,
+        "squadra": "Efsane Ҫuko",
+        "punti": 107
+      },
+      {
+        "posizione": 8,
+        "squadra": "Cag8 Team",
+        "punti": 106
+      },
+      {
+        "posizione": 9,
+        "squadra": "La Effe",
+        "punti": 98
+      },
+      {
+        "posizione": 9,
+        "squadra": "Famostrano",
+        "punti": 98
+      }
+    ]
   }
 ]
