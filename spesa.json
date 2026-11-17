@@ -25,5 +25,14 @@
     "dataInserimento": "2026-11-17T16:06:20.994Z",
     "dataAcquisto": "",
     "compratore": ""
+  },
+  {
+    "id": "15228a94-4e65-4b7c-ab20-e2e611cd378b",
+    "prodotto": "Mandarini",
+    "quantita": 1,
+    "richiedente": "Fabrizio",
+    "dataInserimento": "2026-11-17T16:06:32.979Z",
+    "dataAcquisto": "",
+    "compratore": ""
   }
 ]
