@@ -16,5 +16,14 @@
     "dataInserimento": "2026-11-17T16:06:13.349Z",
     "dataAcquisto": "",
     "compratore": ""
+  },
+  {
+    "id": "36c8dd40-7b04-4f94-85bb-2e833993a0ec",
+    "prodotto": "Mozzarelle",
+    "quantita": 1,
+    "richiedente": "Fabrizio",
+    "dataInserimento": "2026-11-17T16:06:20.994Z",
+    "dataAcquisto": "",
+    "compratore": ""
   }
 ]
