@@ -18,33 +18,6 @@
     "compratore": ""
   },
   {
-    "id": "36c8dd40-7b04-4f94-85bb-2e833993a0ec",
-    "prodotto": "Mozzarelle",
-    "quantita": 1,
-    "richiedente": "Fabrizio",
-    "dataInserimento": "2026-11-17T16:06:20.994Z",
-    "dataAcquisto": "2026-11-17T18:23:14.158Z",
-    "compratore": "Fabrizio"
-  },
-  {
-    "id": "15228a94-4e65-4b7c-ab20-e2e611cd378b",
-    "prodotto": "Mandarini",
-    "quantita": 1,
-    "richiedente": "Fabrizio",
-    "dataInserimento": "2026-11-17T16:06:32.979Z",
-    "dataAcquisto": "2026-11-17T18:23:10.605Z",
-    "compratore": "Fabrizio"
-  },
-  {
-    "id": "75ac42ee-dfeb-4f9f-b6d1-ba58333258f1",
-    "prodotto": "Würstel",
-    "quantita": 1,
-    "richiedente": "Fabrizio",
-    "dataInserimento": "2026-11-17T16:08:04.745Z",
-    "dataAcquisto": "2026-11-17T18:23:07.533Z",
-    "compratore": "Fabrizio"
-  },
-  {
     "id": "c51ccbfa-5f46-447a-a4f2-71bffd2d4d25",
     "prodotto": "Rotoli",
     "quantita": 1,
