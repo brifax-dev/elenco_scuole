@@ -25,5 +25,14 @@
     "dataInserimento": "2026-11-17T16:08:35.775Z",
     "dataAcquisto": "",
     "compratore": ""
+  },
+  {
+    "id": "09adb72e-3dab-4f08-93e7-22e43e0b56c2",
+    "prodotto": "Cacao Nesquik",
+    "quantita": 1,
+    "richiedente": "Giulia",
+    "dataInserimento": "2026-11-21T09:12:03.617Z",
+    "dataAcquisto": "",
+    "compratore": ""
   }
 ]
