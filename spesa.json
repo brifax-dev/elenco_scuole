@@ -52,5 +52,14 @@
     "dataInserimento": "2026-11-21T09:12:23.113Z",
     "dataAcquisto": "",
     "compratore": ""
+  },
+  {
+    "id": "04b9d21f-3399-4c18-8a34-341bd8386d08",
+    "prodotto": "Kinder cars",
+    "quantita": 1,
+    "richiedente": "Giulia",
+    "dataInserimento": "2026-11-21T09:14:38.284Z",
+    "dataAcquisto": "",
+    "compratore": ""
   }
 ]
