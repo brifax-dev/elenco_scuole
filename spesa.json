@@ -43,5 +43,14 @@
     "dataInserimento": "2026-11-21T09:12:12.458Z",
     "dataAcquisto": "",
     "compratore": ""
+  },
+  {
+    "id": "983c891d-9d72-4472-811b-0f4f596da480",
+    "prodotto": "Banane",
+    "quantita": 1,
+    "richiedente": "Giulia",
+    "dataInserimento": "2026-11-21T09:12:23.113Z",
+    "dataAcquisto": "",
+    "compratore": ""
   }
 ]
