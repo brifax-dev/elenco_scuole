@@ -3,10 +3,10 @@
     "nome": "RASTA PANTHERS",
     "proprietario": "Gabrio",
     "url": "https://fantabasketlive09.blogfree.net/?t=6378040",
-    "creditiRimanenti": 29,
-    "creditiSpesi": 342,
+    "creditiRimanenti": 30,
+    "creditiSpesi": 343,
     "bonusMercato": 50,
-    "recuperoCreditiTagli": 21,
+    "recuperoCreditiTagli": 23,
     "giocatori": [
       {
         "ruolo": "G",
@@ -33,7 +33,7 @@
         "codice": "9009/aljami-durham",
         "crediti": 5,
         "riconfermato": false,
-        "stato": "Attivo",
+        "stato": "Ceduto",
         "italiano": "no"
       },
       {
@@ -179,16 +179,25 @@
         "riconfermato": false,
         "stato": "Attivo",
         "italiano": "no"
+      },
+      {
+        "ruolo": "G",
+        "giocatore": "McDOWELL-WHITE William",
+        "codice": "9336/william-mcdowell-white",
+        "crediti": 1,
+        "riconfermato": false,
+        "stato": "Attivo",
+        "italiano": "no"
       }
     ],
-    "forumLetto": "2026-11-05T08:13:00.000Z"
+    "forumLetto": "2026-11-19T08:16:00.000Z"
   },
   {
     "nome": "MONZA A SPICCHI",
     "proprietario": "bruno21",
     "url": "https://fantabasketlive09.blogfree.net/?t=6301941",
-    "creditiRimanenti": 56,
-    "creditiSpesi": 325,
+    "creditiRimanenti": 55,
+    "creditiSpesi": 326,
     "bonusMercato": 50,
     "recuperoCreditiTagli": 31,
     "giocatori": [
@@ -363,7 +372,7 @@
         "codice": "7428/nate-renfro",
         "crediti": 1,
         "riconfermato": false,
-        "stato": "Attivo",
+        "stato": "Ceduto",
         "italiano": "no"
       },
       {
@@ -383,9 +392,18 @@
         "riconfermato": false,
         "stato": "Attivo",
         "italiano": "no"
+      },
+      {
+        "ruolo": "G",
+        "giocatore": "SMITH Mike",
+        "codice": "",
+        "crediti": 1,
+        "riconfermato": false,
+        "stato": "Attivo",
+        "italiano": "no"
       }
     ],
-    "forumLetto": "2026-11-05T08:14:00.000Z"
+    "forumLetto": "2026-11-22T11:50:00.000Z"
   },
   {
     "nome": "DRINK TEAM",
@@ -1119,10 +1137,10 @@
     "nome": "CASORZO LAKERS",
     "proprietario": "pazzoide198",
     "url": "https://fantabasketlive09.blogfree.net/?t=3692765",
-    "creditiRimanenti": 49,
-    "creditiSpesi": 335,
+    "creditiRimanenti": 60,
+    "creditiSpesi": 336,
     "bonusMercato": 50,
-    "recuperoCreditiTagli": 34,
+    "recuperoCreditiTagli": 46,
     "giocatori": [
       {
         "ruolo": "G",
@@ -1184,7 +1202,7 @@
         "codice": "6142/john-petrucelli",
         "crediti": 25,
         "riconfermato": false,
-        "stato": "Attivo",
+        "stato": "Ceduto",
         "italiano": "si"
       },
       {
@@ -1344,9 +1362,18 @@
         "riconfermato": false,
         "stato": "Ceduto",
         "italiano": "no"
+      },
+      {
+        "ruolo": "A",
+        "giocatore": "DEANGELI Lodovico",
+        "codice": "1592/lodovico-deangeli",
+        "crediti": 1,
+        "riconfermato": false,
+        "stato": "Attivo",
+        "italiano": "si"
       }
     ],
-    "forumLetto": "2026-11-11T09:03:00.000Z"
+    "forumLetto": "2026-11-21T12:34:00.000Z"
   },
   {
     "nome": "FURLEEE",
