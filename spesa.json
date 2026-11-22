@@ -79,5 +79,14 @@
     "dataInserimento": "2026-11-22T16:55:21.888Z",
     "dataAcquisto": "",
     "compratore": ""
+  },
+  {
+    "id": "48d5ded2-22ac-481b-ad7c-df1cd805a1e2",
+    "prodotto": "Senape",
+    "quantita": 1,
+    "richiedente": "Fabrizio",
+    "dataInserimento": "2026-11-22T20:13:28.937Z",
+    "dataAcquisto": "",
+    "compratore": ""
   }
 ]
