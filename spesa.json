@@ -97,5 +97,14 @@
     "dataInserimento": "2026-11-22T20:13:55.697Z",
     "dataAcquisto": "",
     "compratore": ""
+  },
+  {
+    "id": "8be491ae-892d-466f-9459-098f5203d8d8",
+    "prodotto": "Maionese",
+    "quantita": 1,
+    "richiedente": "Fabrizio",
+    "dataInserimento": "2026-11-22T20:14:27.469Z",
+    "dataAcquisto": "",
+    "compratore": ""
   }
 ]
