@@ -454,5 +454,62 @@
         "punti": 98
       }
     ]
+  },
+  {
+    "turno": 9,
+    "url": "",
+    "serie": "Champions",
+    "classifica": [
+      {
+        "posizione": 1,
+        "squadra": "La Effe",
+        "punti": 134
+      },
+      {
+        "posizione": 2,
+        "squadra": "Famostrano",
+        "punti": 128
+      },
+      {
+        "posizione": 3,
+        "squadra": "Maccabi Ruero",
+        "punti": 123
+      },
+      {
+        "posizione": 4,
+        "squadra": "CSKA Basket",
+        "punti": 120
+      },
+      {
+        "posizione": 5,
+        "squadra": "TT Saronno",
+        "punti": 110
+      },
+      {
+        "posizione": 6,
+        "squadra": "PBK Dinamo Ronco",
+        "punti": 109
+      },
+      {
+        "posizione": 6,
+        "squadra": "Efsane Ҫuko",
+        "punti": 109
+      },
+      {
+        "posizione": 8,
+        "squadra": "Drink Team",
+        "punti": 108
+      },
+      {
+        "posizione": 9,
+        "squadra": "Casorzo Lakers",
+        "punti": 104
+      },
+      {
+        "posizione": 10,
+        "squadra": "Furleee",
+        "punti": 101
+      }
+    ]
   }
 ]
