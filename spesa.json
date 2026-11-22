@@ -88,5 +88,14 @@
     "dataInserimento": "2026-11-22T20:13:28.937Z",
     "dataAcquisto": "",
     "compratore": ""
+  },
+  {
+    "id": "15f28bbe-cf77-40fc-8a27-250b86665a71",
+    "prodotto": "Ketchup",
+    "quantita": 1,
+    "richiedente": "Fabrizio",
+    "dataInserimento": "2026-11-22T20:13:55.697Z",
+    "dataAcquisto": "",
+    "compratore": ""
   }
 ]
