@@ -70,5 +70,14 @@
     "dataInserimento": "2026-11-22T16:53:07.259Z",
     "dataAcquisto": "",
     "compratore": ""
+  },
+  {
+    "id": "bba51018-8a41-44e5-a69b-5029b3649cd9",
+    "prodotto": "Cornetti vuoti dell' Eurospin",
+    "quantita": 1,
+    "richiedente": "Giulia",
+    "dataInserimento": "2026-11-22T16:55:21.888Z",
+    "dataAcquisto": "",
+    "compratore": ""
   }
 ]
