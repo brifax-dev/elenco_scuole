@@ -7,10 +7,10 @@
       "giornate": 9,
       "vinte": 8,
       "perse": 1,
-      "puntiFatti": 1077,
+      "puntiFatti": 1087,
       "puntiSubiti": 929,
-      "differenza": 148,
-      "mediaPuntiFatti": 119.7,
+      "differenza": 158,
+      "mediaPuntiFatti": 120.8,
       "mediaPuntiSubiti": 103.2,
       "trend": "="
     },
@@ -22,10 +22,10 @@
       "vinte": 6,
       "perse": 3,
       "puntiFatti": 938,
-      "puntiSubiti": 874,
-      "differenza": 64,
+      "puntiSubiti": 870,
+      "differenza": 68,
       "mediaPuntiFatti": 104.2,
-      "mediaPuntiSubiti": 97.1,
+      "mediaPuntiSubiti": 96.7,
       "trend": "="
     },
     {
@@ -50,10 +50,10 @@
       "vinte": 4,
       "perse": 5,
       "puntiFatti": 892,
-      "puntiSubiti": 926,
-      "differenza": -34,
+      "puntiSubiti": 930,
+      "differenza": -38,
       "mediaPuntiFatti": 99.1,
-      "mediaPuntiSubiti": 102.9,
+      "mediaPuntiSubiti": 103.3,
       "trend": "="
     },
     {
@@ -63,10 +63,10 @@
       "giornate": 9,
       "vinte": 4,
       "perse": 5,
-      "puntiFatti": 887,
+      "puntiFatti": 891,
       "puntiSubiti": 833,
-      "differenza": 54,
-      "mediaPuntiFatti": 98.6,
+      "differenza": 58,
+      "mediaPuntiFatti": 99,
       "mediaPuntiSubiti": 92.6,
       "trend": "▲"
     },
@@ -91,10 +91,10 @@
       "giornate": 9,
       "vinte": 3,
       "perse": 6,
-      "puntiFatti": 804,
+      "puntiFatti": 800,
       "puntiSubiti": 928,
-      "differenza": -124,
-      "mediaPuntiFatti": 89.3,
+      "differenza": -128,
+      "mediaPuntiFatti": 88.9,
       "mediaPuntiSubiti": 103.1,
       "trend": "="
     },
@@ -106,10 +106,10 @@
       "vinte": 2,
       "perse": 7,
       "puntiFatti": 816,
-      "puntiSubiti": 910,
-      "differenza": -94,
+      "puntiSubiti": 920,
+      "differenza": -104,
       "mediaPuntiFatti": 90.7,
-      "mediaPuntiSubiti": 101.1,
+      "mediaPuntiSubiti": 102.2,
       "trend": "="
     }
   ],
@@ -117,8 +117,8 @@
     {
       "statistica": "MIGLIOR ATTACCO",
       "squadra": "CSKA Basket",
-      "punti": 1077,
-      "media": 119.7
+      "punti": 1087,
+      "media": 120.8
     },
     {
       "statistica": "MIGLIOR DIFESA",
@@ -129,14 +129,14 @@
     {
       "statistica": "MIGLIOR DIFFERENZA CANESTRI",
       "squadra": "CSKA Basket",
-      "punti": 148,
-      "media": 16.4
+      "punti": 158,
+      "media": 17.6
     },
     {
       "statistica": "PEGGIOR ATTACCO",
       "squadra": "Rasta Panthers",
-      "punti": 804,
-      "media": 89.3
+      "punti": 800,
+      "media": 88.9
     },
     {
       "statistica": "PEGGIOR DIFESA",
@@ -147,8 +147,8 @@
     {
       "statistica": "PEGGIOR DIFFERENZA CANESTRI",
       "squadra": "Rasta Panthers",
-      "punti": -124,
-      "media": -13.8
+      "punti": -128,
+      "media": -14.2
     }
   ],
   "classificaMarcatori": {
