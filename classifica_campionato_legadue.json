@@ -8,10 +8,10 @@
       "vinte": 8,
       "perse": 1,
       "puntiFatti": 1042,
-      "puntiSubiti": 767,
-      "differenza": 275,
+      "puntiSubiti": 775,
+      "differenza": 267,
       "mediaPuntiFatti": 115.8,
-      "mediaPuntiSubiti": 85.2,
+      "mediaPuntiSubiti": 86.1,
       "trend": "="
     },
     {
@@ -77,10 +77,10 @@
       "giornate": 9,
       "vinte": 4,
       "perse": 5,
-      "puntiFatti": 818,
+      "puntiFatti": 826,
       "puntiSubiti": 885,
-      "differenza": -67,
-      "mediaPuntiFatti": 90.9,
+      "differenza": -59,
+      "mediaPuntiFatti": 91.8,
       "mediaPuntiSubiti": 98.3,
       "trend": "▼"
     },
@@ -92,10 +92,10 @@
       "vinte": 3,
       "perse": 6,
       "puntiFatti": 897,
-      "puntiSubiti": 842,
-      "differenza": 55,
+      "puntiSubiti": 852,
+      "differenza": 45,
       "mediaPuntiFatti": 99.7,
-      "mediaPuntiSubiti": 93.6,
+      "mediaPuntiSubiti": 94.7,
       "trend": "="
     },
     {
@@ -105,10 +105,10 @@
       "giornate": 9,
       "vinte": 2,
       "perse": 7,
-      "puntiFatti": 763,
+      "puntiFatti": 773,
       "puntiSubiti": 1012,
-      "differenza": -249,
-      "mediaPuntiFatti": 84.8,
+      "differenza": -239,
+      "mediaPuntiFatti": 85.9,
       "mediaPuntiSubiti": 112.4,
       "trend": "="
     }
@@ -123,20 +123,20 @@
     {
       "statistica": "MIGLIOR DIFESA",
       "squadra": "Famostrano",
-      "punti": 767,
-      "media": 85.2
+      "punti": 775,
+      "media": 86.1
     },
     {
       "statistica": "MIGLIOR DIFFERENZA CANESTRI",
       "squadra": "Famostrano",
-      "punti": 275,
-      "media": 30.6
+      "punti": 267,
+      "media": 29.7
     },
     {
       "statistica": "PEGGIOR ATTACCO",
       "squadra": "Spritz n Roll",
-      "punti": 763,
-      "media": 84.8
+      "punti": 773,
+      "media": 85.9
     },
     {
       "statistica": "PEGGIOR DIFESA",
@@ -147,8 +147,8 @@
     {
       "statistica": "PEGGIOR DIFFERENZA CANESTRI",
       "squadra": "Spritz n Roll",
-      "punti": -249,
-      "media": -27.7
+      "punti": -239,
+      "media": -26.6
     }
   ],
   "classificaMarcatori": {
