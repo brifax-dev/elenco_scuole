@@ -1,41 +1,5 @@
 [
   {
-    "id": "50f647d7-8022-4a03-8412-d408fbdf6d4f",
-    "prodotto": "Kinder pane cioc",
-    "quantita": 4,
-    "richiedente": "Fabrizio",
-    "dataInserimento": "2026-11-15T12:24:05.197Z",
-    "dataAcquisto": "2026-11-22T16:52:31.667Z",
-    "compratore": "Giulia"
-  },
-  {
-    "id": "877d9322-97a0-4242-83fc-ceecfa6410c6",
-    "prodotto": "Prosciutto cotto",
-    "quantita": 1,
-    "richiedente": "Fabrizio",
-    "dataInserimento": "2026-11-17T16:06:13.349Z",
-    "dataAcquisto": "2026-11-22T16:52:11.482Z",
-    "compratore": "Giulia"
-  },
-  {
-    "id": "c51ccbfa-5f46-447a-a4f2-71bffd2d4d25",
-    "prodotto": "Rotoli",
-    "quantita": 1,
-    "richiedente": "Fabrizio",
-    "dataInserimento": "2026-11-17T16:08:35.775Z",
-    "dataAcquisto": "2026-11-22T16:52:35.677Z",
-    "compratore": "Giulia"
-  },
-  {
-    "id": "09adb72e-3dab-4f08-93e7-22e43e0b56c2",
-    "prodotto": "Cacao Nesquik",
-    "quantita": 1,
-    "richiedente": "Giulia",
-    "dataInserimento": "2026-11-21T09:12:03.617Z",
-    "dataAcquisto": "2026-11-22T16:52:03.178Z",
-    "compratore": "Giulia"
-  },
-  {
     "id": "f131dad1-206c-4ae9-aff7-f22efd442eea",
     "prodotto": "Noci",
     "quantita": 1,
@@ -52,15 +16,6 @@
     "dataInserimento": "2026-11-21T09:12:23.113Z",
     "dataAcquisto": "2026-11-23T14:35:20.711Z",
     "compratore": "Fabrizio"
-  },
-  {
-    "id": "0965f7ce-95aa-4776-8859-c91f75d82f4f",
-    "prodotto": "Kinder Cars",
-    "quantita": 1,
-    "richiedente": "Giulia",
-    "dataInserimento": "2026-11-21T09:14:52.660Z",
-    "dataAcquisto": "2026-11-22T16:52:39.978Z",
-    "compratore": "Giulia"
   },
   {
     "id": "05a248de-44d4-411a-b2c1-d755681fe670",
