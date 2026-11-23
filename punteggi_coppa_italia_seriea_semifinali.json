@@ -1,0 +1,286 @@
+{
+  "turno": "Semifinali",
+  "serie": "Coppa Italia Serie A",
+  "giocatori": [
+    {
+      "squadra": "PBK Dinamo Ronco",
+      "giocatore": "Olivari Quincy",
+      "valutazione": 36,
+      "minuti": 30,
+      "valutazione_reale": 36
+    },
+    {
+      "squadra": "PBK Dinamo Ronco",
+      "giocatore": "Vital Christian",
+      "valutazione": 18,
+      "minuti": 21,
+      "valutazione_reale": 18
+    },
+    {
+      "squadra": "PBK Dinamo Ronco",
+      "giocatore": "Ramsey Jahmi'us",
+      "valutazione": 21,
+      "minuti": 28,
+      "valutazione_reale": 21
+    },
+    {
+      "squadra": "PBK Dinamo Ronco",
+      "giocatore": "Flagg Savion",
+      "valutazione": -9,
+      "minuti": 25,
+      "valutazione_reale": -9
+    },
+    {
+      "squadra": "PBK Dinamo Ronco",
+      "giocatore": "Anigbogu Ike",
+      "valutazione": 15,
+      "minuti": 26,
+      "valutazione_reale": 15
+    },
+    {
+      "squadra": "PBK Dinamo Ronco",
+      "giocatore": "Battle Raequan",
+      "valutazione": 18,
+      "minuti": 28,
+      "valutazione_reale": 18
+    },
+    {
+      "squadra": "PBK Dinamo Ronco",
+      "giocatore": "Calzavara Andrea",
+      "valutazione": 10,
+      "minuti": 26,
+      "valutazione_reale": 10
+    },
+    {
+      "squadra": "PBK Dinamo Ronco",
+      "giocatore": "McDermott Sean",
+      "valutazione": 6,
+      "minuti": 36,
+      "valutazione_reale": 6
+    },
+    {
+      "squadra": "PBK Dinamo Ronco",
+      "giocatore": "Alviti Davide",
+      "valutazione": 21,
+      "minuti": 27,
+      "valutazione_reale": 21
+    },
+    {
+      "squadra": "PBK Dinamo Ronco",
+      "giocatore": "Candussi Francesco",
+      "valutazione": 2,
+      "minuti": 9,
+      "valutazione_reale": 2
+    },
+    {
+      "squadra": "Monza a Spicchi",
+      "giocatore": "Maddox Dante",
+      "valutazione": 18,
+      "minuti": 20,
+      "valutazione_reale": 18
+    },
+    {
+      "squadra": "Monza a Spicchi",
+      "giocatore": "Galloway Langston",
+      "valutazione": 14,
+      "minuti": 30,
+      "valutazione_reale": 14
+    },
+    {
+      "squadra": "Monza a Spicchi",
+      "giocatore": "Macura JP",
+      "valutazione": 6,
+      "minuti": 7,
+      "valutazione_reale": 6
+    },
+    {
+      "squadra": "Monza a Spicchi",
+      "giocatore": "Olisevicius Osvaldas",
+      "valutazione": 14,
+      "minuti": 33,
+      "valutazione_reale": 14
+    },
+    {
+      "squadra": "Monza a Spicchi",
+      "giocatore": "Olynyk Kelly",
+      "valutazione": 3,
+      "minuti": 19,
+      "valutazione_reale": 3
+    },
+    {
+      "squadra": "Monza a Spicchi",
+      "giocatore": "Cole R.J.",
+      "valutazione": 4,
+      "minuti": 20,
+      "valutazione_reale": 4
+    },
+    {
+      "squadra": "Monza a Spicchi",
+      "giocatore": "Moraschini Riccardo",
+      "valutazione": -2,
+      "minuti": 22,
+      "valutazione_reale": -2
+    },
+    {
+      "squadra": "Monza a Spicchi",
+      "giocatore": "Alibegovic Mirza",
+      "valutazione": 17,
+      "minuti": 25,
+      "valutazione_reale": 17
+    },
+    {
+      "squadra": "Monza a Spicchi",
+      "giocatore": "Parks Jordan",
+      "valutazione": 3,
+      "minuti": 26,
+      "valutazione_reale": 3
+    },
+    {
+      "squadra": "Monza a Spicchi",
+      "giocatore": "Caruso Guglielmo",
+      "valutazione": 3,
+      "minuti": 13,
+      "valutazione_reale": 3
+    },
+    {
+      "squadra": "Drink Team",
+      "giocatore": "Russell DeWayne",
+      "valutazione": 26,
+      "minuti": 36,
+      "valutazione_reale": 26
+    },
+    {
+      "squadra": "Drink Team",
+      "giocatore": "Rice Sir'Jabari",
+      "valutazione": 3,
+      "minuti": 7,
+      "valutazione_reale": 3
+    },
+    {
+      "squadra": "Drink Team",
+      "giocatore": "Hale Hunter",
+      "valutazione": 23,
+      "minuti": 27,
+      "valutazione_reale": 23
+    },
+    {
+      "squadra": "Drink Team",
+      "giocatore": "White Jack",
+      "valutazione": 12,
+      "minuti": 21,
+      "valutazione_reale": 12
+    },
+    {
+      "squadra": "Drink Team",
+      "giocatore": "Olejniczak Dominik",
+      "valutazione": 15,
+      "minuti": 19,
+      "valutazione_reale": 15
+    },
+    {
+      "squadra": "Drink Team",
+      "giocatore": "Mascolo Bruno",
+      "valutazione": 13,
+      "minuti": 30,
+      "valutazione_reale": 13
+    },
+    {
+      "squadra": "Drink Team",
+      "giocatore": "Watson Glynn",
+      "valutazione": 13,
+      "minuti": 28,
+      "valutazione_reale": 13
+    },
+    {
+      "squadra": "Drink Team",
+      "giocatore": "Veronesi Giovanni",
+      "valutazione": 7,
+      "minuti": 25,
+      "valutazione_reale": 7
+    },
+    {
+      "squadra": "Drink Team",
+      "giocatore": "Offurum Mezie",
+      "valutazione": 15,
+      "minuti": 29,
+      "valutazione_reale": 15
+    },
+    {
+      "squadra": "Drink Team",
+      "giocatore": "Eboua Paul",
+      "valutazione": 3,
+      "minuti": 20,
+      "valutazione_reale": 3
+    },
+    {
+      "squadra": "Rasta Panthers",
+      "giocatore": "McDowell-White William",
+      "valutazione": 6,
+      "minuti": 14,
+      "valutazione_reale": 6
+    },
+    {
+      "squadra": "Rasta Panthers",
+      "giocatore": "Caupain Troy",
+      "valutazione": 22,
+      "minuti": 32,
+      "valutazione_reale": 22
+    },
+    {
+      "squadra": "Rasta Panthers",
+      "giocatore": "Cappelletti Alessandro",
+      "valutazione": 12,
+      "minuti": 30,
+      "valutazione_reale": 12
+    },
+    {
+      "squadra": "Rasta Panthers",
+      "giocatore": "Burnell Jason",
+      "valutazione": 9,
+      "minuti": 19,
+      "valutazione_reale": 9
+    },
+    {
+      "squadra": "Rasta Panthers",
+      "giocatore": "McGlynn Nick",
+      "valutazione": 2,
+      "minuti": 14,
+      "valutazione_reale": 2
+    },
+    {
+      "squadra": "Rasta Panthers",
+      "giocatore": "Davis Corey",
+      "valutazione": 15,
+      "minuti": 30,
+      "valutazione_reale": 15
+    },
+    {
+      "squadra": "Rasta Panthers",
+      "giocatore": "Bucarelli Lorenzo",
+      "valutazione": 13,
+      "minuti": 22,
+      "valutazione_reale": 13
+    },
+    {
+      "squadra": "Rasta Panthers",
+      "giocatore": "Pecchia Andrea",
+      "valutazione": 6,
+      "minuti": 10,
+      "valutazione_reale": 6
+    },
+    {
+      "squadra": "Rasta Panthers",
+      "giocatore": "Barford Jaylen",
+      "valutazione": 4,
+      "minuti": 28,
+      "valutazione_reale": 4
+    },
+    {
+      "squadra": "Rasta Panthers",
+      "giocatore": "Spencer Skylar",
+      "valutazione": 10,
+      "minuti": 26,
+      "valutazione_reale": 10
+    }
+  ]
+}
