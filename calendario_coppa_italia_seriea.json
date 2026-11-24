@@ -34,14 +34,14 @@
       {
         "casa": "PBK Dinamo Ronco",
         "trasferta": "Monza a Spicchi",
-        "punteggioCasa": "138",
-        "punteggioTrasferta": "80"
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Drink Team",
         "trasferta": "Rasta Panthers",
-        "punteggioCasa": "130",
-        "punteggioTrasferta": "99"
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       }
     ]
   },
@@ -49,14 +49,14 @@
     "fase": "Finali",
     "partite": [
       {
-        "casa": "PBK Dinamo Ronco",
-        "trasferta": "Drink Team",
+        "casa": "",
+        "trasferta": "",
         "punteggioCasa": "",
         "punteggioTrasferta": ""
       },
       {
-        "casa": "Monza a Spicchi",
-        "trasferta": "Rasta Panthers",
+        "casa": "",
+        "trasferta": "",
         "punteggioCasa": "",
         "punteggioTrasferta": ""
       }
