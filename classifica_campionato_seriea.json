@@ -7,11 +7,11 @@
       "giornate": 9,
       "vinte": 8,
       "perse": 1,
-      "puntiFatti": 1087,
-      "puntiSubiti": 929,
-      "differenza": 158,
-      "mediaPuntiFatti": 120.8,
-      "mediaPuntiSubiti": 103.2,
+      "puntiFatti": 1089,
+      "puntiSubiti": 932,
+      "differenza": 157,
+      "mediaPuntiFatti": 121,
+      "mediaPuntiSubiti": 103.6,
       "trend": "="
     },
     {
@@ -21,11 +21,11 @@
       "giornate": 9,
       "vinte": 6,
       "perse": 3,
-      "puntiFatti": 938,
-      "puntiSubiti": 870,
-      "differenza": 68,
-      "mediaPuntiFatti": 104.2,
-      "mediaPuntiSubiti": 96.7,
+      "puntiFatti": 943,
+      "puntiSubiti": 871,
+      "differenza": 72,
+      "mediaPuntiFatti": 104.8,
+      "mediaPuntiSubiti": 96.8,
       "trend": "="
     },
     {
@@ -36,39 +36,39 @@
       "vinte": 5,
       "perse": 4,
       "puntiFatti": 955,
-      "puntiSubiti": 887,
-      "differenza": 68,
+      "puntiSubiti": 890,
+      "differenza": 65,
       "mediaPuntiFatti": 106.1,
-      "mediaPuntiSubiti": 98.6,
+      "mediaPuntiSubiti": 98.9,
       "trend": "="
     },
     {
       "posizione": 4,
-      "squadra": "Monza a Spicchi",
-      "punti": 8,
-      "giornate": 9,
-      "vinte": 4,
-      "perse": 5,
-      "puntiFatti": 892,
-      "puntiSubiti": 930,
-      "differenza": -38,
-      "mediaPuntiFatti": 99.1,
-      "mediaPuntiSubiti": 103.3,
-      "trend": "="
-    },
-    {
-      "posizione": 5,
       "squadra": "Furleee",
       "punti": 8,
       "giornate": 9,
       "vinte": 4,
       "perse": 5,
       "puntiFatti": 891,
-      "puntiSubiti": 833,
-      "differenza": 58,
+      "puntiSubiti": 829,
+      "differenza": 62,
       "mediaPuntiFatti": 99,
-      "mediaPuntiSubiti": 92.6,
+      "mediaPuntiSubiti": 92.1,
       "trend": "▲"
+    },
+    {
+      "posizione": 5,
+      "squadra": "Monza a Spicchi",
+      "punti": 8,
+      "giornate": 9,
+      "vinte": 4,
+      "perse": 5,
+      "puntiFatti": 888,
+      "puntiSubiti": 930,
+      "differenza": -42,
+      "mediaPuntiFatti": 98.7,
+      "mediaPuntiSubiti": 103.3,
+      "trend": "▼"
     },
     {
       "posizione": 6,
@@ -77,10 +77,10 @@
       "giornate": 9,
       "vinte": 4,
       "perse": 5,
-      "puntiFatti": 865,
+      "puntiFatti": 868,
       "puntiSubiti": 947,
-      "differenza": -82,
-      "mediaPuntiFatti": 96.1,
+      "differenza": -79,
+      "mediaPuntiFatti": 96.4,
       "mediaPuntiSubiti": 105.2,
       "trend": "▼"
     },
@@ -91,11 +91,11 @@
       "giornate": 9,
       "vinte": 3,
       "perse": 6,
-      "puntiFatti": 800,
-      "puntiSubiti": 928,
-      "differenza": -128,
-      "mediaPuntiFatti": 88.9,
-      "mediaPuntiSubiti": 103.1,
+      "puntiFatti": 801,
+      "puntiSubiti": 933,
+      "differenza": -132,
+      "mediaPuntiFatti": 89,
+      "mediaPuntiSubiti": 103.7,
       "trend": "="
     },
     {
@@ -105,11 +105,11 @@
       "giornate": 9,
       "vinte": 2,
       "perse": 7,
-      "puntiFatti": 816,
-      "puntiSubiti": 920,
-      "differenza": -104,
-      "mediaPuntiFatti": 90.7,
-      "mediaPuntiSubiti": 102.2,
+      "puntiFatti": 819,
+      "puntiSubiti": 922,
+      "differenza": -103,
+      "mediaPuntiFatti": 91,
+      "mediaPuntiSubiti": 102.4,
       "trend": "="
     }
   ],
@@ -117,26 +117,26 @@
     {
       "statistica": "MIGLIOR ATTACCO",
       "squadra": "CSKA Basket",
-      "punti": 1087,
-      "media": 120.8
+      "punti": 1089,
+      "media": 121
     },
     {
       "statistica": "MIGLIOR DIFESA",
       "squadra": "Furleee",
-      "punti": 833,
-      "media": 92.6
+      "punti": 829,
+      "media": 92.1
     },
     {
       "statistica": "MIGLIOR DIFFERENZA CANESTRI",
       "squadra": "CSKA Basket",
-      "punti": 158,
-      "media": 17.6
+      "punti": 157,
+      "media": 17.4
     },
     {
       "statistica": "PEGGIOR ATTACCO",
       "squadra": "Rasta Panthers",
-      "punti": 800,
-      "media": 88.9
+      "punti": 801,
+      "media": 89
     },
     {
       "statistica": "PEGGIOR DIFESA",
@@ -147,8 +147,8 @@
     {
       "statistica": "PEGGIOR DIFFERENZA CANESTRI",
       "squadra": "Rasta Panthers",
-      "punti": -128,
-      "media": -14.2
+      "punti": -132,
+      "media": -14.7
     }
   ],
   "classificaMarcatori": {
