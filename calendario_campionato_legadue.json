@@ -246,26 +246,26 @@
       {
         "casa": "TT Saronno",
         "trasferta": "Brifax Lecce",
-        "punteggioCasa": "115",
-        "punteggioTrasferta": "85"
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "OBA",
         "trasferta": "Famostrano",
-        "punteggioCasa": "65",
-        "punteggioTrasferta": "128"
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "Efsane Ҫuko",
         "trasferta": "Cag8 Team",
-        "punteggioCasa": "114",
-        "punteggioTrasferta": "77"
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       },
       {
         "casa": "La Effe",
         "trasferta": "Spritz n Roll",
-        "punteggioCasa": "139",
-        "punteggioTrasferta": "80"
+        "punteggioCasa": "",
+        "punteggioTrasferta": ""
       }
     ]
   },
