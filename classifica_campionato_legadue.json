@@ -7,10 +7,10 @@
       "giornate": 9,
       "vinte": 8,
       "perse": 1,
-      "puntiFatti": 1042,
+      "puntiFatti": 1041,
       "puntiSubiti": 775,
-      "differenza": 267,
-      "mediaPuntiFatti": 115.8,
+      "differenza": 266,
+      "mediaPuntiFatti": 115.7,
       "mediaPuntiSubiti": 86.1,
       "trend": "="
     },
@@ -21,11 +21,11 @@
       "giornate": 9,
       "vinte": 6,
       "perse": 3,
-      "puntiFatti": 851,
-      "puntiSubiti": 787,
-      "differenza": 64,
-      "mediaPuntiFatti": 94.6,
-      "mediaPuntiSubiti": 87.4,
+      "puntiFatti": 854,
+      "puntiSubiti": 788,
+      "differenza": 66,
+      "mediaPuntiFatti": 94.9,
+      "mediaPuntiSubiti": 87.6,
       "trend": "▲"
     },
     {
@@ -35,11 +35,11 @@
       "giornate": 9,
       "vinte": 5,
       "perse": 4,
-      "puntiFatti": 850,
-      "puntiSubiti": 827,
-      "differenza": 23,
-      "mediaPuntiFatti": 94.4,
-      "mediaPuntiSubiti": 91.9,
+      "puntiFatti": 849,
+      "puntiSubiti": 824,
+      "differenza": 25,
+      "mediaPuntiFatti": 94.3,
+      "mediaPuntiSubiti": 91.6,
       "trend": "▼"
     },
     {
@@ -49,11 +49,11 @@
       "giornate": 9,
       "vinte": 4,
       "perse": 5,
-      "puntiFatti": 865,
-      "puntiSubiti": 912,
-      "differenza": -47,
-      "mediaPuntiFatti": 96.1,
-      "mediaPuntiSubiti": 101.3,
+      "puntiFatti": 866,
+      "puntiSubiti": 915,
+      "differenza": -49,
+      "mediaPuntiFatti": 96.2,
+      "mediaPuntiSubiti": 101.7,
       "trend": "="
     },
     {
@@ -63,11 +63,11 @@
       "giornate": 9,
       "vinte": 4,
       "perse": 5,
-      "puntiFatti": 851,
-      "puntiSubiti": 905,
-      "differenza": -54,
-      "mediaPuntiFatti": 94.6,
-      "mediaPuntiSubiti": 100.6,
+      "puntiFatti": 848,
+      "puntiSubiti": 904,
+      "differenza": -56,
+      "mediaPuntiFatti": 94.2,
+      "mediaPuntiSubiti": 100.4,
       "trend": "▲"
     },
     {
@@ -78,10 +78,10 @@
       "vinte": 4,
       "perse": 5,
       "puntiFatti": 826,
-      "puntiSubiti": 885,
-      "differenza": -59,
+      "puntiSubiti": 884,
+      "differenza": -58,
       "mediaPuntiFatti": 91.8,
-      "mediaPuntiSubiti": 98.3,
+      "mediaPuntiSubiti": 98.2,
       "trend": "▼"
     },
     {
@@ -91,11 +91,11 @@
       "giornate": 9,
       "vinte": 3,
       "perse": 6,
-      "puntiFatti": 897,
-      "puntiSubiti": 852,
-      "differenza": 45,
-      "mediaPuntiFatti": 99.7,
-      "mediaPuntiSubiti": 94.7,
+      "puntiFatti": 902,
+      "puntiSubiti": 856,
+      "differenza": 46,
+      "mediaPuntiFatti": 100.2,
+      "mediaPuntiSubiti": 95.1,
       "trend": "="
     },
     {
@@ -105,11 +105,11 @@
       "giornate": 9,
       "vinte": 2,
       "perse": 7,
-      "puntiFatti": 773,
-      "puntiSubiti": 1012,
-      "differenza": -239,
-      "mediaPuntiFatti": 85.9,
-      "mediaPuntiSubiti": 112.4,
+      "puntiFatti": 777,
+      "puntiSubiti": 1017,
+      "differenza": -240,
+      "mediaPuntiFatti": 86.3,
+      "mediaPuntiSubiti": 113,
       "trend": "="
     }
   ],
@@ -117,8 +117,8 @@
     {
       "statistica": "MIGLIOR ATTACCO",
       "squadra": "Famostrano",
-      "punti": 1042,
-      "media": 115.8
+      "punti": 1041,
+      "media": 115.7
     },
     {
       "statistica": "MIGLIOR DIFESA",
@@ -129,26 +129,26 @@
     {
       "statistica": "MIGLIOR DIFFERENZA CANESTRI",
       "squadra": "Famostrano",
-      "punti": 267,
-      "media": 29.7
+      "punti": 266,
+      "media": 29.6
     },
     {
       "statistica": "PEGGIOR ATTACCO",
       "squadra": "Spritz n Roll",
-      "punti": 773,
-      "media": 85.9
+      "punti": 777,
+      "media": 86.3
     },
     {
       "statistica": "PEGGIOR DIFESA",
       "squadra": "Spritz n Roll",
-      "punti": 1012,
-      "media": 112.4
+      "punti": 1017,
+      "media": 113
     },
     {
       "statistica": "PEGGIOR DIFFERENZA CANESTRI",
       "squadra": "Spritz n Roll",
-      "punti": -239,
-      "media": -26.6
+      "punti": -240,
+      "media": -26.7
     }
   ],
   "classificaMarcatori": {
