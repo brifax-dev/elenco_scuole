@@ -34,14 +34,14 @@
       {
         "casa": "Famostrano",
         "trasferta": "OBA",
-        "punteggioCasa": "",
-        "punteggioTrasferta": ""
+        "punteggioCasa": "149",
+        "punteggioTrasferta": "92"
       },
       {
         "casa": "La Effe",
         "trasferta": "Efsane Ҫuko",
-        "punteggioCasa": "",
-        "punteggioTrasferta": ""
+        "punteggioCasa": "150",
+        "punteggioTrasferta": "153"
       }
     ]
   },
@@ -49,14 +49,14 @@
     "fase": "Finali",
     "partite": [
       {
-        "casa": "",
-        "trasferta": "",
+        "casa": "Famostrano",
+        "trasferta": "Efsane Ҫuko",
         "punteggioCasa": "",
         "punteggioTrasferta": ""
       },
       {
-        "casa": "",
-        "trasferta": "",
+        "casa": "OBA",
+        "trasferta": "La Effe",
         "punteggioCasa": "",
         "punteggioTrasferta": ""
       }
