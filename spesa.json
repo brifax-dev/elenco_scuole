@@ -1,23 +1,5 @@
 [
   {
-    "id": "f131dad1-206c-4ae9-aff7-f22efd442eea",
-    "prodotto": "Noci",
-    "quantita": 1,
-    "richiedente": "Giulia",
-    "dataInserimento": "2026-11-21T09:12:12.458Z",
-    "dataAcquisto": "2026-11-23T14:36:27.775Z",
-    "compratore": "Fabrizio"
-  },
-  {
-    "id": "983c891d-9d72-4472-811b-0f4f596da480",
-    "prodotto": "Banane",
-    "quantita": 1,
-    "richiedente": "Giulia",
-    "dataInserimento": "2026-11-21T09:12:23.113Z",
-    "dataAcquisto": "2026-11-23T14:35:20.711Z",
-    "compratore": "Fabrizio"
-  },
-  {
     "id": "05a248de-44d4-411a-b2c1-d755681fe670",
     "prodotto": "Red bull ai FRUTTI DI BOSCO è di colore rosa chiaro",
     "quantita": 1,
@@ -25,41 +7,5 @@
     "dataInserimento": "2026-11-22T16:53:07.259Z",
     "dataAcquisto": "",
     "compratore": ""
-  },
-  {
-    "id": "bba51018-8a41-44e5-a69b-5029b3649cd9",
-    "prodotto": "Cornetti vuoti dell' Eurospin",
-    "quantita": 1,
-    "richiedente": "Giulia",
-    "dataInserimento": "2026-11-22T16:55:21.888Z",
-    "dataAcquisto": "2026-11-23T14:40:32.919Z",
-    "compratore": "Fabrizio"
-  },
-  {
-    "id": "48d5ded2-22ac-481b-ad7c-df1cd805a1e2",
-    "prodotto": "Senape",
-    "quantita": 1,
-    "richiedente": "Fabrizio",
-    "dataInserimento": "2026-11-22T20:13:28.937Z",
-    "dataAcquisto": "2026-11-23T14:35:18.590Z",
-    "compratore": "Fabrizio"
-  },
-  {
-    "id": "15f28bbe-cf77-40fc-8a27-250b86665a71",
-    "prodotto": "Ketchup",
-    "quantita": 1,
-    "richiedente": "Fabrizio",
-    "dataInserimento": "2026-11-22T20:13:55.697Z",
-    "dataAcquisto": "2026-11-23T14:35:16.353Z",
-    "compratore": "Fabrizio"
-  },
-  {
-    "id": "8be491ae-892d-466f-9459-098f5203d8d8",
-    "prodotto": "Maionese",
-    "quantita": 1,
-    "richiedente": "Fabrizio",
-    "dataInserimento": "2026-11-22T20:14:27.469Z",
-    "dataAcquisto": "2026-11-23T14:35:13.990Z",
-    "compratore": "Fabrizio"
   }
 ]
