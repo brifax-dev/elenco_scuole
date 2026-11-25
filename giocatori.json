@@ -1228,5 +1228,29 @@
     "codice": "9452/mehdy-ngouama",
     "italiano": "no",
     "ruolo": "G"
+  },
+  {
+    "nome": "ABASS Awudu Abass",
+    "codice": "1/abass-awudu-abass",
+    "italiano": "si",
+    "ruolo": "A"
+  },
+  {
+    "nome": "SMITH Mike",
+    "codice": "s",
+    "italiano": "no",
+    "ruolo": "G"
+  },
+  {
+    "nome": "LONATI Achille",
+    "codice": "",
+    "italiano": "si",
+    "ruolo": "G"
+  },
+  {
+    "nome": "MINCHEV Yordan",
+    "codice": "",
+    "italiano": "no",
+    "ruolo": "A"
   }
 ]
