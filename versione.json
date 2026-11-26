@@ -1,9 +1,9 @@
 {
-  "versione": "1.0.8",
-  "note": "Completa formazioni (admin): recupera le formazioni mancanti della giornata dal forum o dalla giornata precedente, con il resoconto. Partite: il bonus negativo si mostra come Malus.",
+  "versione": "1.0.9",
+  "note": "Nuova pagina Genera HTML per l'amministratore: genera i tabellini delle giornate in corso con il servizio dei punteggi locale.",
   "download": {
-    "android": "https://github.com/brifax-dev/elenco_scuole/releases/download/app-v1.0.8/Fantabasket-1.0.8.apk",
-    "windows": "https://github.com/brifax-dev/elenco_scuole/releases/download/app-v1.0.8/Fantabasket-1.0.8-windows.zip",
-    "macos": "https://github.com/brifax-dev/elenco_scuole/releases/download/app-v1.0.8/Fantabasket-1.0.8-macos.dmg"
+    "android": "https://github.com/brifax-dev/elenco_scuole/releases/download/app-v1.0.9/Fantabasket-1.0.9.apk",
+    "windows": "https://github.com/brifax-dev/elenco_scuole/releases/download/app-v1.0.9/Fantabasket-1.0.9-windows.zip",
+    "macos": "https://github.com/brifax-dev/elenco_scuole/releases/download/app-v1.0.9/Fantabasket-1.0.9-macos.dmg"
   }
 }
