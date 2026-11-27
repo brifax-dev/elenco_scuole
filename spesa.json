@@ -43,5 +43,14 @@
     "dataInserimento": "2026-11-27T13:53:19.745Z",
     "dataAcquisto": "",
     "compratore": ""
+  },
+  {
+    "id": "2e283c26-2191-4358-bd54-b56b4530708c",
+    "prodotto": "Sakebon pollo",
+    "quantita": 1,
+    "richiedente": "Giulia",
+    "dataInserimento": "2026-11-27T13:54:02.795Z",
+    "dataAcquisto": "",
+    "compratore": ""
   }
 ]
