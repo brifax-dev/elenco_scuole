@@ -88,5 +88,14 @@
     "dataInserimento": "2026-11-27T13:56:50.510Z",
     "dataAcquisto": "",
     "compratore": ""
+  },
+  {
+    "id": "1a4db562-558d-49ed-91f1-e7436dba0f61",
+    "prodotto": "Mozzarella",
+    "quantita": 1,
+    "richiedente": "Giulia",
+    "dataInserimento": "2026-11-27T13:57:37.449Z",
+    "dataAcquisto": "",
+    "compratore": ""
   }
 ]
