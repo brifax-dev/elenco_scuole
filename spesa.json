@@ -106,5 +106,14 @@
     "dataInserimento": "2026-11-27T13:58:48.808Z",
     "dataAcquisto": "",
     "compratore": ""
+  },
+  {
+    "id": "970d18d2-821a-4428-91c4-efbb29d8bf77",
+    "prodotto": "Grottoli",
+    "quantita": 1,
+    "richiedente": "Giulia",
+    "dataInserimento": "2026-11-27T13:58:54.506Z",
+    "dataAcquisto": "",
+    "compratore": ""
   }
 ]
