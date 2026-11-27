@@ -16,5 +16,14 @@
     "dataInserimento": "2026-11-27T13:51:34.881Z",
     "dataAcquisto": "",
     "compratore": ""
+  },
+  {
+    "id": "b2a6e9f9-6cce-4a81-a58c-583eeaa02dc6",
+    "prodotto": "Affettati",
+    "quantita": 1,
+    "richiedente": "Giulia",
+    "dataInserimento": "2026-11-27T13:51:49.532Z",
+    "dataAcquisto": "",
+    "compratore": ""
   }
 ]
