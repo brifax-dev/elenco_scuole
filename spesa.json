@@ -70,5 +70,14 @@
     "dataInserimento": "2026-11-27T13:55:04.468Z",
     "dataAcquisto": "",
     "compratore": ""
+  },
+  {
+    "id": "05ac40c9-9b91-442a-af6f-6c7ce3b1358d",
+    "prodotto": "Nuggets",
+    "quantita": 1,
+    "richiedente": "Giulia",
+    "dataInserimento": "2026-11-27T13:55:09.880Z",
+    "dataAcquisto": "",
+    "compratore": ""
   }
 ]
