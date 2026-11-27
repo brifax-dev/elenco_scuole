@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "id": "ef70dcc0-0268-46cd-82e5-703a9c3b4c5d",
+    "prodotto": "Kinder Cars",
+    "quantita": 3,
+    "richiedente": "Giulia",
+    "dataInserimento": "2026-11-27T13:51:16.911Z",
+    "dataAcquisto": "",
+    "compratore": ""
+  }
+]
