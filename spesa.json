@@ -133,5 +133,14 @@
     "dataInserimento": "2026-11-27T14:00:03.763Z",
     "dataAcquisto": "",
     "compratore": ""
+  },
+  {
+    "id": "e851fa25-8ed3-43dd-8ab3-89f67b05be1b",
+    "prodotto": "Tubbettini (pasta)",
+    "quantita": 1,
+    "richiedente": "Giulia",
+    "dataInserimento": "2026-11-27T14:00:18.528Z",
+    "dataAcquisto": "",
+    "compratore": ""
   }
 ]
