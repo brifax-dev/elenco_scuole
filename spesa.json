@@ -25,5 +25,14 @@
     "dataInserimento": "2026-11-27T13:51:49.532Z",
     "dataAcquisto": "",
     "compratore": ""
+  },
+  {
+    "id": "81c008a5-ba96-4c66-acdb-1b22a13642c6",
+    "prodotto": "Red bull al cocco (al cocco) è di colore bianco",
+    "quantita": 1,
+    "richiedente": "Giulia",
+    "dataInserimento": "2026-11-27T13:52:12.654Z",
+    "dataAcquisto": "",
+    "compratore": ""
   }
 ]
