@@ -79,5 +79,14 @@
     "dataInserimento": "2026-11-27T13:55:09.880Z",
     "dataAcquisto": "",
     "compratore": ""
+  },
+  {
+    "id": "4ebddc1a-caa0-4f1f-94ba-64703d258ecb",
+    "prodotto": "Pollo aromatizzato già pronto all Eurospin (4 polli)",
+    "quantita": 1,
+    "richiedente": "Giulia",
+    "dataInserimento": "2026-11-27T13:56:50.510Z",
+    "dataAcquisto": "",
+    "compratore": ""
   }
 ]
