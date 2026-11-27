@@ -97,5 +97,14 @@
     "dataInserimento": "2026-11-27T13:57:37.449Z",
     "dataAcquisto": "",
     "compratore": ""
+  },
+  {
+    "id": "bfc97fbc-3964-4fca-a2ca-37200b757161",
+    "prodotto": "Latte",
+    "quantita": 2,
+    "richiedente": "Giulia",
+    "dataInserimento": "2026-11-27T13:58:48.808Z",
+    "dataAcquisto": "",
+    "compratore": ""
   }
 ]
