@@ -7,5 +7,14 @@
     "dataInserimento": "2026-11-27T13:51:16.911Z",
     "dataAcquisto": "",
     "compratore": ""
+  },
+  {
+    "id": "f60d86ae-47f6-41b7-a1b4-150bcdbea85f",
+    "prodotto": "Minestrone",
+    "quantita": 1,
+    "richiedente": "Giulia",
+    "dataInserimento": "2026-11-27T13:51:34.881Z",
+    "dataAcquisto": "",
+    "compratore": ""
   }
 ]
