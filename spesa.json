@@ -115,5 +115,14 @@
     "dataInserimento": "2026-11-27T13:58:54.506Z",
     "dataAcquisto": "",
     "compratore": ""
+  },
+  {
+    "id": "62da024c-1b5c-47fd-be57-62c6d73e97cd",
+    "prodotto": "Latte senza lattosio",
+    "quantita": 1,
+    "richiedente": "Giulia",
+    "dataInserimento": "2026-11-27T13:59:05.497Z",
+    "dataAcquisto": "",
+    "compratore": ""
   }
 ]
