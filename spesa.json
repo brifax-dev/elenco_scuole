@@ -61,5 +61,14 @@
     "dataInserimento": "2026-11-27T13:54:10.860Z",
     "dataAcquisto": "",
     "compratore": ""
+  },
+  {
+    "id": "f6b91c8e-911c-421b-859d-9bf0a178b5f1",
+    "prodotto": "Calendario  Kinder Bueno",
+    "quantita": 1,
+    "richiedente": "Giulia",
+    "dataInserimento": "2026-11-27T13:55:04.468Z",
+    "dataAcquisto": "",
+    "compratore": ""
   }
 ]
